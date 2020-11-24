@@ -9,7 +9,7 @@
       "WeaponId": "Kukuri",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling"
@@ -17,7 +17,7 @@
       "Command": [
         [
           {
-            "Key": "2",
+            "Key": "6",
             "Time": 0.2,
             "UTTypes": "NameProperty,FloatProperty"
           },
@@ -50,7 +50,7 @@
       "WeaponId": "Swordbreaker",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling"
@@ -58,7 +58,7 @@
       "Command": [
         [
           {
-            "Key": "2",
+            "Key": "6",
             "Time": 0.2,
             "UTTypes": "NameProperty,FloatProperty"
           },
@@ -91,7 +91,7 @@
       "WeaponId": "Calnwenan",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling"
@@ -99,7 +99,7 @@
       "Command": [
         [
           {
-            "Key": "2",
+            "Key": "6",
             "Time": 0.2,
             "UTTypes": "NameProperty,FloatProperty"
           },
@@ -132,7 +132,7 @@
       "WeaponId": "Mandaupasar",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling"
@@ -140,7 +140,7 @@
       "Command": [
         [
           {
-            "Key": "2",
+            "Key": "6",
             "Time": 0.2,
             "UTTypes": "NameProperty,FloatProperty"
           },
@@ -173,7 +173,7 @@
       "WeaponId": "Baselard",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -210,7 +210,7 @@
       "WeaponId": "ManGauche",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -247,7 +247,7 @@
       "WeaponId": "Calnwenan",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -284,7 +284,7 @@
       "WeaponId": "Mandaupasar",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -321,7 +321,7 @@
       "WeaponId": "HuntedBrad",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": -1,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -361,7 +361,7 @@
       "WeaponId": "Florenberg",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -396,7 +396,7 @@
       "WeaponId": "Armas",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -431,7 +431,7 @@
       "WeaponId": "Caradoborg",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -466,7 +466,7 @@
       "WeaponId": "Flagarach",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -501,7 +501,7 @@
       "WeaponId": "Dineslave",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -536,7 +536,7 @@
       "WeaponId": "Broadsword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -571,7 +571,7 @@
       "WeaponId": "Redumbrella",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -606,7 +606,7 @@
       "WeaponId": "XrossBrade",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -641,7 +641,7 @@
       "WeaponId": "XrossBrade2",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -676,7 +676,7 @@
       "WeaponId": "XrossBrade3",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -711,7 +711,7 @@
       "WeaponId": "BradeOfEU",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -746,7 +746,7 @@
       "WeaponId": "BradeOfEU2",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -781,7 +781,7 @@
       "WeaponId": "BradeOfEU3",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -816,7 +816,7 @@
       "WeaponId": "LightSaber",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -851,7 +851,7 @@
       "WeaponId": "LightSaber2",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -886,7 +886,7 @@
       "WeaponId": "LightSaber3",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -921,7 +921,7 @@
       "WeaponId": "JodoSwordLight",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -956,7 +956,7 @@
       "WeaponId": "JodoSwordLight2",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -991,7 +991,7 @@
       "WeaponId": "JodoSwordLight3",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1026,7 +1026,7 @@
       "WeaponId": "SpearCutDownAside",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1061,7 +1061,7 @@
       "WeaponId": "SpearCutDownAside2",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1096,7 +1096,7 @@
       "WeaponId": "SpearCutDownAside3",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1131,7 +1131,7 @@
       "WeaponId": "ClockSowrd",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1166,7 +1166,7 @@
       "WeaponId": "LoveOfPizza",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1201,7 +1201,7 @@
       "WeaponId": "KongSword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1236,7 +1236,7 @@
       "WeaponId": "SwordOfTheMushroom",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1271,7 +1271,7 @@
       "WeaponId": "PowerSword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1306,7 +1306,7 @@
       "WeaponId": "SilverAndBlackSword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1341,7 +1341,7 @@
       "WeaponId": "DungeonNightSword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1376,7 +1376,7 @@
       "WeaponId": "EvilTheSword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1411,7 +1411,7 @@
       "WeaponId": "ValkyrieSword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1446,7 +1446,7 @@
       "WeaponId": "Yagurushi",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1481,7 +1481,7 @@
       "WeaponId": "Charwell",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1516,7 +1516,7 @@
       "WeaponId": "Mistrutein",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1551,7 +1551,7 @@
       "WeaponId": "StickOfMagiGirl",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1586,7 +1586,7 @@
       "WeaponId": "StickOfMagiGirl2",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1621,7 +1621,7 @@
       "WeaponId": "StickOfMagiGirl3",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 120,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1656,7 +1656,7 @@
       "WeaponId": "Burtgang",
       "CostMP": 15,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1691,7 +1691,7 @@
       "WeaponId": "WolfBalt",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1731,7 +1731,7 @@
       "WeaponId": "Hoffdo",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1771,7 +1771,7 @@
       "WeaponId": "Liddyl",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1811,7 +1811,7 @@
       "WeaponId": "Morgenstern",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1851,7 +1851,7 @@
       "WeaponId": "McAutil",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1891,7 +1891,7 @@
       "WeaponId": "StickOfMagiGirl",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1931,7 +1931,7 @@
       "WeaponId": "StickOfMagiGirl2",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -1971,7 +1971,7 @@
       "WeaponId": "StickOfMagiGirl3",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2011,7 +2011,7 @@
       "WeaponId": "ValkyrieSword",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling"
@@ -2047,7 +2047,7 @@
       "WeaponId": "Gram",
       "CostMP": 60,
       "ContinueCostMP": true,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2082,7 +2082,7 @@
       "WeaponId": "Sherdar",
       "CostMP": 60,
       "ContinueCostMP": true,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2117,7 +2117,7 @@
       "WeaponId": "Durandal",
       "CostMP": 60,
       "ContinueCostMP": true,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2152,7 +2152,7 @@
       "WeaponId": "Perex",
       "CostMP": 50,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2192,7 +2192,7 @@
       "WeaponId": "Valdish",
       "CostMP": 50,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2232,7 +2232,7 @@
       "WeaponId": "TurmericBasara",
       "CostMP": 50,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2272,7 +2272,7 @@
       "WeaponId": "Rapier",
       "CostMP": 20,
       "ContinueCostMP": true,
-      "Expertise": 500,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2322,7 +2322,7 @@
       "WeaponId": "Stinger",
       "CostMP": 20,
       "ContinueCostMP": true,
-      "Expertise": 500,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2372,7 +2372,7 @@
       "WeaponId": "Cazilk",
       "CostMP": 20,
       "ContinueCostMP": true,
-      "Expertise": 500,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2422,7 +2422,7 @@
       "WeaponId": "Miserikorde",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2462,7 +2462,7 @@
       "WeaponId": "Juwuse",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2502,7 +2502,7 @@
       "WeaponId": "ShingoGempo",
       "CostMP": 60,
       "ContinueCostMP": true,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2537,7 +2537,7 @@
       "WeaponId": "Coldgrindingsaw",
       "CostMP": 60,
       "ContinueCostMP": true,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2607,7 +2607,7 @@
       "WeaponId": "Reims",
       "CostMP": 60,
       "ContinueCostMP": true,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2652,7 +2652,7 @@
       "WeaponId": "Gayalsals",
       "CostMP": 60,
       "ContinueCostMP": true,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2697,7 +2697,7 @@
       "WeaponId": "KillerBoots",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -2734,7 +2734,7 @@
       "WeaponId": "Decapitator",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -2771,7 +2771,7 @@
       "WeaponId": "KungFuShoes",
       "CostMP": 15,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -2808,7 +2808,7 @@
       "WeaponId": "Dragonshoes",
       "CostMP": 15,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking",
         "EArtsCommandStatus::Falling",
@@ -2845,7 +2845,7 @@
       "WeaponId": "Ibarakaswhip",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2880,7 +2880,7 @@
       "WeaponId": "Snakebyte",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2915,7 +2915,7 @@
       "WeaponId": "Albireo",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2950,7 +2950,7 @@
       "WeaponId": "Tsurumaru",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -2990,7 +2990,7 @@
       "WeaponId": "Tadanako",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3030,7 +3030,7 @@
       "WeaponId": "ShiroTorujiro",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3065,7 +3065,7 @@
       "WeaponId": "OgreWoodenSword",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3100,7 +3100,7 @@
       "WeaponId": "Lightningoff",
       "CostMP": 50,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3140,7 +3140,7 @@
       "WeaponId": "MikazukiMaen",
       "CostMP": 50,
       "ContinueCostMP": false,
-      "Expertise": 80,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3180,7 +3180,7 @@
       "WeaponId": "Swordsman",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3225,7 +3225,7 @@
       "WeaponId": "MikazukiMaen",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3270,7 +3270,7 @@
       "WeaponId": "Truesixteenthnight",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3315,7 +3315,7 @@
       "WeaponId": "Tsurumaru",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3350,7 +3350,7 @@
       "WeaponId": "Tadanako",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3385,7 +3385,7 @@
       "WeaponId": "MikazukiMaen",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3420,7 +3420,7 @@
       "WeaponId": "Noda",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3455,7 +3455,7 @@
       "WeaponId": "ShiroTorujiro",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
@@ -3490,7 +3490,7 @@
       "WeaponId": "Swordsman",
       "CostMP": 20,
       "ContinueCostMP": false,
-      "Expertise": 50,
+      "Expertise": 10,
       "States": [
         "EArtsCommandStatus::Walking"
       ],
