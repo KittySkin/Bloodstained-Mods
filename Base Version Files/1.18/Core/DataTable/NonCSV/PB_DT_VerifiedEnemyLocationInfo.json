@@ -1,0 +1,1785 @@
+[
+  {
+    "Key": "N3100",
+    "Value": {
+      "NormalModeRooms": [
+        "m08TWR_011",
+        "m07LIB_001",
+        "m08TWR_007",
+        "m01SIP_023",
+        "m08TWR_001",
+        "m05SAN_000",
+        "m07LIB_004",
+        "m05SAN_010"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3003",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_001",
+        "m01SIP_005",
+        "m01SIP_008",
+        "m01SIP_009",
+        "m01SIP_011",
+        "m01SIP_014",
+        "m02VIL_001",
+        "m02VIL_002",
+        "m02VIL_006",
+        "m03ENT_003"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3005",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_008",
+        "m01SIP_011",
+        "m01SIP_015",
+        "m10BIG_001",
+        "m10BIG_005"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3006",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_004",
+        "m01SIP_006",
+        "m01SIP_010",
+        "m01SIP_011",
+        "m01SIP_014",
+        "m01SIP_017"
+      ],
+      "HardModeRooms": [
+        "m01SIP_017"
+      ]
+    }
+  },
+  {
+    "Key": "N3007",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_003",
+        "m01SIP_004",
+        "m01SIP_019",
+        "m02VIL_006",
+        "m03ENT_002"
+      ],
+      "HardModeRooms": [
+        "m01SIP_003",
+        "m01SIP_004",
+        "m01SIP_019",
+        "m02VIL_001",
+        "m02VIL_006",
+        "m03ENT_002"
+      ]
+    }
+  },
+  {
+    "Key": "N3013",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_015",
+        "m03ENT_003",
+        "m03ENT_005",
+        "m03ENT_007",
+        "m03ENT_014"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3015",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_003",
+        "m01SIP_014",
+        "m01SIP_017",
+        "m01SIP_019"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3051",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_021",
+        "m02VIL_001",
+        "m02VIL_011",
+        "m10BIG_008"
+      ],
+      "HardModeRooms": [
+        "m01SIP_017",
+        "m01SIP_021"
+      ]
+    }
+  },
+  {
+    "Key": "N3004",
+    "Value": {
+      "NormalModeRooms": [
+        "m02VIL_001",
+        "m02VIL_006",
+        "m03ENT_002",
+        "m03ENT_004",
+        "m03ENT_007",
+        "m03ENT_018"
+      ],
+      "HardModeRooms": [
+        "m01SIP_010",
+        "m01SIP_011",
+        "m01SIP_014",
+        "m01SIP_015"
+      ]
+    }
+  },
+  {
+    "Key": "N3029",
+    "Value": {
+      "NormalModeRooms": [
+        "m02VIL_006",
+        "m02VIL_012",
+        "m03ENT_001",
+        "m03ENT_003",
+        "m03ENT_007",
+        "m03ENT_017",
+        "m11UGD_000",
+        "m11UGD_001",
+        "m11UGD_002",
+        "m11UGD_005",
+        "m11UGD_006",
+        "m11UGD_009",
+        "m11UGD_011",
+        "m11UGD_013",
+        "m11UGD_018",
+        "m11UGD_019",
+        "m11UGD_020",
+        "m11UGD_027",
+        "m11UGD_029",
+        "m11UGD_032",
+        "m11UGD_033",
+        "m11UGD_035",
+        "m11UGD_036",
+        "m11UGD_037",
+        "m11UGD_038",
+        "m11UGD_040",
+        "m11UGD_043"
+      ],
+      "HardModeRooms": [
+        "m01SIP_009",
+        "m01SIP_011",
+        "m02VIL_006",
+        "m02VIL_011",
+        "m04GDN_002",
+        "m11UGD_002",
+        "m11UGD_004",
+        "m11UGD_007",
+        "m11UGD_008",
+        "m11UGD_009",
+        "m11UGD_011",
+        "m11UGD_012",
+        "m11UGD_019",
+        "m11UGD_029",
+        "m11UGD_030"
+      ]
+    }
+  },
+  {
+    "Key": "N3073",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_003",
+        "m03ENT_007",
+        "m03ENT_011",
+        "m05SAN_000"
+      ],
+      "HardModeRooms": [
+        "m03ENT_007",
+        "m03ENT_016",
+        "m05SAN_000",
+        "m05SAN_008"
+      ]
+    }
+  },
+  {
+    "Key": "N3105",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_005",
+        "m03ENT_007",
+        "m03ENT_011",
+        "m03ENT_012",
+        "m03ENT_016",
+        "m03ENT_017",
+        "m03ENT_024",
+        "m04GDN_003",
+        "m04GDN_004",
+        "m04GDN_006",
+        "m05SAN_020",
+        "m08TWR_007",
+        "m08TWR_016"
+      ],
+      "HardModeRooms": [
+        "m03ENT_001",
+        "m03ENT_003",
+        "m03ENT_008",
+        "m08TWR_000",
+        "m13ARC_006"
+      ]
+    }
+  },
+  {
+    "Key": "N3080",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_002",
+        "m03ENT_008",
+        "m03ENT_016"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3066",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_000",
+        "m04GDN_002",
+        "m04GDN_003",
+        "m04GDN_004",
+        "m04GDN_008"
+      ],
+      "HardModeRooms": [
+        "m02VIL_006"
+      ]
+    }
+  },
+  {
+    "Key": "N3042",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_006",
+        "m04GDN_010",
+        "m04GDN_017",
+        "m11UGD_004",
+        "m11UGD_006",
+        "m11UGD_007",
+        "m11UGD_008",
+        "m11UGD_009"
+      ],
+      "HardModeRooms": [
+        "m05SAN_001",
+        "m11UGD_004",
+        "m11UGD_007"
+      ]
+    }
+  },
+  {
+    "Key": "N3065",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_000",
+        "m04GDN_004",
+        "m04GDN_006",
+        "m04GDN_010"
+      ],
+      "HardModeRooms": [
+        "m04GDN_004"
+      ]
+    }
+  },
+  {
+    "Key": "N3011",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_011",
+        "m04GDN_000",
+        "m04GDN_003",
+        "m04GDN_004",
+        "m05SAN_015",
+        "m05SAN_019",
+        "m05SAN_021",
+        "m07LIB_016",
+        "m07LIB_025",
+        "m07LIB_033"
+      ],
+      "HardModeRooms": [
+        "m03ENT_016",
+        "m04GDN_000",
+        "m04GDN_004",
+        "m07LIB_000",
+        "m07LIB_016",
+        "m07LIB_033",
+        "m14TAR_001",
+        "m14TAR_005",
+        "m14TAR_007",
+        "m14TAR_009"
+      ]
+    }
+  },
+  {
+    "Key": "N3091",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_008",
+        "m04GDN_009",
+        "m04GDN_010",
+        "m04GDN_015"
+      ],
+      "HardModeRooms": [
+        "m04GDN_008"
+      ]
+    }
+  },
+  {
+    "Key": "N3034",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_013",
+        "m05SAN_020"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3075",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_013",
+        "m04GDN_016"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3104",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_013",
+        "m05SAN_001",
+        "m05SAN_005"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3053",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_013",
+        "m05SAN_008",
+        "m05SAN_009",
+        "m05SAN_020"
+      ],
+      "HardModeRooms": [
+        "m04GDN_003"
+      ]
+    }
+  },
+  {
+    "Key": "N3079",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_000",
+        "m05SAN_002",
+        "m05SAN_003",
+        "m05SAN_008"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3055",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_005",
+        "m05SAN_008",
+        "m05SAN_009",
+        "m07LIB_004",
+        "m11UGD_007",
+        "m11UGD_008",
+        "m11UGD_010",
+        "m11UGD_012"
+      ],
+      "HardModeRooms": [
+        "m03ENT_018",
+        "m05SAN_000",
+        "m07LIB_004",
+        "m11UGD_002",
+        "m11UGD_009",
+        "m11UGD_017"
+      ]
+    }
+  },
+  {
+    "Key": "N3001",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_000",
+        "m05SAN_003",
+        "m09TRN_005",
+        "m11UGD_000",
+        "m11UGD_001",
+        "m11UGD_006",
+        "m11UGD_007",
+        "m11UGD_009",
+        "m11UGD_011",
+        "m11UGD_013",
+        "m11UGD_031",
+        "m11UGD_035",
+        "m12SND_002",
+        "m12SND_004",
+        "m12SND_005",
+        "m12SND_009",
+        "m12SND_010",
+        "m12SND_014",
+        "m12SND_015",
+        "m12SND_017",
+        "m12SND_018",
+        "m12SND_020"
+      ],
+      "HardModeRooms": [
+        "m04GDN_008",
+        "m04GDN_010",
+        "m04GDN_015",
+        "m04GDN_017",
+        "m11UGD_008",
+        "m12SND_000",
+        "m12SND_009"
+      ]
+    }
+  },
+  {
+    "Key": "N3116",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_017",
+        "m05SAN_004"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3082",
+    "Value": {
+      "NormalModeRooms": [
+        "m08TWR_017",
+        "m08TWR_018"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3090",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_016",
+        "m07LIB_029",
+        "m08TWR_005",
+        "m08TWR_006",
+        "m08TWR_013",
+        "m11UGD_013"
+      ],
+      "HardModeRooms": [
+        "m01SIP_018",
+        "m03ENT_014",
+        "m05SAN_003",
+        "m05SAN_016",
+        "m05SAN_020",
+        "m07LIB_012",
+        "m08TWR_006",
+        "m11UGD_000",
+        "m11UGD_006"
+      ]
+    }
+  },
+  {
+    "Key": "N3084",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_013",
+        "m08TWR_005",
+        "m08TWR_017",
+        "m08TWR_018",
+        "m11UGD_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2002",
+    "Value": {
+      "NormalModeRooms": [
+        "m08TWR_017",
+        "m08TWR_018"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3033",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_000",
+        "m07LIB_025",
+        "m07LIB_036"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3017",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_004",
+        "m07LIB_025",
+        "m07LIB_044",
+        "m09TRN_000",
+        "m09TRN_002"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3063",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_044"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3103",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_002",
+        "m07LIB_007"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3064",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_002",
+        "m11UGD_004",
+        "m11UGD_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3010",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_002",
+        "m11UGD_005",
+        "m11UGD_006",
+        "m11UGD_008",
+        "m11UGD_009",
+        "m11UGD_011",
+        "m11UGD_012",
+        "m11UGD_029",
+        "m11UGD_030"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3099",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_019",
+        "m07LIB_013",
+        "m07LIB_023",
+        "m07LIB_027",
+        "m07LIB_035",
+        "m11UGD_031"
+      ],
+      "HardModeRooms": [
+        "m05SAN_019",
+        "m07LIB_013",
+        "m07LIB_017",
+        "m07LIB_019",
+        "m07LIB_023",
+        "m07LIB_027",
+        "m07LIB_029",
+        "m07LIB_032",
+        "m07LIB_035",
+        "m08TWR_005",
+        "m08TWR_006",
+        "m08TWR_013",
+        "m11UGD_013",
+        "m11UGD_031",
+        "m11UGD_037",
+        "m11UGD_040",
+        "m14TAR_006"
+      ]
+    }
+  },
+  {
+    "Key": "N3008",
+    "Value": {
+      "NormalModeRooms": [
+        "m08TWR_000",
+        "m08TWR_006",
+        "m08TWR_013",
+        "m08TWR_014",
+        "m09TRN_002"
+      ],
+      "HardModeRooms": [
+        "m08TWR_016"
+      ]
+    }
+  },
+  {
+    "Key": "N3111",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_024",
+        "m05SAN_020",
+        "m08TWR_007",
+        "m08TWR_016"
+      ],
+      "HardModeRooms": [
+        "m08TWR_000",
+        "m13ARC_006"
+      ]
+    }
+  },
+  {
+    "Key": "N3114",
+    "Value": {
+      "NormalModeRooms": [
+        "m09TRN_000",
+        "m13ARC_000",
+        "m13ARC_006"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3058",
+    "Value": {
+      "NormalModeRooms": [
+        "m09TRN_000",
+        "m09TRN_002",
+        "m88BKR_002"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3019",
+    "Value": {
+      "NormalModeRooms": [
+        "m09TRN_002",
+        "m09TRN_005"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2009",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_019",
+        "m07LIB_032",
+        "m17RVA_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3025",
+    "Value": {
+      "NormalModeRooms": [
+        "m09TRN_002"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3043",
+    "Value": {
+      "NormalModeRooms": [
+        "m08TWR_018",
+        "m11UGD_027",
+        "m12SND_010",
+        "m12SND_011",
+        "m12SND_014",
+        "m12SND_020",
+        "m13ARC_002"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3092",
+    "Value": {
+      "NormalModeRooms": [
+        "m13ARC_000",
+        "m13ARC_006"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3024",
+    "Value": {
+      "NormalModeRooms": [
+        "m13ARC_000",
+        "m13ARC_002",
+        "m13ARC_006"
+      ],
+      "HardModeRooms": [
+        "m13ARC_000"
+      ]
+    }
+  },
+  {
+    "Key": "N3070",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_028",
+        "m13ARC_006",
+        "m15JPN_008",
+        "m17RVA_002",
+        "m17RVA_007"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3102",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_016",
+        "m05SAN_019"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3009",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_016",
+        "m05SAN_019",
+        "m05SAN_021"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3087",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_023",
+        "m04GDN_013",
+        "m05SAN_000",
+        "m05SAN_003",
+        "m05SAN_017"
+      ],
+      "HardModeRooms": [
+        "m04GDN_013",
+        "m07LIB_025",
+        "m13ARC_000",
+        "m13ARC_002",
+        "m14TAR_008"
+      ]
+    }
+  },
+  {
+    "Key": "N3072",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_013",
+        "m07LIB_017",
+        "m07LIB_033",
+        "m11UGD_003"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3012",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_015",
+        "m05SAN_019",
+        "m05SAN_021",
+        "m07LIB_016",
+        "m07LIB_025",
+        "m07LIB_033"
+      ],
+      "HardModeRooms": [
+        "m07LIB_000",
+        "m07LIB_016",
+        "m07LIB_033",
+        "m14TAR_001",
+        "m14TAR_005",
+        "m14TAR_007",
+        "m14TAR_009"
+      ]
+    }
+  },
+  {
+    "Key": "N3052",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_024",
+        "m05SAN_009",
+        "m06KNG_002",
+        "m06KNG_004",
+        "m06KNG_009",
+        "m06KNG_017"
+      ],
+      "HardModeRooms": [
+        "m06KNG_002",
+        "m06KNG_004",
+        "m06KNG_009",
+        "m06KNG_010",
+        "m06KNG_017"
+      ]
+    }
+  },
+  {
+    "Key": "N3085",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_015",
+        "m05SAN_016",
+        "m05SAN_020",
+        "m07LIB_018",
+        "m07LIB_020",
+        "m07LIB_024",
+        "m07LIB_031",
+        "m07LIB_033"
+      ],
+      "HardModeRooms": [
+        "m05SAN_015",
+        "m05SAN_017",
+        "m07LIB_015"
+      ]
+    }
+  },
+  {
+    "Key": "N3109",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_012",
+        "m07LIB_015",
+        "m07LIB_020",
+        "m07LIB_034"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3037",
+    "Value": {
+      "NormalModeRooms": [
+        "m06KNG_002",
+        "m06KNG_004",
+        "m06KNG_009",
+        "m06KNG_010",
+        "m07LIB_034"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3077",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_018",
+        "m05SAN_020",
+        "m06KNG_017"
+      ],
+      "HardModeRooms": [
+        "m06KNG_000"
+      ]
+    }
+  },
+  {
+    "Key": "N3093",
+    "Value": {
+      "NormalModeRooms": [
+        "m06KNG_000",
+        "m06KNG_001",
+        "m06KNG_007",
+        "m06KNG_008",
+        "m06KNG_010",
+        "m06KNG_011",
+        "m06KNG_013",
+        "m06KNG_015",
+        "m06KNG_021"
+      ],
+      "HardModeRooms": [
+        "m06KNG_000",
+        "m06KNG_002",
+        "m06KNG_006",
+        "m06KNG_007",
+        "m06KNG_012",
+        "m06KNG_013"
+      ]
+    }
+  },
+  {
+    "Key": "N3110",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_024",
+        "m06KNG_000",
+        "m06KNG_003",
+        "m06KNG_005",
+        "m06KNG_010",
+        "m06KNG_011",
+        "m06KNG_014",
+        "m06KNG_021",
+        "m11UGD_033",
+        "m11UGD_039"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3098",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_024",
+        "m11UGD_046"
+      ],
+      "HardModeRooms": [
+        "m11UGD_022",
+        "m11UGD_023",
+        "m11UGD_024",
+        "m11UGD_025"
+      ]
+    }
+  },
+  {
+    "Key": "N3078",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_005",
+        "m11UGD_022",
+        "m11UGD_025",
+        "m11UGD_036",
+        "m11UGD_040"
+      ],
+      "HardModeRooms": [
+        "m11UGD_024"
+      ]
+    }
+  },
+  {
+    "Key": "N3022",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_019",
+        "m11UGD_042"
+      ],
+      "HardModeRooms": [
+        "m11UGD_042"
+      ]
+    }
+  },
+  {
+    "Key": "N3044",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_018",
+        "m11UGD_020",
+        "m11UGD_027",
+        "m11UGD_029",
+        "m11UGD_032",
+        "m11UGD_037",
+        "m11UGD_038",
+        "m12SND_025",
+        "m11UGD_054"
+      ],
+      "HardModeRooms": [
+        "m11UGD_033",
+        "m11UGD_035",
+        "m11UGD_052"
+      ]
+    }
+  },
+  {
+    "Key": "N3076",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_019",
+        "m11UGD_023",
+        "m11UGD_025",
+        "m11UGD_042",
+        "m11UGD_043",
+        "m11UGD_044",
+        "m11UGD_045"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3089",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_037",
+        "m11UGD_038",
+        "m11UGD_039",
+        "m11UGD_041",
+        "m11UGD_046",
+        "m11UGD_052"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3056",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_021",
+        "m06KNG_006",
+        "m06KNG_012",
+        "m11UGD_020",
+        "m11UGD_027",
+        "m11UGD_029",
+        "m11UGD_032",
+        "m11UGD_037",
+        "m11UGD_039",
+        "m11UGD_052",
+        "m11UGD_054"
+      ],
+      "HardModeRooms": [
+        "m06KNG_014",
+        "m11UGD_018",
+        "m11UGD_027",
+        "m11UGD_037",
+        "m11UGD_054"
+      ]
+    }
+  },
+  {
+    "Key": "N3014",
+    "Value": {
+      "NormalModeRooms": [
+        "m12SND_000",
+        "m12SND_004",
+        "m12SND_005",
+        "m12SND_010",
+        "m12SND_011",
+        "m12SND_012",
+        "m12SND_016",
+        "m12SND_020"
+      ],
+      "HardModeRooms": [
+        "m12SND_002",
+        "m12SND_005",
+        "m12SND_007",
+        "m12SND_010",
+        "m12SND_018",
+        "m12SND_020"
+      ]
+    }
+  },
+  {
+    "Key": "N3002",
+    "Value": {
+      "NormalModeRooms": [
+        "m12SND_002",
+        "m12SND_004",
+        "m12SND_005",
+        "m12SND_009",
+        "m12SND_010",
+        "m12SND_014",
+        "m12SND_015",
+        "m12SND_017",
+        "m12SND_018",
+        "m12SND_020"
+      ],
+      "HardModeRooms": [
+        "m12SND_000",
+        "m12SND_009"
+      ]
+    }
+  },
+  {
+    "Key": "N3112",
+    "Value": {
+      "NormalModeRooms": [
+        "m12SND_004",
+        "m12SND_009",
+        "m12SND_010",
+        "m12SND_014",
+        "m12SND_015",
+        "m12SND_020"
+      ],
+      "HardModeRooms": [
+        "m12SND_006",
+        "m12SND_010",
+        "m12SND_016"
+      ]
+    }
+  },
+  {
+    "Key": "N2010",
+    "Value": {
+      "NormalModeRooms": [
+        "m12SND_001",
+        "m12SND_012",
+        "m12SND_013"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3115",
+    "Value": {
+      "NormalModeRooms": [
+        "m09TRN_000",
+        "m12SND_002",
+        "m13ARC_000",
+        "m13ARC_006"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3101",
+    "Value": {
+      "NormalModeRooms": [
+        "m14TAR_001",
+        "m14TAR_003",
+        "m14TAR_005",
+        "m14TAR_007",
+        "m14TAR_009"
+      ],
+      "HardModeRooms": [
+        "m14TAR_007"
+      ]
+    }
+  },
+  {
+    "Key": "N3059",
+    "Value": {
+      "NormalModeRooms": [
+        "m14TAR_001",
+        "m14TAR_005",
+        "m14TAR_007",
+        "m14TAR_008"
+      ],
+      "HardModeRooms": [
+        "m14TAR_010"
+      ]
+    }
+  },
+  {
+    "Key": "N3113",
+    "Value": {
+      "NormalModeRooms": [
+        "m11UGD_053",
+        "m13ARC_003",
+        "m14TAR_008",
+        "m14TAR_010"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3083",
+    "Value": {
+      "NormalModeRooms": [
+        "m17RVA_002",
+        "m17RVA_003",
+        "m17RVA_005",
+        "m17RVA_013"
+      ],
+      "HardModeRooms": [
+        "m17RVA_002",
+        "m17RVA_005"
+      ]
+    }
+  },
+  {
+    "Key": "N3032",
+    "Value": {
+      "NormalModeRooms": [
+        "m17RVA_000",
+        "m17RVA_001",
+        "m17RVA_003",
+        "m17RVA_007"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3119",
+    "Value": {
+      "NormalModeRooms": [
+        "m17RVA_001",
+        "m17RVA_002",
+        "m17RVA_003",
+        "m17RVA_005"
+      ],
+      "HardModeRooms": [
+        "m17RVA_004"
+      ]
+    }
+  },
+  {
+    "Key": "N3123",
+    "Value": {
+      "NormalModeRooms": [
+        "m17RVA_005",
+        "m17RVA_012"
+      ],
+      "HardModeRooms": [
+        "m17RVA_001",
+        "m17RVA_011"
+      ]
+    }
+  },
+  {
+    "Key": "N3086",
+    "Value": {
+      "NormalModeRooms": [
+        "m12SND_003",
+        "m12SND_005",
+        "m12SND_014",
+        "m12SND_021",
+        "m12SND_024",
+        "m17RVA_001",
+        "m17RVA_009",
+        "m17RVA_011"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3071",
+    "Value": {
+      "NormalModeRooms": [
+        "m15JPN_008",
+        "m17RVA_002",
+        "m17RVA_007"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3035",
+    "Value": {
+      "NormalModeRooms": [
+        "m04GDN_013",
+        "m05SAN_003",
+        "m05SAN_020",
+        "m07LIB_001",
+        "m13ARC_001",
+        "m15JPN_000",
+        "m15JPN_001",
+        "m15JPN_002",
+        "m15JPN_005",
+        "m15JPN_010",
+        "m15JPN_013",
+        "m15JPN_017"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3054",
+    "Value": {
+      "NormalModeRooms": [
+        "m15JPN_002",
+        "m15JPN_005",
+        "m15JPN_007",
+        "m15JPN_010",
+        "m15JPN_011",
+        "m15JPN_017"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3074",
+    "Value": {
+      "NormalModeRooms": [
+        "m15JPN_002",
+        "m15JPN_004",
+        "m15JPN_010"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3117",
+    "Value": {
+      "NormalModeRooms": [
+        "m15JPN_010",
+        "m15JPN_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3020",
+    "Value": {
+      "NormalModeRooms": [
+        "m15JPN_003",
+        "m15JPN_010",
+        "m15JPN_011",
+        "m15JPN_012",
+        "m15JPN_014",
+        "m15JPN_017"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3067",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_002",
+        "m10BIG_006",
+        "m10BIG_007",
+        "m10BIG_009",
+        "m10BIG_017"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3030",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_006",
+        "m10BIG_007",
+        "m10BIG_008",
+        "m10BIG_009",
+        "m10BIG_012",
+        "m10BIG_013",
+        "m10BIG_016",
+        "m10BIG_017",
+        "m10BIG_018"
+      ],
+      "HardModeRooms": [
+        "m10BIG_006"
+      ]
+    }
+  },
+  {
+    "Key": "N3045",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_002",
+        "m10BIG_006",
+        "m10BIG_007",
+        "m10BIG_009",
+        "m10BIG_012",
+        "m10BIG_016",
+        "m10BIG_018"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3016",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_008",
+        "m10BIG_009",
+        "m10BIG_013",
+        "m10BIG_014",
+        "m10BIG_016"
+      ],
+      "HardModeRooms": [
+        "m10BIG_006",
+        "m10BIG_008",
+        "m10BIG_013"
+      ]
+    }
+  },
+  {
+    "Key": "N3023",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_008",
+        "m10BIG_012",
+        "m10BIG_016"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3028",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_006",
+        "m10BIG_012",
+        "m10BIG_013",
+        "m10BIG_017"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3038",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_001",
+        "m10BIG_005"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3081",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_006",
+        "m10BIG_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2003",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_006",
+        "m10BIG_012"
+      ],
+      "HardModeRooms": [
+        "m10BIG_002"
+      ]
+    }
+  },
+  {
+    "Key": "N2008",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_038",
+        "m10BIG_006",
+        "m10BIG_010",
+        "m10BIG_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3021",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_015"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3031",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_001",
+        "m18ICE_002",
+        "m18ICE_005",
+        "m18ICE_008",
+        "m18ICE_010",
+        "m18ICE_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3088",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_009"
+      ],
+      "HardModeRooms": [
+        "m18ICE_007"
+      ]
+    }
+  },
+  {
+    "Key": "N3018",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_007",
+        "m18ICE_013",
+        "m18ICE_014"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3120",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_007",
+        "m18ICE_008",
+        "m18ICE_014"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3057",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_005",
+        "m18ICE_008",
+        "m18ICE_014"
+      ],
+      "HardModeRooms": [
+        "m18ICE_001",
+        "m18ICE_008"
+      ]
+    }
+  },
+  {
+    "Key": "N3121",
+    "Value": {
+      "NormalModeRooms": [
+        "m51EBT_000"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3122",
+    "Value": {
+      "NormalModeRooms": [
+        "m51EBT_000"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3124",
+    "Value": {
+      "NormalModeRooms": [
+        "m51EBT_000"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2015",
+    "Value": {
+      "NormalModeRooms": [
+        "m51EBT_000"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3106",
+    "Value": {
+      "NormalModeRooms": [
+        "m88BKR_004"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3107",
+    "Value": {
+      "NormalModeRooms": [
+        "m88BKR_001"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N3108",
+    "Value": {
+      "NormalModeRooms": [
+        "m88BKR_002"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1001",
+    "Value": {
+      "NormalModeRooms": [
+        "m01SIP_022"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1011",
+    "Value": {
+      "NormalModeRooms": [
+        "m03ENT_013"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1003",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_012"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2004",
+    "Value": {
+      "NormalModeRooms": [
+        "m07LIB_011"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1005",
+    "Value": {
+      "NormalModeRooms": [
+        "m08TWR_019"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2001",
+    "Value": {
+      "NormalModeRooms": [
+        "m09TRN_002"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1006",
+    "Value": {
+      "NormalModeRooms": [
+        "m13ARC_005"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1012",
+    "Value": {
+      "NormalModeRooms": [
+        "m06KNG_020"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1002",
+    "Value": {
+      "NormalModeRooms": [
+        "m05SAN_023"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2014",
+    "Value": {
+      "NormalModeRooms": [
+        "m12SND_027"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2007",
+    "Value": {
+      "NormalModeRooms": [
+        "m14TAR_004"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2006",
+    "Value": {
+      "NormalModeRooms": [
+        "m17RVA_008"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1011_STRONG",
+    "Value": {
+      "NormalModeRooms": [
+        "m15JPN_016"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1004",
+    "Value": {
+      "NormalModeRooms": [
+        "m10BIG_011"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1008",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_018"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1009_Enemy",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_019"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N1013_Bael",
+    "Value": {
+      "NormalModeRooms": [
+        "m77LBP_000"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2012",
+    "Value": {
+      "NormalModeRooms": [
+        "m18ICE_004"
+      ],
+      "HardModeRooms": []
+    }
+  },
+  {
+    "Key": "N2013",
+    "Value": {
+      "NormalModeRooms": [
+        "m06KNG_020"
+      ],
+      "HardModeRooms": []
+    }
+  }
+]

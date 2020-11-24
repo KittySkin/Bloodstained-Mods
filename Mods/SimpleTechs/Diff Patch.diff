@@ -1,0 +1,455 @@
+--- C:/Users/alexi/Downloads/DiscordTutorial-1.0/Tools/umodel_win32/UmodelSaved/1.18/Core/DataTable/PB_DT_ArtsCommandMaster.json	Sun Nov 22 03:54:41 2020
++++ C:/Users/alexi/Downloads/DiscordTutorial-1.0/Mods/SimpleTechs/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArtsCommandMaster.json	Sat Nov 21 23:43:04 2020
+@@ -25,5 +24,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -71,5 +65,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -117,5 +106,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -163,5 +147,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -210,5 +189,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -252,5 +226,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -294,5 +263,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -336,5 +300,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -416,5 +375,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -456,5 +410,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -496,5 +445,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -536,5 +480,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -576,5 +515,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -616,5 +550,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -656,5 +585,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -696,5 +620,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -736,5 +655,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -776,5 +690,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -816,5 +725,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -856,5 +760,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -896,5 +795,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -936,5 +830,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -976,5 +865,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1016,5 +900,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1056,5 +935,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1096,5 +970,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1136,5 +1005,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1176,5 +1040,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1216,5 +1075,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1256,5 +1110,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1296,5 +1145,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1336,5 +1180,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1376,5 +1215,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1416,5 +1250,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1456,5 +1285,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1496,5 +1320,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1536,5 +1355,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1576,5 +1390,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1616,5 +1425,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1656,5 +1460,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1696,5 +1495,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1736,5 +1530,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1776,5 +1565,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1816,5 +1600,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1856,5 +1635,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1931,5 +1705,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1976,5 +1745,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2021,5 +1785,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2066,5 +1825,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2111,5 +1865,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2156,5 +1905,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2201,5 +1945,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2246,5 +1985,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2327,5 +2061,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2367,5 +2096,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2407,5 +2131,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2447,5 +2166,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2492,5 +2206,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2537,5 +2246,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2812,5 +2516,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2852,5 +2551,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3093,5 +2787,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3135,5 +2824,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3175,5 +2859,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3215,5 +2894,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3255,5 +2929,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3295,5 +2964,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3340,5 +3004,0 @@
+-            "Key": "1",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3670,5 +3329,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3710,5 +3364,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3750,5 +3399,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3931,5 +3575,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3971,5 +3610,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -4011,5 +3645,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -4077 +3707 @@
+-      "CostMP": 15,
++      "CostMP": 0,
+@@ -4091,5 +3720,0 @@
+-            "Key": "3",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {

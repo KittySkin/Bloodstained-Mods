@@ -1,0 +1,254 @@
+--- C:/Users/alexi/Downloads/DiscordTutorial-1.0/Tools/umodel_win32/UmodelSaved/1.18/Core/DataTable/Item/PB_DT_ItemMaster.json	Sun Nov 22 03:55:06 2020
++++ C:/Users/alexi/Downloads/DiscordTutorial-1.0/Mods/ItemModifier/Edits/BloodstainedRotN/Content/Core/DataTable/Item/PB_DT_ItemMaster.json	Sun Nov 22 01:14:34 2020
+@@ -226 +226 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -2977,3 +2977,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -2998,3 +2998,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -3019,3 +3019,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -3040,3 +3040,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -3061,3 +3061,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -3082,3 +3082,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -3103,3 +3103,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -3124,3 +3124,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -4327 +4327 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -5914,3 +5914,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -5935,3 +5935,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -5956,3 +5956,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -5977,3 +5977,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -7195,3 +7195,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -7216,3 +7216,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -7237,3 +7237,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -7258,3 +7258,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -7279,3 +7279,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -7300,3 +7300,3 @@
+-      "buyPrice": 0,
+-      "sellPrice": 0,
+-      "Producted": "None",
++      "buyPrice": 100,
++      "sellPrice": 10,
++      "Producted": "Event_01_001_0000",
+@@ -7879 +7879 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -10861 +10861 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -10882 +10882 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -10903 +10903 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -10924 +10924 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -10945 +10945 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -10966 +10966 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -10987 +10987 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -11260 +11260 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12331 +12331 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12352 +12352 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12373 +12373 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12394 +12394 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12415 +12415 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12436 +12436 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12457 +12457 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12478 +12478 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12499 +12499 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12520 +12520 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12541 +12541 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12562 +12562 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12583 +12583 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12604 +12604 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12625 +12625 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12646 +12646 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12667 +12667 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12688 +12688 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12709 +12709 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12730 +12730 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -12751 +12751 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -13990 +13990 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -14830 +14830 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -15764 +15764 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -15953 +15953 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -15974 +15974 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -15995 +15995 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -17666 +17666 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -17687 +17687 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -17708 +17708 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,
+@@ -17729 +17729 @@
+-      "NotInheritable": true,
++      "NotInheritable": false,

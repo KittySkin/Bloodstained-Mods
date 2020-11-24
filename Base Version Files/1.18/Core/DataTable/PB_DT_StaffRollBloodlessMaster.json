@@ -1,0 +1,816 @@
+[
+  {
+    "Key": "0",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/Title/TitleAsset/TitleLogo",
+      "NameType": 3,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "1",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "2",
+    "Value": {
+      "StaffText1": "-BLOODLESS MODE-",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "3",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "4",
+    "Value": {
+      "StaffText1": "-CAST-",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "5",
+    "Value": {
+      "StaffText1": " Japanese Voice Actress",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "6",
+    "Value": {
+      "StaffText1": "Bloodless",
+      "StaffText2": "Saori Goto",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "7",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "8",
+    "Value": {
+      "StaffText1": "English Voice Actress",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "9",
+    "Value": {
+      "StaffText1": "Bloodless",
+      "StaffText2": "Rena Strober",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 4,
+      "NextInterval": 0.2
+    }
+  },
+  {
+    "Key": "10",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "11",
+    "Value": {
+      "StaffText1": "-STAFF-",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "12",
+    "Value": {
+      "StaffText1": "Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "13",
+    "Value": {
+      "StaffText1": "Shutaro (ArtPlay, Inc)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "14",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "15",
+    "Value": {
+      "StaffText1": "Associate Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "16",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "17",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "18",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "19",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollCurry",
+      "NameType": 3,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "20",
+    "Value": {
+      "StaffText1": "Game Design",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "21",
+    "Value": {
+      "StaffText1": "Curry the Kid (ArtPlay, Inc)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "22",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "23",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollCurry",
+      "NameType": 3,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "24",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "25",
+    "Value": {
+      "StaffText1": "Level Designer",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "26",
+    "Value": {
+      "StaffText1": "Shutaro (ArtPlay, Inc)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "27",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "28",
+    "Value": {
+      "StaffText1": "Game Balance",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "29",
+    "Value": {
+      "StaffText1": "Curry the Kid (ArtPlay, Inc)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "30",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "31",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "32",
+    "Value": {
+      "StaffText1": "Animation Director",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "33",
+    "Value": {
+      "StaffText1": "Shutaro (ArtPlay, Inc)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "34",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "35",
+    "Value": {
+      "StaffText1": "Animation",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "36",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "37",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "38",
+    "Value": {
+      "StaffText1": "Cinematography",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "39",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "40",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "41",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "42",
+    "Value": {
+      "StaffText1": "Gameplay Programming",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "43",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "44",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "45",
+    "Value": {
+      "StaffText1": "Player Programming",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "46",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "47",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "48",
+    "Value": {
+      "StaffText1": "Bug Fixing & Polishing",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "49",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "50",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "51",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "52",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollCurry",
+      "NameType": 3,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "53",
+    "Value": {
+      "StaffText1": "Curry Leader",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "54",
+    "Value": {
+      "StaffText1": "Curry the Kid (ArtPlay, Inc)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "55",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "56",
+    "Value": {
+      "StaffText1": "Vice Curry Leader",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.5
+    }
+  },
+  {
+    "Key": "57",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "58",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollCurry",
+      "NameType": 3,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "59",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "60",
+    "Value": {
+      "StaffText1": "Beat NIGHTMARE Difficulty",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "61",
+    "Value": {
+      "StaffText1": "Max Preston (NEO FUTURE LABS)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "62",
+    "Value": {
+      "StaffText1": "Shutaro (ArtPlay, Inc)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "63",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "/Game/Core/UI/StaffRoll/StaffRollAsset/StaffRollCurry",
+      "NameType": 3,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "64",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "65",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "66",
+    "Value": {
+      "StaffText1": "Special Thanks",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 1,
+      "NextInterval": 1.5
+    }
+  },
+  {
+    "Key": "67",
+    "Value": {
+      "StaffText1": "505 Games Inc.",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "68",
+    "Value": {
+      "StaffText1": "WayForward",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "69",
+    "Value": {
+      "StaffText1": "Enzyme",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 0.05
+    }
+  },
+  {
+    "Key": "70",
+    "Value": {
+      "StaffText1": "...and YOU !!!",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 1.0
+    }
+  },
+  {
+    "Key": "71",
+    "Value": {
+      "StaffText1": "",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 0,
+      "NextInterval": 0.0
+    }
+  },
+  {
+    "Key": "72",
+    "Value": {
+      "StaffText1": " ",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 2,
+      "NextInterval": 2.0
+    }
+  },
+  {
+    "Key": "73",
+    "Value": {
+      "StaffText1": "(終了)",
+      "StaffText2": "",
+      "StaffText3": "",
+      "ImagePath": "",
+      "NameType": 99,
+      "NextInterval": 0.0
+    }
+  }
+]

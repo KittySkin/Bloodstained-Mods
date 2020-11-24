@@ -1,0 +1,242 @@
+[
+  {
+    "Key": "Miriam",
+    "Value": {
+      "CharacterName": "Miriam",
+      "CharacterBlueprintPath": {
+        "Package": "None",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/LoadMenu/asset/FaceIcon/0000/FaceCoin_Miriam.FaceCoin_Miriam",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/Face_Miriam.Face_Miriam",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriam.frameMiriam",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriamShadow.frameMiriamShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Zangetsu",
+    "Value": {
+      "CharacterName": "Zangetsu",
+      "CharacterBlueprintPath": {
+        "Package": "None",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/LoadMenu/asset/FaceIcon/0001/FaceCoin_Zangetsu.FaceCoin_Zangetsu",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/Face_Zangetsu.Face_Zangetsu",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsu.frameZangetsu",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsuShadow.frameZangetsuShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "/Game/Core/System/GameMode/PBGameMode_Zangetsu_BP.PBGameMode_Zangetsu_BP",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Dominique",
+    "Value": {
+      "CharacterName": "Dominique",
+      "CharacterBlueprintPath": {
+        "Package": "/Game/Core/Character/N5020/Data/Chr_N5020.Chr_N5020",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/LoadMenu/asset/FaceIcon/0002/FaceCoin_Dominic.FaceCoin_Dominic",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0002/Face_Dominic.Face_Dominic",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0002/frameDominic.frameDominic",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0002/frameDominicShadow.frameDominicShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "/Game/Core/System/GameMode/PBGameMode_Dominic_BP.PBGameMode_Dominic_BP",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "ChildofLight",
+    "Value": {
+      "CharacterName": "Child of Light",
+      "CharacterBlueprintPath": {
+        "Package": "/Game/Core/Character/P0003/Data/Chr_P0003.Chr_P0003",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/ChildOfLight/ui_portraitAurora_child.ui_portraitAurora_child",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/ChildOfLight/ui_portraitAurora_child.ui_portraitAurora_child",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsu.frameZangetsu",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsuShadow.frameZangetsuShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "/Game/Core/System/GameMode/PBGameMode_ChildofLight_BP.PBGameMode_ChildofLight_BP",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Andrealphus",
+    "Value": {
+      "CharacterName": "Andrealphus",
+      "CharacterBlueprintPath": {
+        "Package": "/Game/Core/Character/P0004/Chr_P0004.Chr_P0004",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/LoadMenu/asset/FaceIcon/0000/FaceCoin_Miriam.FaceCoin_Miriam",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/Face_Miriam.Face_Miriam",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsu.frameZangetsu",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriamShadow.frameMiriamShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "/Game/Core/System/GameMode/PBGameMode_Andrealphus_BP.PBGameMode_Andrealphus_BP",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Bathin",
+    "Value": {
+      "CharacterName": "Bathin",
+      "CharacterBlueprintPath": {
+        "Package": "None",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/LoadMenu/asset/FaceIcon/0001/FaceCoin_Zangetsu.FaceCoin_Zangetsu",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/Face_Zangetsu.Face_Zangetsu",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsu.frameZangetsu",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsuShadow.frameZangetsuShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "/Game/Core/System/GameMode/PBGameMode_Bathin_BP.PBGameMode_Bathin_BP",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Bloodless",
+    "Value": {
+      "CharacterName": "Bloodless",
+      "CharacterBlueprintPath": {
+        "Package": "None",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/LoadMenu/asset/FaceIcon/0002/FaceCoin_Dominic.FaceCoin_Dominic",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0002/Face_Dominic.Face_Dominic",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsu.frameZangetsu",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0002/frameDominicShadow.frameDominicShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "/Game/Core/System/GameMode/PBGameMode_Bloodless_BP.PBGameMode_Bloodless_BP",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "Gremory",
+    "Value": {
+      "CharacterName": "Gremory",
+      "CharacterBlueprintPath": {
+        "Package": "None",
+        "Path": ""
+      },
+      "FaceCoin": {
+        "Package": "/Game/Core/UI/UI_Pause/Menu/LoadMenu/asset/FaceIcon/0001/FaceCoin_Zangetsu.FaceCoin_Zangetsu",
+        "Path": ""
+      },
+      "HUDFaceIcon": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/Face_Zangetsu.Face_Zangetsu",
+        "Path": ""
+      },
+      "HUDFrame": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsu.frameZangetsu",
+        "Path": ""
+      },
+      "HUDShadow": {
+        "Package": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0001/frameZangetsuShadow.frameZangetsuShadow",
+        "Path": ""
+      },
+      "GameModePath": {
+        "Package": "/Game/Core/System/GameMode/PBGameMode_Gremory_BP.PBGameMode_Gremory_BP",
+        "Path": ""
+      }
+    }
+  }
+]

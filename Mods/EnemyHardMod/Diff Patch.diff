@@ -1,0 +1,1433 @@
+--- C:/Users/alexi/Downloads/DiscordTutorial-1.0/Tools/umodel_win32/UmodelSaved/1.18/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Sun Nov 22 03:55:05 2020
++++ C:/Users/alexi/Downloads/DiscordTutorial-1.0/Mods/EnemyHardMod/Edits/BloodstainedRotN/Content/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Mon Nov 23 21:57:40 2020
+@@ -30 +30 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -33 +33 @@
+-      "BloodlessModeHardEnemyLevel": 50,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -131 +131 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -134 +134 @@
+-      "BloodlessModeHardEnemyLevel": 50,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -232 +232 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -235 +235 @@
+-      "BloodlessModeHardEnemyLevel": 50,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -333 +333 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -336 +336 @@
+-      "BloodlessModeHardEnemyLevel": 50,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -434 +434 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -437 +437 @@
+-      "BloodlessModeHardEnemyLevel": 50,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1256 +1256 @@
+-      "HardEnemyLevel": 4,
++      "HardEnemyLevel": 100,
+@@ -1259 +1259 @@
+-      "BloodlessModeHardEnemyLevel": 16,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1357 +1357 @@
+-      "HardEnemyLevel": 5,
++      "HardEnemyLevel": 100,
+@@ -1360 +1360 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1458 +1458 @@
+-      "HardEnemyLevel": 5,
++      "HardEnemyLevel": 100,
+@@ -1461 +1461 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1559 +1559 @@
+-      "HardEnemyLevel": 6,
++      "HardEnemyLevel": 100,
+@@ -1562 +1562 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1660 +1660 @@
+-      "HardEnemyLevel": 6,
++      "HardEnemyLevel": 100,
+@@ -1663 +1663 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1763 +1763 @@
+-      "HardEnemyLevel": 7,
++      "HardEnemyLevel": 100,
+@@ -1766 +1766 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1864 +1864 @@
+-      "HardEnemyLevel": 7,
++      "HardEnemyLevel": 100,
+@@ -1867 +1867 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -1965 +1965 @@
+-      "HardEnemyLevel": 7,
++      "HardEnemyLevel": 100,
+@@ -1968 +1968 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2066 +2066 @@
+-      "HardEnemyLevel": 6,
++      "HardEnemyLevel": 100,
+@@ -2069 +2069 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2167 +2167 @@
+-      "HardEnemyLevel": 8,
++      "HardEnemyLevel": 100,
+@@ -2170 +2170 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2268 +2268 @@
+-      "HardEnemyLevel": 7,
++      "HardEnemyLevel": 100,
+@@ -2271 +2271 @@
+-      "BloodlessModeHardEnemyLevel": 11,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2369 +2369 @@
+-      "HardEnemyLevel": 8,
++      "HardEnemyLevel": 100,
+@@ -2372 +2372 @@
+-      "BloodlessModeHardEnemyLevel": 12,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2470 +2470 @@
+-      "HardEnemyLevel": 9,
++      "HardEnemyLevel": 100,
+@@ -2473 +2473 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2571 +2571 @@
+-      "HardEnemyLevel": 10,
++      "HardEnemyLevel": 100,
+@@ -2574 +2574 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2672 +2672 @@
+-      "HardEnemyLevel": 9,
++      "HardEnemyLevel": 100,
+@@ -2675 +2675 @@
+-      "BloodlessModeHardEnemyLevel": 12,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2773 +2773 @@
+-      "HardEnemyLevel": 10,
++      "HardEnemyLevel": 100,
+@@ -2776 +2776 @@
+-      "BloodlessModeHardEnemyLevel": 13,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2874 +2874 @@
+-      "HardEnemyLevel": 10,
++      "HardEnemyLevel": 100,
+@@ -2877 +2877 @@
+-      "BloodlessModeHardEnemyLevel": 13,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -2975 +2975 @@
+-      "HardEnemyLevel": 11,
++      "HardEnemyLevel": 100,
+@@ -2978 +2978 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3076 +3076 @@
+-      "HardEnemyLevel": 11,
++      "HardEnemyLevel": 100,
+@@ -3079 +3079 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3177 +3177 @@
+-      "HardEnemyLevel": 12,
++      "HardEnemyLevel": 100,
+@@ -3180 +3180 @@
+-      "BloodlessModeHardEnemyLevel": 10,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3278 +3278 @@
+-      "HardEnemyLevel": 13,
++      "HardEnemyLevel": 100,
+@@ -3281 +3281 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3379 +3379 @@
+-      "HardEnemyLevel": 14,
++      "HardEnemyLevel": 100,
+@@ -3382 +3382 @@
+-      "BloodlessModeHardEnemyLevel": 11,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3480 +3480 @@
+-      "HardEnemyLevel": 13,
++      "HardEnemyLevel": 100,
+@@ -3483 +3483 @@
+-      "BloodlessModeHardEnemyLevel": 10,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3581 +3581 @@
+-      "HardEnemyLevel": 12,
++      "HardEnemyLevel": 100,
+@@ -3584 +3584 @@
+-      "BloodlessModeHardEnemyLevel": 7,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3682 +3682 @@
+-      "HardEnemyLevel": 13,
++      "HardEnemyLevel": 100,
+@@ -3685 +3685 @@
+-      "BloodlessModeHardEnemyLevel": 12,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3783 +3783 @@
+-      "HardEnemyLevel": 13,
++      "HardEnemyLevel": 100,
+@@ -3786 +3786 @@
+-      "BloodlessModeHardEnemyLevel": 11,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3884 +3884 @@
+-      "HardEnemyLevel": 14,
++      "HardEnemyLevel": 100,
+@@ -3887 +3887 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -3985 +3985 @@
+-      "HardEnemyLevel": 14,
++      "HardEnemyLevel": 100,
+@@ -3988 +3988 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4086 +4086 @@
+-      "HardEnemyLevel": 15,
++      "HardEnemyLevel": 100,
+@@ -4089 +4089 @@
+-      "BloodlessModeHardEnemyLevel": 11,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4187 +4187 @@
+-      "HardEnemyLevel": 14,
++      "HardEnemyLevel": 100,
+@@ -4190 +4190 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4288 +4288 @@
+-      "HardEnemyLevel": 25,
++      "HardEnemyLevel": 100,
+@@ -4291 +4291 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4389 +4389 @@
+-      "HardEnemyLevel": 25,
++      "HardEnemyLevel": 100,
+@@ -4392 +4392 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4490 +4490 @@
+-      "HardEnemyLevel": 16,
++      "HardEnemyLevel": 100,
+@@ -4493 +4493 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4591 +4591 @@
+-      "HardEnemyLevel": 16,
++      "HardEnemyLevel": 100,
+@@ -4594 +4594 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4692 +4692 @@
+-      "HardEnemyLevel": 17,
++      "HardEnemyLevel": 100,
+@@ -4695 +4695 @@
+-      "BloodlessModeHardEnemyLevel": 19,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4793 +4793 @@
+-      "HardEnemyLevel": 17,
++      "HardEnemyLevel": 100,
+@@ -4796 +4796 @@
+-      "BloodlessModeHardEnemyLevel": 19,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4894 +4894 @@
+-      "HardEnemyLevel": 16,
++      "HardEnemyLevel": 100,
+@@ -4897 +4897 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -4995 +4995 @@
+-      "HardEnemyLevel": 17,
++      "HardEnemyLevel": 100,
+@@ -4998 +4998 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5096 +5096 @@
+-      "HardEnemyLevel": 17,
++      "HardEnemyLevel": 100,
+@@ -5099 +5099 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5197 +5197 @@
+-      "HardEnemyLevel": 18,
++      "HardEnemyLevel": 100,
+@@ -5200 +5200 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5298 +5298 @@
+-      "HardEnemyLevel": 19,
++      "HardEnemyLevel": 100,
+@@ -5301 +5301 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5399 +5399 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -5402 +5402 @@
+-      "BloodlessModeHardEnemyLevel": 19,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5500 +5500 @@
+-      "HardEnemyLevel": 25,
++      "HardEnemyLevel": 100,
+@@ -5503 +5503 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5601 +5601 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -5604 +5604 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5702 +5702 @@
+-      "HardEnemyLevel": 21,
++      "HardEnemyLevel": 100,
+@@ -5705 +5705 @@
+-      "BloodlessModeHardEnemyLevel": 9,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5803 +5803 @@
+-      "HardEnemyLevel": 21,
++      "HardEnemyLevel": 100,
+@@ -5806 +5806 @@
+-      "BloodlessModeHardEnemyLevel": 9,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -5904 +5904 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -5907 +5907 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6005 +6005 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -6008 +6008 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6106 +6106 @@
+-      "HardEnemyLevel": 23,
++      "HardEnemyLevel": 100,
+@@ -6109 +6109 @@
+-      "BloodlessModeHardEnemyLevel": 23,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6207 +6207 @@
+-      "HardEnemyLevel": 27,
++      "HardEnemyLevel": 100,
+@@ -6210 +6210 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6308 +6308 @@
+-      "HardEnemyLevel": 71,
++      "HardEnemyLevel": 100,
+@@ -6311 +6311 @@
+-      "BloodlessModeHardEnemyLevel": 48,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6409 +6409 @@
+-      "HardEnemyLevel": 18,
++      "HardEnemyLevel": 100,
+@@ -6412 +6412 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6510 +6510 @@
+-      "HardEnemyLevel": 19,
++      "HardEnemyLevel": 100,
+@@ -6513 +6513 @@
+-      "BloodlessModeHardEnemyLevel": 19,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6613 +6613 @@
+-      "HardEnemyLevel": 23,
++      "HardEnemyLevel": 100,
+@@ -6616 +6616 @@
+-      "BloodlessModeHardEnemyLevel": 23,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6714 +6714 @@
+-      "HardEnemyLevel": 23,
++      "HardEnemyLevel": 100,
+@@ -6717 +6717 @@
+-      "BloodlessModeHardEnemyLevel": 23,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6815 +6815 @@
+-      "HardEnemyLevel": 24,
++      "HardEnemyLevel": 100,
+@@ -6818 +6818 @@
+-      "BloodlessModeHardEnemyLevel": 24,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -6916 +6916 @@
+-      "HardEnemyLevel": 24,
++      "HardEnemyLevel": 100,
+@@ -6919 +6919 @@
+-      "BloodlessModeHardEnemyLevel": 24,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7017 +7017 @@
+-      "HardEnemyLevel": 27,
++      "HardEnemyLevel": 100,
+@@ -7020 +7020 @@
+-      "BloodlessModeHardEnemyLevel": 7,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7118 +7118 @@
+-      "HardEnemyLevel": 28,
++      "HardEnemyLevel": 100,
+@@ -7121 +7121 @@
+-      "BloodlessModeHardEnemyLevel": 8,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7219 +7219 @@
+-      "HardEnemyLevel": 29,
++      "HardEnemyLevel": 100,
+@@ -7222 +7222 @@
+-      "BloodlessModeHardEnemyLevel": 11,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7320 +7320 @@
+-      "HardEnemyLevel": 26,
++      "HardEnemyLevel": 100,
+@@ -7323 +7323 @@
+-      "BloodlessModeHardEnemyLevel": 8,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7421 +7421 @@
+-      "HardEnemyLevel": 27,
++      "HardEnemyLevel": 100,
+@@ -7424 +7424 @@
+-      "BloodlessModeHardEnemyLevel": 6,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7522 +7522 @@
+-      "HardEnemyLevel": 27,
++      "HardEnemyLevel": 100,
+@@ -7525 +7525 @@
+-      "BloodlessModeHardEnemyLevel": 13,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7623 +7623 @@
+-      "HardEnemyLevel": 28,
++      "HardEnemyLevel": 100,
+@@ -7626 +7626 @@
+-      "BloodlessModeHardEnemyLevel": 8,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7724 +7724 @@
+-      "HardEnemyLevel": 29,
++      "HardEnemyLevel": 100,
+@@ -7727 +7727 @@
+-      "BloodlessModeHardEnemyLevel": 11,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7825 +7825 @@
+-      "HardEnemyLevel": 29,
++      "HardEnemyLevel": 100,
+@@ -7828 +7828 @@
+-      "BloodlessModeHardEnemyLevel": 11,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -7926 +7926 @@
+-      "HardEnemyLevel": 29,
++      "HardEnemyLevel": 100,
+@@ -7929 +7929 @@
+-      "BloodlessModeHardEnemyLevel": 8,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8027 +8027 @@
+-      "HardEnemyLevel": 29,
++      "HardEnemyLevel": 100,
+@@ -8030 +8030 @@
+-      "BloodlessModeHardEnemyLevel": 12,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8128 +8128 @@
+-      "HardEnemyLevel": 30,
++      "HardEnemyLevel": 100,
+@@ -8131 +8131 @@
+-      "BloodlessModeHardEnemyLevel": 14,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8229 +8229 @@
+-      "HardEnemyLevel": 30,
++      "HardEnemyLevel": 100,
+@@ -8232 +8232 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8330 +8330 @@
+-      "HardEnemyLevel": 30,
++      "HardEnemyLevel": 100,
+@@ -8333 +8333 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8431 +8431 @@
+-      "HardEnemyLevel": 30,
++      "HardEnemyLevel": 100,
+@@ -8434 +8434 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8532 +8532 @@
+-      "HardEnemyLevel": 30,
++      "HardEnemyLevel": 100,
+@@ -8535 +8535 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8633 +8633 @@
+-      "HardEnemyLevel": 31,
++      "HardEnemyLevel": 100,
+@@ -8636 +8636 @@
+-      "BloodlessModeHardEnemyLevel": 26,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8734 +8734 @@
+-      "HardEnemyLevel": 31,
++      "HardEnemyLevel": 100,
+@@ -8737 +8737 @@
+-      "BloodlessModeHardEnemyLevel": 26,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8835 +8835 @@
+-      "HardEnemyLevel": 31,
++      "HardEnemyLevel": 100,
+@@ -8838 +8838 @@
+-      "BloodlessModeHardEnemyLevel": 26,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -8936 +8936 @@
+-      "HardEnemyLevel": 32,
++      "HardEnemyLevel": 100,
+@@ -8939 +8939 @@
+-      "BloodlessModeHardEnemyLevel": 21,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9037 +9037 @@
+-      "HardEnemyLevel": 33,
++      "HardEnemyLevel": 100,
+@@ -9040 +9040 @@
+-      "BloodlessModeHardEnemyLevel": 26,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9138 +9138 @@
+-      "HardEnemyLevel": 33,
++      "HardEnemyLevel": 100,
+@@ -9141 +9141 @@
+-      "BloodlessModeHardEnemyLevel": 26,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9239 +9239 @@
+-      "HardEnemyLevel": 34,
++      "HardEnemyLevel": 100,
+@@ -9242 +9242 @@
+-      "BloodlessModeHardEnemyLevel": 27,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9340 +9340 @@
+-      "HardEnemyLevel": 35,
++      "HardEnemyLevel": 100,
+@@ -9343 +9343 @@
+-      "BloodlessModeHardEnemyLevel": 28,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9441 +9441 @@
+-      "HardEnemyLevel": 37,
++      "HardEnemyLevel": 100,
+@@ -9444 +9444 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9542 +9542 @@
+-      "HardEnemyLevel": 36,
++      "HardEnemyLevel": 100,
+@@ -9545 +9545 @@
+-      "BloodlessModeHardEnemyLevel": 29,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9643 +9643 @@
+-      "HardEnemyLevel": 37,
++      "HardEnemyLevel": 100,
+@@ -9646 +9646 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9744 +9744 @@
+-      "HardEnemyLevel": 38,
++      "HardEnemyLevel": 100,
+@@ -9747 +9747 @@
+-      "BloodlessModeHardEnemyLevel": 31,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9845 +9845 @@
+-      "HardEnemyLevel": 36,
++      "HardEnemyLevel": 100,
+@@ -9848 +9848 @@
+-      "BloodlessModeHardEnemyLevel": 29,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -9946 +9946 @@
+-      "HardEnemyLevel": 37,
++      "HardEnemyLevel": 100,
+@@ -9949 +9949 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10047 +10047 @@
+-      "HardEnemyLevel": 37,
++      "HardEnemyLevel": 100,
+@@ -10050 +10050 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10148 +10148 @@
+-      "HardEnemyLevel": 38,
++      "HardEnemyLevel": 100,
+@@ -10151 +10151 @@
+-      "BloodlessModeHardEnemyLevel": 31,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10249 +10249 @@
+-      "HardEnemyLevel": 38,
++      "HardEnemyLevel": 100,
+@@ -10252 +10252 @@
+-      "BloodlessModeHardEnemyLevel": 31,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10350 +10350 @@
+-      "HardEnemyLevel": 38,
++      "HardEnemyLevel": 100,
+@@ -10353 +10353 @@
+-      "BloodlessModeHardEnemyLevel": 31,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10451 +10451 @@
+-      "HardEnemyLevel": 38,
++      "HardEnemyLevel": 100,
+@@ -10454 +10454 @@
+-      "BloodlessModeHardEnemyLevel": 31,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10552 +10552 @@
+-      "HardEnemyLevel": 39,
++      "HardEnemyLevel": 100,
+@@ -10555 +10555 @@
+-      "BloodlessModeHardEnemyLevel": 32,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10653 +10653 @@
+-      "HardEnemyLevel": 39,
++      "HardEnemyLevel": 100,
+@@ -10656 +10656 @@
+-      "BloodlessModeHardEnemyLevel": 32,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10754 +10754 @@
+-      "HardEnemyLevel": 39,
++      "HardEnemyLevel": 100,
+@@ -10757 +10757 @@
+-      "BloodlessModeHardEnemyLevel": 32,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10855 +10855 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -10858 +10858 @@
+-      "BloodlessModeHardEnemyLevel": 33,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -10956 +10956 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -10959 +10959 @@
+-      "BloodlessModeHardEnemyLevel": 34,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11057 +11057 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -11060 +11060 @@
+-      "BloodlessModeHardEnemyLevel": 34,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11158 +11158 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -11161 +11161 @@
+-      "BloodlessModeHardEnemyLevel": 34,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11259 +11259 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -11262 +11262 @@
+-      "BloodlessModeHardEnemyLevel": 34,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11360 +11360 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -11363 +11363 @@
+-      "BloodlessModeHardEnemyLevel": 34,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11463 +11463 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -11466 +11466 @@
+-      "BloodlessModeHardEnemyLevel": 34,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11564 +11564 @@
+-      "HardEnemyLevel": 41,
++      "HardEnemyLevel": 100,
+@@ -11567 +11567 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11665 +11665 @@
+-      "HardEnemyLevel": 41,
++      "HardEnemyLevel": 100,
+@@ -11668 +11668 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11766 +11766 @@
+-      "HardEnemyLevel": 41,
++      "HardEnemyLevel": 100,
+@@ -11769 +11769 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11867 +11867 @@
+-      "HardEnemyLevel": 41,
++      "HardEnemyLevel": 100,
+@@ -11870 +11870 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -11968 +11968 @@
+-      "HardEnemyLevel": 42,
++      "HardEnemyLevel": 100,
+@@ -11971 +11971 @@
+-      "BloodlessModeHardEnemyLevel": 36,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12069 +12069 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -12072 +12072 @@
+-      "BloodlessModeHardEnemyLevel": 37,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12170 +12170 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -12173 +12173 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12186 +12186 @@
+-      "MaxHP99Enemy": 3555.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -12271 +12271 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -12274 +12274 @@
+-      "BloodlessModeHardEnemyLevel": 37,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12372 +12372 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -12375 +12375 @@
+-      "BloodlessModeHardEnemyLevel": 36,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12473 +12473 @@
+-      "HardEnemyLevel": 45,
++      "HardEnemyLevel": 100,
+@@ -12476 +12476 @@
+-      "BloodlessModeHardEnemyLevel": 37,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12574 +12574 @@
+-      "HardEnemyLevel": 46,
++      "HardEnemyLevel": 100,
+@@ -12577 +12577 @@
+-      "BloodlessModeHardEnemyLevel": 38,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12675 +12675 @@
+-      "HardEnemyLevel": 47,
++      "HardEnemyLevel": 100,
+@@ -12678 +12678 @@
+-      "BloodlessModeHardEnemyLevel": 39,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12776 +12776 @@
+-      "HardEnemyLevel": 48,
++      "HardEnemyLevel": 100,
+@@ -12779 +12779 @@
+-      "BloodlessModeHardEnemyLevel": 40,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12877 +12877 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -12880 +12880 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -12978 +12978 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -12981 +12981 @@
+-      "BloodlessModeHardEnemyLevel": 41,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13079 +13079 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -13082 +13082 @@
+-      "BloodlessModeHardEnemyLevel": 39,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13180 +13180 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13183 +13183 @@
+-      "BloodlessModeHardEnemyLevel": 33,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13281 +13281 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13284 +13284 @@
+-      "BloodlessModeHardEnemyLevel": 23,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13297 +13297 @@
+-      "MaxHP99Enemy": 6666.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -13382 +13382 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13385 +13385 @@
+-      "BloodlessModeHardEnemyLevel": 23,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13483 +13483 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13486 +13486 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13499 +13499 @@
+-      "MaxHP99Enemy": 6666.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -13584 +13584 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13587 +13587 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13685 +13685 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13688 +13688 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13786 +13786 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13789 +13789 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13887 +13887 @@
+-      "HardEnemyLevel": 54,
++      "HardEnemyLevel": 100,
+@@ -13890 +13890 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -13990 +13990 @@
+-      "HardEnemyLevel": 8,
++      "HardEnemyLevel": 100,
+@@ -13993 +13993 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14006 +14006 @@
+-      "MaxHP99Enemy": 600.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -14093 +14093 @@
+-      "HardEnemyLevel": 8,
++      "HardEnemyLevel": 100,
+@@ -14096 +14096 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14109 +14109 @@
+-      "MaxHP99Enemy": 600.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -14196 +14196 @@
+-      "HardEnemyLevel": 8,
++      "HardEnemyLevel": 100,
+@@ -14199 +14199 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14299 +14299 @@
+-      "HardEnemyLevel": 18,
++      "HardEnemyLevel": 100,
+@@ -14302 +14302 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14315 +14315 @@
+-      "MaxHP99Enemy": 1200.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -14402 +14402 @@
+-      "HardEnemyLevel": 18,
++      "HardEnemyLevel": 100,
+@@ -14405 +14405 @@
+-      "BloodlessModeHardEnemyLevel": 18,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14505 +14505 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -14508 +14508 @@
+-      "BloodlessModeHardEnemyLevel": 22,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14521 +14521 @@
+-      "MaxHP99Enemy": 1500.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -14608 +14608 @@
+-      "HardEnemyLevel": 24,
++      "HardEnemyLevel": 100,
+@@ -14611 +14611 @@
+-      "BloodlessModeHardEnemyLevel": 33,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14624 +14624 @@
+-      "MaxHP99Enemy": 2500.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -14711 +14711 @@
+-      "HardEnemyLevel": 24,
++      "HardEnemyLevel": 100,
+@@ -14714 +14714 @@
+-      "BloodlessModeHardEnemyLevel": 33,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14727 +14727 @@
+-      "MaxHP99Enemy": 2500.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -14816 +14816 @@
+-      "HardEnemyLevel": 25,
++      "HardEnemyLevel": 100,
+@@ -14819 +14819 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14832 +14832 @@
+-      "MaxHP99Enemy": 2200.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -14919 +14919 @@
+-      "HardEnemyLevel": 25,
++      "HardEnemyLevel": 100,
+@@ -14922 +14922 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -14935 +14935 @@
+-      "MaxHP99Enemy": 2200.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15022 +15022 @@
+-      "HardEnemyLevel": 25,
++      "HardEnemyLevel": 100,
+@@ -15025 +15025 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15038 +15038 @@
+-      "MaxHP99Enemy": 2200.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15125 +15125 @@
+-      "HardEnemyLevel": 27,
++      "HardEnemyLevel": 100,
+@@ -15128 +15128 @@
+-      "BloodlessModeHardEnemyLevel": 33,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15141 +15141 @@
+-      "MaxHP99Enemy": 2400.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15229 +15229 @@
+-      "HardEnemyLevel": 30,
++      "HardEnemyLevel": 100,
+@@ -15232 +15232 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15245 +15245 @@
+-      "MaxHP99Enemy": 2800.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15334 +15334 @@
+-      "HardEnemyLevel": 55,
++      "HardEnemyLevel": 100,
+@@ -15337 +15337 @@
+-      "BloodlessModeHardEnemyLevel": 50,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15350 +15350 @@
+-      "MaxHP99Enemy": 6660.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15437 +15437 @@
+-      "HardEnemyLevel": 35,
++      "HardEnemyLevel": 100,
+@@ -15440 +15440 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15453 +15453 @@
+-      "MaxHP99Enemy": 3200.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15541 +15541 @@
+-      "HardEnemyLevel": 35,
++      "HardEnemyLevel": 100,
+@@ -15544 +15544 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15557 +15557 @@
+-      "MaxHP99Enemy": 3200.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15644 +15644 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -15647 +15647 @@
+-      "BloodlessModeHardEnemyLevel": 33,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15660 +15660 @@
+-      "MaxHP99Enemy": 3500.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15751 +15751 @@
+-      "HardEnemyLevel": 43,
++      "HardEnemyLevel": 100,
+@@ -15754 +15754 @@
+-      "BloodlessModeHardEnemyLevel": 35,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15767 +15767 @@
+-      "MaxHP99Enemy": 4000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15854 +15854 @@
+-      "HardEnemyLevel": 45,
++      "HardEnemyLevel": 100,
+@@ -15857 +15857 @@
+-      "BloodlessModeHardEnemyLevel": 37,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15870 +15870 @@
+-      "MaxHP99Enemy": 4500.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -15958 +15958 @@
+-      "HardEnemyLevel": 45,
++      "HardEnemyLevel": 100,
+@@ -15961 +15961 @@
+-      "BloodlessModeHardEnemyLevel": 39,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -15974 +15974 @@
+-      "MaxHP99Enemy": 3000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16063 +16063 @@
+-      "HardEnemyLevel": 49,
++      "HardEnemyLevel": 100,
+@@ -16066 +16066 @@
+-      "BloodlessModeHardEnemyLevel": 43,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16079 +16079 @@
+-      "MaxHP99Enemy": 6666.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16170 +16170 @@
+-      "HardEnemyLevel": 47,
++      "HardEnemyLevel": 100,
+@@ -16173 +16173 @@
+-      "BloodlessModeHardEnemyLevel": 43,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16186 +16186 @@
+-      "MaxHP99Enemy": 4989.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16276 +16276 @@
+-      "HardEnemyLevel": 16,
++      "HardEnemyLevel": 100,
+@@ -16279 +16279 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16292 +16292 @@
+-      "MaxHP99Enemy": 1000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16381 +16381 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -16384 +16384 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16397 +16397 @@
+-      "MaxHP99Enemy": 5963.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16486 +16486 @@
+-      "HardEnemyLevel": 85,
++      "HardEnemyLevel": 100,
+@@ -16489 +16489 @@
+-      "BloodlessModeHardEnemyLevel": 85,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16502 +16502 @@
+-      "MaxHP99Enemy": 9999.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16589 +16589 @@
+-      "HardEnemyLevel": 17,
++      "HardEnemyLevel": 100,
+@@ -16592 +16592 @@
+-      "BloodlessModeHardEnemyLevel": 17,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16605 +16605 @@
+-      "MaxHP99Enemy": 1500.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16692 +16692 @@
+-      "HardEnemyLevel": 71,
++      "HardEnemyLevel": 100,
+@@ -16695 +16695 @@
+-      "BloodlessModeHardEnemyLevel": 71,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16796 +16796 @@
+-      "HardEnemyLevel": 71,
++      "HardEnemyLevel": 100,
+@@ -16799 +16799 @@
+-      "BloodlessModeHardEnemyLevel": 55,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16812 +16812 @@
+-      "MaxHP99Enemy": 10000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -16902 +16902 @@
+-      "HardEnemyLevel": 71,
++      "HardEnemyLevel": 100,
+@@ -16905 +16905 @@
+-      "BloodlessModeHardEnemyLevel": 55,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -16918 +16918 @@
+-      "MaxHP99Enemy": 10000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -17005 +17005 @@
+-      "HardEnemyLevel": 71,
++      "HardEnemyLevel": 100,
+@@ -17008 +17008 @@
+-      "BloodlessModeHardEnemyLevel": 55,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17021 +17021 @@
+-      "MaxHP99Enemy": 10000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -17108 +17108 @@
+-      "HardEnemyLevel": 60,
++      "HardEnemyLevel": 100,
+@@ -17111 +17111 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17124 +17124 @@
+-      "MaxHP99Enemy": 4444.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -17211 +17211 @@
+-      "HardEnemyLevel": 60,
++      "HardEnemyLevel": 100,
+@@ -17214 +17214 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17227 +17227 @@
+-      "MaxHP99Enemy": 4444.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -17314 +17314 @@
+-      "HardEnemyLevel": 60,
++      "HardEnemyLevel": 100,
+@@ -17317 +17317 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17330 +17330 @@
+-      "MaxHP99Enemy": 4444.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -17417 +17417 @@
+-      "HardEnemyLevel": 60,
++      "HardEnemyLevel": 100,
+@@ -17420 +17420 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17433 +17433 @@
+-      "MaxHP99Enemy": 4444.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -17520 +17520 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -17523 +17523 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17623 +17623 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -17626 +17626 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17724 +17724 @@
+-      "HardEnemyLevel": 10,
++      "HardEnemyLevel": 100,
+@@ -17727 +17727 @@
+-      "BloodlessModeHardEnemyLevel": 10,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17825 +17825 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -17828 +17828 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17841 +17841 @@
+-      "MaxHP99Enemy": 9000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -17928 +17928 @@
+-      "HardEnemyLevel": 50,
++      "HardEnemyLevel": 100,
+@@ -17931 +17931 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -17944 +17944 @@
+-      "MaxHP99Enemy": 7000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -18031 +18031 @@
+-      "HardEnemyLevel": 71,
++      "HardEnemyLevel": 100,
+@@ -18034 +18034 @@
+-      "BloodlessModeHardEnemyLevel": 55,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18047 +18047 @@
+-      "MaxHP99Enemy": 12000.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -18134 +18134 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -18137 +18137 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18235 +18235 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -18238 +18238 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18336 +18336 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -18339 +18339 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18437 +18437 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -18440 +18440 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18538 +18538 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -18541 +18541 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18639 +18639 @@
+-      "HardEnemyLevel": 98,
++      "HardEnemyLevel": 100,
+@@ -18642 +18642 @@
+-      "BloodlessModeHardEnemyLevel": 98,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18740 +18740 @@
+-      "HardEnemyLevel": 4,
++      "HardEnemyLevel": 100,
+@@ -18743 +18743 @@
+-      "BloodlessModeHardEnemyLevel": 4,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18841 +18841 @@
+-      "HardEnemyLevel": 33,
++      "HardEnemyLevel": 100,
+@@ -18844 +18844 @@
+-      "BloodlessModeHardEnemyLevel": 33,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -18857 +18857 @@
+-      "MaxHP99Enemy": 3200.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -18942 +18942 @@
+-      "HardEnemyLevel": 4,
++      "HardEnemyLevel": 100,
+@@ -18945 +18945 @@
+-      "BloodlessModeHardEnemyLevel": 4,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19043 +19043 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -19046 +19046 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19059 +19059 @@
+-      "MaxHP99Enemy": 3555.0,
++      "MaxHP99Enemy": 15000.0,
+@@ -19144 +19144 @@
+-      "HardEnemyLevel": 25,
++      "HardEnemyLevel": 100,
+@@ -19147 +19147 @@
+-      "BloodlessModeHardEnemyLevel": 25,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19245 +19245 @@
+-      "HardEnemyLevel": 300,
++      "HardEnemyLevel": 100,
+@@ -19248 +19248 @@
+-      "BloodlessModeHardEnemyLevel": 300,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19346 +19346 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -19349 +19349 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19447 +19447 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -19450 +19450 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19548 +19548 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -19551 +19551 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19649 +19649 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -19652 +19652 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19750 +19750 @@
+-      "HardEnemyLevel": 40,
++      "HardEnemyLevel": 100,
+@@ -19753 +19753 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19851 +19851 @@
+-      "HardEnemyLevel": 4,
++      "HardEnemyLevel": 100,
+@@ -19854 +19854 @@
+-      "BloodlessModeHardEnemyLevel": 4,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -19952 +19952 @@
+-      "HardEnemyLevel": 20,
++      "HardEnemyLevel": 100,
+@@ -19955 +19955 @@
+-      "BloodlessModeHardEnemyLevel": 20,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20053 +20053 @@
+-      "HardEnemyLevel": 5,
++      "HardEnemyLevel": 100,
+@@ -20056 +20056 @@
+-      "BloodlessModeHardEnemyLevel": 5,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20154 +20154 @@
+-      "HardEnemyLevel": 3,
++      "HardEnemyLevel": 100,
+@@ -20157 +20157 @@
+-      "BloodlessModeHardEnemyLevel": 3,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20255 +20255 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -20258 +20258 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20356 +20356 @@
+-      "HardEnemyLevel": 15,
++      "HardEnemyLevel": 100,
+@@ -20359 +20359 @@
+-      "BloodlessModeHardEnemyLevel": 15,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20457 +20457 @@
+-      "HardEnemyLevel": 5,
++      "HardEnemyLevel": 100,
+@@ -20460 +20460 @@
+-      "BloodlessModeHardEnemyLevel": 5,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20558 +20558 @@
+-      "HardEnemyLevel": 3,
++      "HardEnemyLevel": 100,
+@@ -20561 +20561 @@
+-      "BloodlessModeHardEnemyLevel": 3,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20659 +20659 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -20662 +20662 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20760 +20760 @@
+-      "HardEnemyLevel": 44,
++      "HardEnemyLevel": 100,
+@@ -20763 +20763 @@
+-      "BloodlessModeHardEnemyLevel": 44,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20861 +20861 @@
+-      "HardEnemyLevel": 45,
++      "HardEnemyLevel": 100,
+@@ -20864 +20864 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -20962 +20962 @@
+-      "HardEnemyLevel": 45,
++      "HardEnemyLevel": 100,
+@@ -20965 +20965 @@
+-      "BloodlessModeHardEnemyLevel": 45,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21063 +21063 @@
+-      "HardEnemyLevel": 30,
++      "HardEnemyLevel": 100,
+@@ -21066 +21066 @@
+-      "BloodlessModeHardEnemyLevel": 30,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21164 +21164 @@
+-      "HardEnemyLevel": 39,
++      "HardEnemyLevel": 100,
+@@ -21167 +21167 @@
+-      "BloodlessModeHardEnemyLevel": 39,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21265 +21265 @@
+-      "HardEnemyLevel": 5,
++      "HardEnemyLevel": 100,
+@@ -21268 +21268 @@
+-      "BloodlessModeHardEnemyLevel": 5,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21366 +21366 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -21369 +21369 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21467 +21467 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -21470 +21470 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21568 +21568 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -21571 +21571 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21669 +21669 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -21672 +21672 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21770 +21770 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -21773 +21773 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21871 +21871 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -21874 +21874 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -21972 +21972 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -21975 +21975 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22073 +22073 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -22076 +22076 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22174 +22174 @@
+-      "HardEnemyLevel": 1,
++      "HardEnemyLevel": 100,
+@@ -22177 +22177 @@
+-      "BloodlessModeHardEnemyLevel": 1,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22275 +22275 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -22278 +22278 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22376 +22376 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -22379 +22379 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22477 +22477 @@
+-      "HardEnemyLevel": 12,
++      "HardEnemyLevel": 100,
+@@ -22480 +22480 @@
+-      "BloodlessModeHardEnemyLevel": 12,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22578 +22578 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -22581 +22581 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22679 +22679 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -22682 +22682 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22780 +22780 @@
+-      "HardEnemyLevel": 0,
++      "HardEnemyLevel": 100,
+@@ -22783 +22783 @@
+-      "BloodlessModeHardEnemyLevel": 0,
++      "BloodlessModeHardEnemyLevel": 100,
+@@ -22883 +22883 @@
+-      "HardEnemyLevel": 3,
++      "HardEnemyLevel": 100,
+@@ -22886 +22886 @@
+-      "BloodlessModeHardEnemyLevel": 3,
++      "BloodlessModeHardEnemyLevel": 100,

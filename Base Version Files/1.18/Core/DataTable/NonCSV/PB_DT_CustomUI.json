@@ -1,0 +1,42 @@
+[
+  {
+    "Key": "Default",
+    "Value": {
+      "m_FaceIcon": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/Face_Miriam",
+      "m_GaugeFrame": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriam",
+      "m_GaugeShadow": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriamShadow"
+    }
+  },
+  {
+    "Key": "VampiricSkinsuit",
+    "Value": {
+      "m_FaceIcon": "/Game/Core/UI/CosmeticPacks/packA/packA_HUDelements/packA_Face",
+      "m_GaugeFrame": "/Game/Core/UI/CosmeticPacks/packA/packA_HUDelements/packA_frame",
+      "m_GaugeShadow": "/Game/Core/UI/CosmeticPacks/packA/packA_HUDelements/packA_frameShadow"
+    }
+  },
+  {
+    "Key": "MagicalGirlBody",
+    "Value": {
+      "m_FaceIcon": "/Game/Core/UI/CosmeticPacks/packB/packB_HUDelements/packB_Face",
+      "m_GaugeFrame": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriam",
+      "m_GaugeShadow": "/Game/Core/UI/CosmeticPacks/packB/packB_HUDelements/packB_frameShadow"
+    }
+  },
+  {
+    "Key": "FestivalKimono",
+    "Value": {
+      "m_FaceIcon": "/Game/Core/UI/CosmeticPacks/packC/packC_HUDelements/packC_Face",
+      "m_GaugeFrame": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriam",
+      "m_GaugeShadow": "/Game/Core/UI/CosmeticPacks/packC/packC_HUDelements/packC_frameShadow"
+    }
+  },
+  {
+    "Key": "ShantaeOutfit",
+    "Value": {
+      "m_FaceIcon": "/Game/Core/UI/CosmeticPacks/packD/packD_HUDelements/packD__Face",
+      "m_GaugeFrame": "/Game/Core/UI/HUD/HUD_asset/StateGauge/0000/frameMiriam",
+      "m_GaugeShadow": "/Game/Core/UI/CosmeticPacks/packD/packD_HUDelements/packD__frameShadow"
+    }
+  }
+]

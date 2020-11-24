@@ -1,0 +1,66 @@
+[
+  {
+    "Key": "Andrealphus",
+    "Value": {
+      "HP": 2000,
+      "MP": 100,
+      "MP_RegenRate": 3.0
+    }
+  },
+  {
+    "Key": "Bathin",
+    "Value": {
+      "HP": 2000,
+      "MP": 100,
+      "MP_RegenRate": 3.0
+    }
+  },
+  {
+    "Key": "Bloodless",
+    "Value": {
+      "HP": 2000,
+      "MP": 100,
+      "MP_RegenRate": 1.0
+    }
+  },
+  {
+    "Key": "Gremory",
+    "Value": {
+      "HP": 2000,
+      "MP": 100,
+      "MP_RegenRate": 4.0
+    }
+  },
+  {
+    "Key": "Zangetsu",
+    "Value": {
+      "HP": 3500,
+      "MP": 0,
+      "MP_RegenRate": 0.0
+    }
+  },
+  {
+    "Key": "Dominique",
+    "Value": {
+      "HP": 3000,
+      "MP": 0,
+      "MP_RegenRate": 0.0
+    }
+  },
+  {
+    "Key": "Miriam",
+    "Value": {
+      "HP": 4000,
+      "MP": 0,
+      "MP_RegenRate": 0.0
+    }
+  },
+  {
+    "Key": "DominiqueGhostBullet",
+    "Value": {
+      "HP": 20,
+      "MP": 0,
+      "MP_RegenRate": 0.0
+    }
+  }
+]
