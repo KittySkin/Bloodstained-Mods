@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_ArtsCommandMaster.json	Sun Nov 22 03:54:41 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/SimpleTechs/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArtsCommandMaster.json	Tue Nov 24 17:40:10 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/SimpleTechs/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArtsCommandMaster.json	Thu Nov 26 16:30:10 2020
 @@ -12 +12 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
@@ -426,319 +426,495 @@
 @@ -1919 +1694 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -1931,5 +1705,0 @@
+@@ -1926 +1701 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -1931,10 +1705,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -1964 +1734 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -1964 +1729 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -1976,5 +1745,0 @@
+@@ -1971 +1736 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -1976,10 +1740,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2009 +1774 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2009 +1764 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2021,5 +1785,0 @@
+@@ -2016 +1771 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2021,10 +1775,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2054 +1814 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2054 +1799 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2066,5 +1825,0 @@
+@@ -2061 +1806 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2066,10 +1810,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2099 +1854 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2099 +1834 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2111,5 +1865,0 @@
+@@ -2106 +1841 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2111,10 +1845,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2144 +1894 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2144 +1869 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2156,5 +1905,0 @@
+@@ -2151 +1876 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2156,10 +1880,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2189 +1934 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2189 +1904 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2201,5 +1945,0 @@
+@@ -2196 +1911 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2201,10 +1915,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2234 +1974 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2234 +1939 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2246,5 +1985,0 @@
+@@ -2241 +1946 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2246,10 +1950,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2279 +2014 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2279 +1974 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2315 +2050 @@
+@@ -2315 +2010 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -2327,5 +2061,0 @@
+@@ -2327,5 +2021,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2355 +2085 @@
+@@ -2355 +2045 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -2367,5 +2096,0 @@
+@@ -2367,5 +2056,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2395 +2120 @@
+@@ -2395 +2080 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -2407,5 +2131,0 @@
+@@ -2407,5 +2091,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2435 +2155 @@
+@@ -2435 +2115 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2447,5 +2166,0 @@
+@@ -2442 +2122 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2447,10 +2126,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2480 +2195 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2480 +2150 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2492,5 +2206,0 @@
+@@ -2487 +2157 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2492,10 +2161,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2525 +2235 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2525 +2185 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2537,5 +2246,0 @@
+@@ -2532 +2192 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2537,10 +2196,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2570 +2275 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2570 +2220 @@
 -      "Expertise": 500,
 +      "Expertise": 10,
-@@ -2620 +2325 @@
+@@ -2620 +2270 @@
 -      "Expertise": 500,
 +      "Expertise": 10,
-@@ -2670 +2375 @@
+@@ -2670 +2320 @@
 -      "Expertise": 500,
 +      "Expertise": 10,
-@@ -2720 +2425 @@
+@@ -2720 +2370 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -2760 +2465 @@
+@@ -2760 +2410 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -2800 +2505 @@
+@@ -2800 +2450 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -2812,5 +2516,0 @@
+@@ -2812,5 +2461,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2840 +2540 @@
+@@ -2840 +2485 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -2852,5 +2551,0 @@
+@@ -2852,5 +2496,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -2915 +2610 @@
+@@ -2915 +2555 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -2960 +2655 @@
+@@ -2922 +2562 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2927,5 +2566,0 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2937,5 +2571,0 @@
+-            "Key": "6",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2960 +2590 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3005 +2700 @@
+@@ -2967 +2597 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -2972,5 +2601,0 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -2982,5 +2606,0 @@
+-            "Key": "6",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3005 +2625 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -3042 +2737 @@
+@@ -3042 +2662 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -3079 +2774 @@
+@@ -3079 +2699 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3093,5 +2787,0 @@
+@@ -3093,5 +2712,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3121 +2811 @@
+@@ -3121 +2736 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3135,5 +2824,0 @@
+@@ -3135,5 +2749,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3163 +2848 @@
+@@ -3163 +2773 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3175,5 +2859,0 @@
+@@ -3175,5 +2784,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3203 +2883 @@
+@@ -3203 +2808 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3215,5 +2894,0 @@
+@@ -3215,5 +2819,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3243 +2918 @@
+@@ -3243 +2843 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3255,5 +2929,0 @@
+@@ -3255,5 +2854,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3283 +2953 @@
+@@ -3283 +2878 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -3295,5 +2964,0 @@
+@@ -3290 +2885 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -3295,10 +2889,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3328 +2993 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3328 +2913 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -3340,5 +3004,0 @@
+@@ -3335 +2920 @@
+-            "Key": "2",
++            "Key": "8",
+@@ -3340,10 +2924,0 @@
 -            "Key": "1",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3373 +3033 @@
+-            "Key": "4",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3373 +2948 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3408 +3068 @@
+@@ -3408 +2983 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3443 +3103 @@
+@@ -3443 +3018 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -3483 +3143 @@
+@@ -3483 +3058 @@
 -      "Expertise": 80,
 +      "Expertise": 10,
-@@ -3523 +3183 @@
+@@ -3523 +3098 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3568 +3228 @@
+@@ -3530 +3105 @@
+-            "Key": "4",
++            "Key": "8",
+@@ -3535,10 +3109,0 @@
+-            "Key": "2",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+-            "Key": "6",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3568 +3133 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3613 +3273 @@
+@@ -3575 +3140 @@
+-            "Key": "4",
++            "Key": "8",
+@@ -3580,10 +3144,0 @@
+-            "Key": "2",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+-            "Key": "6",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3613 +3168 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3658 +3318 @@
+@@ -3620 +3175 @@
+-            "Key": "4",
++            "Key": "8",
+@@ -3625,10 +3179,0 @@
+-            "Key": "2",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+-            "Key": "6",
+-            "Time": 0.2,
+-            "UTTypes": "NameProperty,FloatProperty"
+-          },
+-          {
+@@ -3658 +3203 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3670,5 +3329,0 @@
+@@ -3670,5 +3214,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3698 +3353 @@
+@@ -3698 +3238 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3710,5 +3364,0 @@
+@@ -3710,5 +3249,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3738 +3388 @@
+@@ -3738 +3273 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3750,5 +3399,0 @@
+@@ -3750,5 +3284,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3778 +3423 @@
+@@ -3778 +3308 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3813 +3458 @@
+@@ -3813 +3343 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3848 +3493 @@
+@@ -3848 +3378 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
-@@ -3931,5 +3575,0 @@
+@@ -3931,5 +3460,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -3971,5 +3610,0 @@
+@@ -3971,5 +3495,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -4011,5 +3645,0 @@
+@@ -4011,5 +3530,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -4077 +3707 @@
+@@ -4077 +3592 @@
 -      "CostMP": 15,
 +      "CostMP": 0,
-@@ -4091,5 +3720,0 @@
+@@ -4091,5 +3605,0 @@
 -            "Key": "3",
 -            "Time": 0.2,
 -            "UTTypes": "NameProperty,FloatProperty"
