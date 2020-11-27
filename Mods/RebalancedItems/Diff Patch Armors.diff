@@ -1,28 +1,157 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 22 03:54:40 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Thu Nov 26 23:44:55 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Fri Nov 27 01:29:31 2020
 @@ -1611,3 +1611,3 @@
 -      "ZAN": 0,
 -      "DAG": 0,
 -      "TOT": 0,
-+      "ZAN": 10,
-+      "DAG": 10,
-+      "TOT": 10,
++      "ZAN": 5,
++      "DAG": 5,
++      "TOT": 5,
 @@ -1622 +1622 @@
 -      "STR": 0,
 +      "STR": 10,
 @@ -1626 +1626 @@
 -      "LUC": 7,
-+      "LUC": 15,
++      "LUC": 16,
+@@ -2313 +2313 @@
+-      "MeleeDefense": 3,
++      "MeleeDefense": 5,
+@@ -2321 +2321 @@
+-      "HOL": 1,
++      "HOL": 0,
+@@ -2330 +2330 @@
+-      "LUC": 2,
++      "LUC": 10,
+@@ -2357 +2357 @@
+-      "MeleeDefense": 3,
++      "MeleeDefense": 5,
+@@ -2372 +2372 @@
+-      "INT": 3,
++      "INT": 10,
+@@ -2401 +2401 @@
+-      "MeleeDefense": 4,
++      "MeleeDefense": 5,
+@@ -2417 +2417 @@
+-      "MND": 3,
++      "MND": 10,
+@@ -2445 +2445 @@
+-      "MeleeDefense": 4,
++      "MeleeDefense": 5,
+@@ -2458 +2458 @@
+-      "STR": 3,
++      "STR": 10,
+@@ -2503 +2503 @@
+-      "CON": 5,
++      "CON": 10,
+@@ -3809,2 +3809,2 @@
+-      "MeleeDefense": 1,
+-      "MagicDefense": 1,
++      "MeleeDefense": 3,
++      "MagicDefense": 3,
+@@ -4029 +4029 @@
+-      "MeleeDefense": 0,
++      "MeleeDefense": 1,
+@@ -4117,2 +4117,2 @@
+-      "MeleeDefense": 1,
+-      "MagicDefense": 0,
++      "MeleeDefense": 2,
++      "MagicDefense": 2,
+@@ -4169,4 +4169,4 @@
+-      "HOL": -10,
+-      "DAR": 10,
+-      "POI": 10,
+-      "CUR": -10,
++      "HOL": -20,
++      "DAR": 20,
++      "POI": 20,
++      "CUR": -20,
+@@ -4174 +4174 @@
+-      "STR": 10,
++      "STR": 20,
+@@ -4176 +4176 @@
+-      "INT": 10,
++      "INT": 20,
+@@ -4178 +4178 @@
+-      "LUC": -10,
++      "LUC": -20,
+@@ -4205,2 +4205,2 @@
+-      "MeleeDefense": 3,
+-      "MagicDefense": 0,
++      "MeleeDefense": 4,
++      "MagicDefense": 4,
+@@ -4293,2 +4293,2 @@
+-      "MeleeDefense": 0,
+-      "MagicDefense": 0,
++      "MeleeDefense": 5,
++      "MagicDefense": 5,
+@@ -4381,2 +4381,2 @@
+-      "MeleeDefense": 3,
+-      "MagicDefense": 2,
++      "MeleeDefense": 4,
++      "MagicDefense": 4,
+@@ -4601 +4601 @@
+-      "MeleeDefense": 1,
++      "MeleeDefense": 0,
+@@ -4618 +4618 @@
+-      "LUC": 3,
++      "LUC": 0,
+@@ -4658 +4658 @@
+-      "STR": 15,
++      "STR": 50,
+@@ -4660 +4660 @@
+-      "INT": 15,
++      "INT": 50,
+@@ -5875,20 +5875,20 @@
+-      "MeleeAttack": 0,
+-      "MagicAttack": 0,
+-      "MeleeDefense": 14,
+-      "MagicDefense": 3,
+-      "ZAN": 0,
+-      "DAG": 0,
+-      "TOT": 0,
+-      "FLA": 0,
+-      "ICE": 0,
+-      "LIG": 0,
+-      "HOL": 0,
+-      "DAR": 0,
+-      "POI": 0,
+-      "CUR": 0,
+-      "STO": 0,
+-      "STR": 0,
+-      "CON": 2,
+-      "INT": 0,
+-      "MND": 0,
+-      "LUC": 0,
++      "MeleeAttack": 50,
++      "MagicAttack": 50,
++      "MeleeDefense": 52,
++      "MagicDefense": 52,
++      "ZAN": 10,
++      "DAG": 10,
++      "TOT": 10,
++      "FLA": 10,
++      "ICE": 10,
++      "LIG": 10,
++      "HOL": 10,
++      "DAR": 10,
++      "POI": 10,
++      "CUR": 10,
++      "STO": 10,
++      "STR": 10,
++      "CON": 20,
++      "INT": 10,
++      "MND": 20,
++      "LUC": 10,
 @@ -6979,3 +6979,3 @@
 -      "ZAN": 0,
 -      "DAG": 0,
 -      "TOT": 0,
-+      "ZAN": 10,
-+      "DAG": 10,
-+      "TOT": 10,
++      "ZAN": 5,
++      "DAG": 5,
++      "TOT": 5,
 @@ -6990 +6990 @@
 -      "STR": 0,
 +      "STR": 10,
 @@ -6994 +6994 @@
 -      "LUC": 7,
-+      "LUC": 15,
++      "LUC": 16,
