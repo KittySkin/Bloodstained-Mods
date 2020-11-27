@@ -1,0 +1,28 @@
+--- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 22 03:54:40 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Thu Nov 26 23:44:55 2020
+@@ -1611,3 +1611,3 @@
+-      "ZAN": 0,
+-      "DAG": 0,
+-      "TOT": 0,
++      "ZAN": 10,
++      "DAG": 10,
++      "TOT": 10,
+@@ -1622 +1622 @@
+-      "STR": 0,
++      "STR": 10,
+@@ -1626 +1626 @@
+-      "LUC": 7,
++      "LUC": 15,
+@@ -6979,3 +6979,3 @@
+-      "ZAN": 0,
+-      "DAG": 0,
+-      "TOT": 0,
++      "ZAN": 10,
++      "DAG": 10,
++      "TOT": 10,
+@@ -6990 +6990 @@
+-      "STR": 0,
++      "STR": 10,
+@@ -6994 +6994 @@
+-      "LUC": 7,
++      "LUC": 15,

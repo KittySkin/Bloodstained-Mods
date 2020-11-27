@@ -1,5 +1,5 @@
---- C:/Users/alexi/Downloads/DiscordTutorial-1.0/Tools/umodel_win32/UmodelSaved/1.18/Core/DataTable/Item/PB_DT_ItemMaster.json	Sun Nov 22 03:55:06 2020
-+++ C:/Users/alexi/Downloads/DiscordTutorial-1.0/Mods/ItemModifier/Edits/BloodstainedRotN/Content/Core/DataTable/Item/PB_DT_ItemMaster.json	Sun Nov 22 01:14:34 2020
+--- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/Item/PB_DT_ItemMaster.json	Sun Nov 22 03:55:06 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/ItemModifier/Edits/BloodstainedRotN/Content/Core/DataTable/Item/PB_DT_ItemMaster.json	Sun Nov 22 01:14:34 2020
 @@ -226 +226 @@
 -      "NotInheritable": true,
 +      "NotInheritable": false,

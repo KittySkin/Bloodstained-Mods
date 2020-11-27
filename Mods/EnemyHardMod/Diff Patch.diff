@@ -1,5 +1,5 @@
---- C:/Users/alexi/Downloads/DiscordTutorial-1.0/Tools/umodel_win32/UmodelSaved/1.18/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Sun Nov 22 03:55:05 2020
-+++ C:/Users/alexi/Downloads/DiscordTutorial-1.0/Mods/EnemyHardMod/Edits/BloodstainedRotN/Content/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Mon Nov 23 21:57:40 2020
+--- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Sun Nov 22 03:55:05 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/EnemyHardMod/Edits/BloodstainedRotN/Content/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Tue Nov 24 17:56:27 2020
 @@ -30 +30 @@
 -      "HardEnemyLevel": 50,
 +      "HardEnemyLevel": 100,
@@ -684,6 +684,9 @@
 @@ -12173 +12173 @@
 -      "BloodlessModeHardEnemyLevel": 18,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12175 +12175 @@
+-      "BloodlessModeEnemyHPOverride": 1200.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -12186 +12186 @@
 -      "MaxHP99Enemy": 3555.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -753,6 +756,9 @@
 @@ -13284 +13284 @@
 -      "BloodlessModeHardEnemyLevel": 23,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13286 +13286 @@
+-      "BloodlessModeEnemyHPOverride": 2000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -13297 +13297 @@
 -      "MaxHP99Enemy": 6666.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -768,6 +774,9 @@
 @@ -13486 +13486 @@
 -      "BloodlessModeHardEnemyLevel": 17,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13488 +13488 @@
+-      "BloodlessModeEnemyHPOverride": 777.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -13499 +13499 @@
 -      "MaxHP99Enemy": 6666.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -801,6 +810,9 @@
 @@ -13993 +13993 @@
 -      "BloodlessModeHardEnemyLevel": 35,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13995 +13995 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -14006 +14006 @@
 -      "MaxHP99Enemy": 600.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -810,6 +822,9 @@
 @@ -14096 +14096 @@
 -      "BloodlessModeHardEnemyLevel": 35,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -14098 +14098 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -14109 +14109 @@
 -      "MaxHP99Enemy": 600.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -825,6 +840,9 @@
 @@ -14302 +14302 @@
 -      "BloodlessModeHardEnemyLevel": 18,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -14304 +14304 @@
+-      "BloodlessModeEnemyHPOverride": 1100.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -14315 +14315 @@
 -      "MaxHP99Enemy": 1200.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -840,6 +858,9 @@
 @@ -14508 +14508 @@
 -      "BloodlessModeHardEnemyLevel": 22,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -14510 +14510 @@
+-      "BloodlessModeEnemyHPOverride": 1900.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -14521 +14521 @@
 -      "MaxHP99Enemy": 1500.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -849,6 +870,9 @@
 @@ -14611 +14611 @@
 -      "BloodlessModeHardEnemyLevel": 33,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -14613 +14613 @@
+-      "BloodlessModeEnemyHPOverride": 3500.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -14624 +14624 @@
 -      "MaxHP99Enemy": 2500.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -858,6 +882,9 @@
 @@ -14714 +14714 @@
 -      "BloodlessModeHardEnemyLevel": 33,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -14716 +14716 @@
+-      "BloodlessModeEnemyHPOverride": 3500.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -14727 +14727 @@
 -      "MaxHP99Enemy": 2500.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -903,6 +930,9 @@
 @@ -15232 +15232 @@
 -      "BloodlessModeHardEnemyLevel": 30,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -15234 +15234 @@
+-      "BloodlessModeEnemyHPOverride": 2800.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -15245 +15245 @@
 -      "MaxHP99Enemy": 2800.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -912,6 +942,9 @@
 @@ -15337 +15337 @@
 -      "BloodlessModeHardEnemyLevel": 50,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -15339 +15339 @@
+-      "BloodlessModeEnemyHPOverride": 4000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -15350 +15350 @@
 -      "MaxHP99Enemy": 6660.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -939,6 +972,9 @@
 @@ -15647 +15647 @@
 -      "BloodlessModeHardEnemyLevel": 33,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -15649 +15649 @@
+-      "BloodlessModeEnemyHPOverride": 3100.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -15660 +15660 @@
 -      "MaxHP99Enemy": 3500.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -948,6 +984,9 @@
 @@ -15754 +15754 @@
 -      "BloodlessModeHardEnemyLevel": 35,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -15756 +15756 @@
+-      "BloodlessModeEnemyHPOverride": 3300.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -15767 +15767 @@
 -      "MaxHP99Enemy": 4000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -957,6 +996,9 @@
 @@ -15857 +15857 @@
 -      "BloodlessModeHardEnemyLevel": 37,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -15859 +15859 @@
+-      "BloodlessModeEnemyHPOverride": 3600.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -15870 +15870 @@
 -      "MaxHP99Enemy": 4500.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -966,6 +1008,9 @@
 @@ -15961 +15961 @@
 -      "BloodlessModeHardEnemyLevel": 39,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -15963 +15963 @@
+-      "BloodlessModeEnemyHPOverride": 4000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -15974 +15974 @@
 -      "MaxHP99Enemy": 3000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -975,6 +1020,9 @@
 @@ -16066 +16066 @@
 -      "BloodlessModeHardEnemyLevel": 43,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -16068 +16068 @@
+-      "BloodlessModeEnemyHPOverride": 4200.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -16079 +16079 @@
 -      "MaxHP99Enemy": 6666.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -984,6 +1032,9 @@
 @@ -16173 +16173 @@
 -      "BloodlessModeHardEnemyLevel": 43,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -16175 +16175 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -16186 +16186 @@
 -      "MaxHP99Enemy": 4989.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1002,6 +1053,9 @@
 @@ -16384 +16384 @@
 -      "BloodlessModeHardEnemyLevel": 45,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -16386 +16386 @@
+-      "BloodlessModeEnemyHPOverride": 4500.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -16397 +16397 @@
 -      "MaxHP99Enemy": 5963.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1035,6 +1089,9 @@
 @@ -16799 +16799 @@
 -      "BloodlessModeHardEnemyLevel": 55,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -16801 +16801 @@
+-      "BloodlessModeEnemyHPOverride": 5600.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -16812 +16812 @@
 -      "MaxHP99Enemy": 10000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1044,6 +1101,9 @@
 @@ -16905 +16905 @@
 -      "BloodlessModeHardEnemyLevel": 55,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -16907 +16907 @@
+-      "BloodlessModeEnemyHPOverride": 5600.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -16918 +16918 @@
 -      "MaxHP99Enemy": 10000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1053,6 +1113,9 @@
 @@ -17008 +17008 @@
 -      "BloodlessModeHardEnemyLevel": 55,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -17010 +17010 @@
+-      "BloodlessModeEnemyHPOverride": 5600.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -17021 +17021 @@
 -      "MaxHP99Enemy": 10000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1062,6 +1125,9 @@
 @@ -17111 +17111 @@
 -      "BloodlessModeHardEnemyLevel": 45,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -17113 +17113 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -17124 +17124 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1071,6 +1137,9 @@
 @@ -17214 +17214 @@
 -      "BloodlessModeHardEnemyLevel": 45,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -17216 +17216 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -17227 +17227 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1080,6 +1149,9 @@
 @@ -17317 +17317 @@
 -      "BloodlessModeHardEnemyLevel": 45,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -17319 +17319 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -17330 +17330 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1089,6 +1161,9 @@
 @@ -17420 +17420 @@
 -      "BloodlessModeHardEnemyLevel": 45,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -17422 +17422 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -17433 +17433 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1116,6 +1191,9 @@
 @@ -17828 +17828 @@
 -      "BloodlessModeHardEnemyLevel": 45,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -17830 +17830 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -17841 +17841 @@
 -      "MaxHP99Enemy": 9000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1125,6 +1203,9 @@
 @@ -17931 +17931 @@
 -      "BloodlessModeHardEnemyLevel": 45,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -17933 +17933 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -17944 +17944 @@
 -      "MaxHP99Enemy": 7000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1200,6 +1281,9 @@
 @@ -19046 +19046 @@
 -      "BloodlessModeHardEnemyLevel": 15,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -19048 +19048 @@
+-      "BloodlessModeEnemyHPOverride": 1000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -19059 +19059 @@
 -      "MaxHP99Enemy": 3555.0,
 +      "MaxHP99Enemy": 15000.0,
