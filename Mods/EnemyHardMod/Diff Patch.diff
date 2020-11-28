@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Sun Nov 22 03:55:05 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/EnemyHardMod/Edits/BloodstainedRotN/Content/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Tue Nov 24 17:56:27 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/EnemyHardMod/Edits/BloodstainedRotN/Content/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Sat Nov 28 03:49:39 2020
 @@ -30 +30 @@
 -      "HardEnemyLevel": 50,
 +      "HardEnemyLevel": 100,
@@ -102,24 +102,36 @@
 @@ -2372 +2372 @@
 -      "BloodlessModeHardEnemyLevel": 12,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -2374 +2374 @@
+-      "BloodlessModeEnemyHPOverride": 63.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -2470 +2470 @@
 -      "HardEnemyLevel": 9,
 +      "HardEnemyLevel": 100,
 @@ -2473 +2473 @@
 -      "BloodlessModeHardEnemyLevel": 14,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -2475 +2475 @@
+-      "BloodlessModeEnemyHPOverride": 88.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -2571 +2571 @@
 -      "HardEnemyLevel": 10,
 +      "HardEnemyLevel": 100,
 @@ -2574 +2574 @@
 -      "BloodlessModeHardEnemyLevel": 15,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -2576 +2576 @@
+-      "BloodlessModeEnemyHPOverride": 99.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -2672 +2672 @@
 -      "HardEnemyLevel": 9,
 +      "HardEnemyLevel": 100,
 @@ -2675 +2675 @@
 -      "BloodlessModeHardEnemyLevel": 12,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -2677 +2677 @@
+-      "BloodlessModeEnemyHPOverride": 45.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -2773 +2773 @@
 -      "HardEnemyLevel": 10,
 +      "HardEnemyLevel": 100,
@@ -138,6 +150,9 @@
 @@ -2978 +2978 @@
 -      "BloodlessModeHardEnemyLevel": 14,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -2982 +2982 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -3076 +3076 @@
 -      "HardEnemyLevel": 11,
 +      "HardEnemyLevel": 100,
@@ -150,6 +165,13 @@
 @@ -3180 +3180 @@
 -      "BloodlessModeHardEnemyLevel": 10,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3182,3 +3182,3 @@
+-      "BloodlessModeEnemyHPOverride": 36.0,
+-      "BloodlessModeEnemyExperienceOverride": 12,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -3278 +3278 @@
 -      "HardEnemyLevel": 13,
 +      "HardEnemyLevel": 100,
@@ -162,48 +184,82 @@
 @@ -3382 +3382 @@
 -      "BloodlessModeHardEnemyLevel": 11,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3385 +3385 @@
+-      "BloodlessModeEnemyExperienceOverride": 20,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -3480 +3480 @@
 -      "HardEnemyLevel": 13,
 +      "HardEnemyLevel": 100,
 @@ -3483 +3483 @@
 -      "BloodlessModeHardEnemyLevel": 10,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3486,2 +3486,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 17,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -3581 +3581 @@
 -      "HardEnemyLevel": 12,
 +      "HardEnemyLevel": 100,
 @@ -3584 +3584 @@
 -      "BloodlessModeHardEnemyLevel": 7,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3587,2 +3587,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 9,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -3682 +3682 @@
 -      "HardEnemyLevel": 13,
 +      "HardEnemyLevel": 100,
 @@ -3685 +3685 @@
 -      "BloodlessModeHardEnemyLevel": 12,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3687,3 +3687,3 @@
+-      "BloodlessModeEnemyHPOverride": 52.0,
+-      "BloodlessModeEnemyExperienceOverride": 23,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -3783 +3783 @@
 -      "HardEnemyLevel": 13,
 +      "HardEnemyLevel": 100,
 @@ -3786 +3786 @@
 -      "BloodlessModeHardEnemyLevel": 11,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3788,2 +3788,2 @@
+-      "BloodlessModeEnemyHPOverride": 60.0,
+-      "BloodlessModeEnemyExperienceOverride": 20,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -3884 +3884 @@
 -      "HardEnemyLevel": 14,
 +      "HardEnemyLevel": 100,
 @@ -3887 +3887 @@
 -      "BloodlessModeHardEnemyLevel": 14,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3890 +3890 @@
+-      "BloodlessModeEnemyExperienceOverride": 31,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -3985 +3985 @@
 -      "HardEnemyLevel": 14,
 +      "HardEnemyLevel": 100,
 @@ -3988 +3988 @@
 -      "BloodlessModeHardEnemyLevel": 14,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -3991 +3991 @@
+-      "BloodlessModeEnemyExperienceOverride": 31,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -4086 +4086 @@
 -      "HardEnemyLevel": 15,
 +      "HardEnemyLevel": 100,
 @@ -4089 +4089 @@
 -      "BloodlessModeHardEnemyLevel": 11,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -4092 +4092 @@
+-      "BloodlessModeEnemyExperienceOverride": 20,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -4187 +4187 @@
 -      "HardEnemyLevel": 14,
 +      "HardEnemyLevel": 100,
@@ -216,12 +272,26 @@
 @@ -4291 +4291 @@
 -      "BloodlessModeHardEnemyLevel": 25,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -4294,3 +4294,3 @@
+-      "BloodlessModeEnemyExperienceOverride": 1,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.5,
+-      "BloodlessModeEnemyConMndMultiplier": 0.5,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -4389 +4389 @@
 -      "HardEnemyLevel": 25,
 +      "HardEnemyLevel": 100,
 @@ -4392 +4392 @@
 -      "BloodlessModeHardEnemyLevel": 25,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -4395,3 +4395,3 @@
+-      "BloodlessModeEnemyExperienceOverride": 1,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.5,
+-      "BloodlessModeEnemyConMndMultiplier": 0.5,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -4490 +4490 @@
 -      "HardEnemyLevel": 16,
 +      "HardEnemyLevel": 100,
@@ -252,12 +322,18 @@
 @@ -4897 +4897 @@
 -      "BloodlessModeHardEnemyLevel": 14,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -4901 +4901 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -4995 +4995 @@
 -      "HardEnemyLevel": 17,
 +      "HardEnemyLevel": 100,
 @@ -4998 +4998 @@
 -      "BloodlessModeHardEnemyLevel": 15,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -5002 +5002 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -5096 +5096 @@
 -      "HardEnemyLevel": 17,
 +      "HardEnemyLevel": 100,
@@ -276,36 +352,66 @@
 @@ -5301 +5301 @@
 -      "BloodlessModeHardEnemyLevel": 18,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -5303 +5303 @@
+-      "BloodlessModeEnemyHPOverride": 100.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -5399 +5399 @@
 -      "HardEnemyLevel": 20,
 +      "HardEnemyLevel": 100,
 @@ -5402 +5402 @@
 -      "BloodlessModeHardEnemyLevel": 19,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -5404 +5404 @@
+-      "BloodlessModeEnemyHPOverride": 120.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -5500 +5500 @@
 -      "HardEnemyLevel": 25,
 +      "HardEnemyLevel": 100,
 @@ -5503 +5503 @@
 -      "BloodlessModeHardEnemyLevel": 25,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -5506,3 +5506,3 @@
+-      "BloodlessModeEnemyExperienceOverride": 1,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.45,
+-      "BloodlessModeEnemyConMndMultiplier": 0.45,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -5601 +5601 @@
 -      "HardEnemyLevel": 20,
 +      "HardEnemyLevel": 100,
 @@ -5604 +5604 @@
 -      "BloodlessModeHardEnemyLevel": 17,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -5607 +5607 @@
+-      "BloodlessModeEnemyExperienceOverride": 44,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -5702 +5702 @@
 -      "HardEnemyLevel": 21,
 +      "HardEnemyLevel": 100,
 @@ -5705 +5705 @@
 -      "BloodlessModeHardEnemyLevel": 9,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -5707,3 +5707,3 @@
+-      "BloodlessModeEnemyHPOverride": 50.0,
+-      "BloodlessModeEnemyExperienceOverride": 14,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -5803 +5803 @@
 -      "HardEnemyLevel": 21,
 +      "HardEnemyLevel": 100,
 @@ -5806 +5806 @@
 -      "BloodlessModeHardEnemyLevel": 9,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -5808,3 +5808,3 @@
+-      "BloodlessModeEnemyHPOverride": 50.0,
+-      "BloodlessModeEnemyExperienceOverride": 14,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -5904 +5904 @@
 -      "HardEnemyLevel": 20,
 +      "HardEnemyLevel": 100,
@@ -330,6 +436,11 @@
 @@ -6210 +6210 @@
 -      "BloodlessModeHardEnemyLevel": 14,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -6213,2 +6213,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 31,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -6308 +6308 @@
 -      "HardEnemyLevel": 71,
 +      "HardEnemyLevel": 100,
@@ -378,72 +489,136 @@
 @@ -7020 +7020 @@
 -      "BloodlessModeHardEnemyLevel": 7,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7023,2 +7023,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 9,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -7118 +7118 @@
 -      "HardEnemyLevel": 28,
 +      "HardEnemyLevel": 100,
 @@ -7121 +7121 @@
 -      "BloodlessModeHardEnemyLevel": 8,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7124,2 +7124,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 11,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -7219 +7219 @@
 -      "HardEnemyLevel": 29,
 +      "HardEnemyLevel": 100,
 @@ -7222 +7222 @@
 -      "BloodlessModeHardEnemyLevel": 11,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7225 +7225 @@
+-      "BloodlessModeEnemyExperienceOverride": 20,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -7320 +7320 @@
 -      "HardEnemyLevel": 26,
 +      "HardEnemyLevel": 100,
 @@ -7323 +7323 @@
 -      "BloodlessModeHardEnemyLevel": 8,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7326,2 +7326,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 11,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -7421 +7421 @@
 -      "HardEnemyLevel": 27,
 +      "HardEnemyLevel": 100,
 @@ -7424 +7424 @@
 -      "BloodlessModeHardEnemyLevel": 6,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7426,2 +7426,2 @@
+-      "BloodlessModeEnemyHPOverride": 43.0,
+-      "BloodlessModeEnemyExperienceOverride": 7,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -7522 +7522 @@
 -      "HardEnemyLevel": 27,
 +      "HardEnemyLevel": 100,
 @@ -7525 +7525 @@
 -      "BloodlessModeHardEnemyLevel": 13,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7528,2 +7528,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 27,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -7623 +7623 @@
 -      "HardEnemyLevel": 28,
 +      "HardEnemyLevel": 100,
 @@ -7626 +7626 @@
 -      "BloodlessModeHardEnemyLevel": 8,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7628,3 +7628,3 @@
+-      "BloodlessModeEnemyHPOverride": 45.0,
+-      "BloodlessModeEnemyExperienceOverride": 11,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -7724 +7724 @@
 -      "HardEnemyLevel": 29,
 +      "HardEnemyLevel": 100,
 @@ -7727 +7727 @@
 -      "BloodlessModeHardEnemyLevel": 11,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7730,2 +7730,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 20,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -7825 +7825 @@
 -      "HardEnemyLevel": 29,
 +      "HardEnemyLevel": 100,
 @@ -7828 +7828 @@
 -      "BloodlessModeHardEnemyLevel": 11,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7831,2 +7831,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 20,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -7926 +7926 @@
 -      "HardEnemyLevel": 29,
 +      "HardEnemyLevel": 100,
 @@ -7929 +7929 @@
 -      "BloodlessModeHardEnemyLevel": 8,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -7931,3 +7931,3 @@
+-      "BloodlessModeEnemyHPOverride": 30.0,
+-      "BloodlessModeEnemyExperienceOverride": 11,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -8027 +8027 @@
 -      "HardEnemyLevel": 29,
 +      "HardEnemyLevel": 100,
 @@ -8030 +8030 @@
 -      "BloodlessModeHardEnemyLevel": 12,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -8033,2 +8033,2 @@
+-      "BloodlessModeEnemyExperienceOverride": 23,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -8128 +8128 @@
 -      "HardEnemyLevel": 30,
 +      "HardEnemyLevel": 100,
 @@ -8131 +8131 @@
 -      "BloodlessModeHardEnemyLevel": 14,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -8133,3 +8133,3 @@
+-      "BloodlessModeEnemyHPOverride": 84.0,
+-      "BloodlessModeEnemyExperienceOverride": 31,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -8229 +8229 @@
 -      "HardEnemyLevel": 30,
 +      "HardEnemyLevel": 100,
@@ -492,6 +667,9 @@
 @@ -8939 +8939 @@
 -      "BloodlessModeHardEnemyLevel": 21,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -8943 +8943 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -9037 +9037 @@
 -      "HardEnemyLevel": 33,
 +      "HardEnemyLevel": 100,
@@ -522,6 +700,9 @@
 @@ -9444 +9444 @@
 -      "BloodlessModeHardEnemyLevel": 30,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -9446 +9446 @@
+-      "BloodlessModeEnemyHPOverride": 400.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -9542 +9542 @@
 -      "HardEnemyLevel": 36,
 +      "HardEnemyLevel": 100,
@@ -552,6 +733,9 @@
 @@ -9949 +9949 @@
 -      "BloodlessModeHardEnemyLevel": 30,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -9951 +9951 @@
+-      "BloodlessModeEnemyHPOverride": 130.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -10047 +10047 @@
 -      "HardEnemyLevel": 37,
 +      "HardEnemyLevel": 100,
@@ -582,6 +766,9 @@
 @@ -10454 +10454 @@
 -      "BloodlessModeHardEnemyLevel": 31,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -10458 +10458 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -10552 +10552 @@
 -      "HardEnemyLevel": 39,
 +      "HardEnemyLevel": 100,
@@ -600,12 +787,18 @@
 @@ -10757 +10757 @@
 -      "BloodlessModeHardEnemyLevel": 32,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -10761 +10761 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.85,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -10855 +10855 @@
 -      "HardEnemyLevel": 40,
 +      "HardEnemyLevel": 100,
 @@ -10858 +10858 @@
 -      "BloodlessModeHardEnemyLevel": 33,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -10862 +10862 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -10956 +10956 @@
 -      "HardEnemyLevel": 40,
 +      "HardEnemyLevel": 100,
@@ -624,6 +817,9 @@
 @@ -11161 +11161 @@
 -      "BloodlessModeHardEnemyLevel": 34,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -11163 +11163 @@
+-      "BloodlessModeEnemyHPOverride": 110.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -11259 +11259 @@
 -      "HardEnemyLevel": 40,
 +      "HardEnemyLevel": 100,
@@ -636,6 +832,9 @@
 @@ -11363 +11363 @@
 -      "BloodlessModeHardEnemyLevel": 34,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -11365 +11365 @@
+-      "BloodlessModeEnemyHPOverride": 300.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -11463 +11463 @@
 -      "HardEnemyLevel": 40,
 +      "HardEnemyLevel": 100,
@@ -672,21 +871,37 @@
 @@ -11971 +11971 @@
 -      "BloodlessModeHardEnemyLevel": 36,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -11975 +11975 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.95,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -12069 +12069 @@
 -      "HardEnemyLevel": 44,
 +      "HardEnemyLevel": 100,
 @@ -12072 +12072 @@
 -      "BloodlessModeHardEnemyLevel": 37,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12074,2 +12074,2 @@
+-      "BloodlessModeEnemyHPOverride": 1200.0,
+-      "BloodlessModeEnemyExperienceOverride": 1200,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
+@@ -12077 +12077 @@
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -12170 +12170 @@
 -      "HardEnemyLevel": 44,
 +      "HardEnemyLevel": 100,
 @@ -12173 +12173 @@
 -      "BloodlessModeHardEnemyLevel": 18,
 +      "BloodlessModeHardEnemyLevel": 100,
-@@ -12175 +12175 @@
+@@ -12175,2 +12175,2 @@
 -      "BloodlessModeEnemyHPOverride": 1200.0,
+-      "BloodlessModeEnemyExperienceOverride": 1200,
 +      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
+@@ -12178 +12178 @@
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -12186 +12186 @@
 -      "MaxHP99Enemy": 3555.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -696,60 +911,119 @@
 @@ -12274 +12274 @@
 -      "BloodlessModeHardEnemyLevel": 37,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12278 +12278 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -12372 +12372 @@
 -      "HardEnemyLevel": 44,
 +      "HardEnemyLevel": 100,
 @@ -12375 +12375 @@
 -      "BloodlessModeHardEnemyLevel": 36,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12377 +12377 @@
+-      "BloodlessModeEnemyHPOverride": 160.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -12473 +12473 @@
 -      "HardEnemyLevel": 45,
 +      "HardEnemyLevel": 100,
 @@ -12476 +12476 @@
 -      "BloodlessModeHardEnemyLevel": 37,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12478 +12478 @@
+-      "BloodlessModeEnemyHPOverride": 180.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -12480 +12480 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -12574 +12574 @@
 -      "HardEnemyLevel": 46,
 +      "HardEnemyLevel": 100,
 @@ -12577 +12577 @@
 -      "BloodlessModeHardEnemyLevel": 38,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12579 +12579 @@
+-      "BloodlessModeEnemyHPOverride": 300.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -12581 +12581 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -12675 +12675 @@
 -      "HardEnemyLevel": 47,
 +      "HardEnemyLevel": 100,
 @@ -12678 +12678 @@
 -      "BloodlessModeHardEnemyLevel": 39,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12680 +12680 @@
+-      "BloodlessModeEnemyHPOverride": 450.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -12682,2 +12682,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
+-      "BloodlessModeEnemyConMndMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -12776 +12776 @@
 -      "HardEnemyLevel": 48,
 +      "HardEnemyLevel": 100,
 @@ -12779 +12779 @@
 -      "BloodlessModeHardEnemyLevel": 40,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12781 +12781 @@
+-      "BloodlessModeEnemyHPOverride": 666.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -12784 +12784 @@
+-      "BloodlessModeEnemyConMndMultiplier": 0.9,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -12877 +12877 @@
 -      "HardEnemyLevel": 44,
 +      "HardEnemyLevel": 100,
 @@ -12880 +12880 @@
 -      "BloodlessModeHardEnemyLevel": 35,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12882,2 +12882,2 @@
+-      "BloodlessModeEnemyHPOverride": 96.0,
+-      "BloodlessModeEnemyExperienceOverride": 96,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
+@@ -12885 +12885 @@
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -12978 +12978 @@
 -      "HardEnemyLevel": 44,
 +      "HardEnemyLevel": 100,
 @@ -12981 +12981 @@
 -      "BloodlessModeHardEnemyLevel": 41,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -12983,2 +12983,2 @@
+-      "BloodlessModeEnemyHPOverride": 128.0,
+-      "BloodlessModeEnemyExperienceOverride": 128,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
+@@ -12986 +12986 @@
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -13079 +13079 @@
 -      "HardEnemyLevel": 44,
 +      "HardEnemyLevel": 100,
 @@ -13082 +13082 @@
 -      "BloodlessModeHardEnemyLevel": 39,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13084,2 +13084,2 @@
+-      "BloodlessModeEnemyHPOverride": 160.0,
+-      "BloodlessModeEnemyExperienceOverride": 160,
++      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
+@@ -13087 +13087 @@
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -13180 +13180 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
 @@ -13183 +13183 @@
 -      "BloodlessModeHardEnemyLevel": 33,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13185 +13185 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -13281 +13281 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
@@ -768,6 +1042,9 @@
 @@ -13385 +13385 @@
 -      "BloodlessModeHardEnemyLevel": 23,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13387 +13387 @@
+-      "BloodlessModeEnemyHPOverride": 2000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -13483 +13483 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
@@ -786,24 +1063,45 @@
 @@ -13587 +13587 @@
 -      "BloodlessModeHardEnemyLevel": 17,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13589 +13589 @@
+-      "BloodlessModeEnemyHPOverride": 777.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -13591 +13591 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.6,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -13685 +13685 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
 @@ -13688 +13688 @@
 -      "BloodlessModeHardEnemyLevel": 17,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13690 +13690 @@
+-      "BloodlessModeEnemyHPOverride": 777.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -13692 +13692 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.6,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -13786 +13786 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
 @@ -13789 +13789 @@
 -      "BloodlessModeHardEnemyLevel": 17,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13793 +13793 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.6,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -13887 +13887 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
 @@ -13890 +13890 @@
 -      "BloodlessModeHardEnemyLevel": 17,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -13892 +13892 @@
+-      "BloodlessModeEnemyHPOverride": 777.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -13894 +13894 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.6,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -13990 +13990 @@
 -      "HardEnemyLevel": 8,
 +      "HardEnemyLevel": 100,
@@ -813,6 +1111,9 @@
 @@ -13995 +13995 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -13997 +13997 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -14006 +14006 @@
 -      "MaxHP99Enemy": 600.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -825,6 +1126,9 @@
 @@ -14098 +14098 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -14100 +14100 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -14109 +14109 @@
 -      "MaxHP99Enemy": 600.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -834,6 +1138,12 @@
 @@ -14199 +14199 @@
 -      "BloodlessModeHardEnemyLevel": 35,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -14201 +14201 @@
+-      "BloodlessModeEnemyHPOverride": 3000.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -14203 +14203 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -14299 +14299 @@
 -      "HardEnemyLevel": 18,
 +      "HardEnemyLevel": 100,
@@ -852,6 +1162,9 @@
 @@ -14405 +14405 @@
 -      "BloodlessModeHardEnemyLevel": 18,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -14407 +14407 @@
+-      "BloodlessModeEnemyHPOverride": 1100.0,
++      "BloodlessModeEnemyHPOverride": 0.0,
 @@ -14505 +14505 @@
 -      "HardEnemyLevel": 20,
 +      "HardEnemyLevel": 100,
@@ -987,6 +1300,9 @@
 @@ -15756 +15756 @@
 -      "BloodlessModeEnemyHPOverride": 3300.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -15758 +15758 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.85,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -15767 +15767 @@
 -      "MaxHP99Enemy": 4000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -999,6 +1315,9 @@
 @@ -15859 +15859 @@
 -      "BloodlessModeEnemyHPOverride": 3600.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -15861 +15861 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -15870 +15870 @@
 -      "MaxHP99Enemy": 4500.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1011,6 +1330,9 @@
 @@ -15963 +15963 @@
 -      "BloodlessModeEnemyHPOverride": 4000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -15965 +15965 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -15974 +15974 @@
 -      "MaxHP99Enemy": 3000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1023,6 +1345,9 @@
 @@ -16068 +16068 @@
 -      "BloodlessModeEnemyHPOverride": 4200.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -16070 +16070 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.95,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -16079 +16079 @@
 -      "MaxHP99Enemy": 6666.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1035,6 +1360,11 @@
 @@ -16175 +16175 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -16177,2 +16177,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
+-      "BloodlessModeEnemyConMndMultiplier": 0.6,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -16186 +16186 @@
 -      "MaxHP99Enemy": 4989.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1056,6 +1386,9 @@
 @@ -16386 +16386 @@
 -      "BloodlessModeEnemyHPOverride": 4500.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -16388 +16388 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -16397 +16397 @@
 -      "MaxHP99Enemy": 5963.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1065,6 +1398,9 @@
 @@ -16489 +16489 @@
 -      "BloodlessModeHardEnemyLevel": 85,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -16493 +16493 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.9,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -16502 +16502 @@
 -      "MaxHP99Enemy": 9999.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1083,6 +1419,9 @@
 @@ -16695 +16695 @@
 -      "BloodlessModeHardEnemyLevel": 71,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -16699 +16699 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -16796 +16796 @@
 -      "HardEnemyLevel": 71,
 +      "HardEnemyLevel": 100,
@@ -1092,6 +1431,9 @@
 @@ -16801 +16801 @@
 -      "BloodlessModeEnemyHPOverride": 5600.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -16803 +16803 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -16812 +16812 @@
 -      "MaxHP99Enemy": 10000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1104,6 +1446,9 @@
 @@ -16907 +16907 @@
 -      "BloodlessModeEnemyHPOverride": 5600.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -16909 +16909 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -16918 +16918 @@
 -      "MaxHP99Enemy": 10000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1116,6 +1461,9 @@
 @@ -17010 +17010 @@
 -      "BloodlessModeEnemyHPOverride": 5600.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -17012 +17012 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
 @@ -17021 +17021 @@
 -      "MaxHP99Enemy": 10000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1128,6 +1476,11 @@
 @@ -17113 +17113 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -17115,2 +17115,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.7,
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -17124 +17124 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1140,6 +1493,11 @@
 @@ -17216 +17216 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -17218,2 +17218,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.7,
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -17227 +17227 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1152,6 +1510,11 @@
 @@ -17319 +17319 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -17321,2 +17321,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.7,
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -17330 +17330 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1164,6 +1527,11 @@
 @@ -17422 +17422 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -17424,2 +17424,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.7,
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -17433 +17433 @@
 -      "MaxHP99Enemy": 4444.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1194,6 +1562,11 @@
 @@ -17830 +17830 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -17832,2 +17832,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.7,
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -17841 +17841 @@
 -      "MaxHP99Enemy": 9000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1206,6 +1579,11 @@
 @@ -17933 +17933 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -17935,2 +17935,2 @@
+-      "BloodlessModeEnemyStrIntMultiplier": 0.7,
+-      "BloodlessModeEnemyConMndMultiplier": 0.8,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -17944 +17944 @@
 -      "MaxHP99Enemy": 7000.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1281,9 +1659,11 @@
 @@ -19046 +19046 @@
 -      "BloodlessModeHardEnemyLevel": 15,
 +      "BloodlessModeHardEnemyLevel": 100,
-@@ -19048 +19048 @@
+@@ -19048,2 +19048,2 @@
 -      "BloodlessModeEnemyHPOverride": 1000.0,
+-      "BloodlessModeEnemyExperienceOverride": 1000,
 +      "BloodlessModeEnemyHPOverride": 0.0,
++      "BloodlessModeEnemyExperienceOverride": 0,
 @@ -19059 +19059 @@
 -      "MaxHP99Enemy": 3555.0,
 +      "MaxHP99Enemy": 15000.0,
@@ -1293,6 +1673,13 @@
 @@ -19147 +19147 @@
 -      "BloodlessModeHardEnemyLevel": 25,
 +      "BloodlessModeHardEnemyLevel": 100,
+@@ -19150,3 +19150,3 @@
+-      "BloodlessModeEnemyExperienceOverride": 1,
+-      "BloodlessModeEnemyStrIntMultiplier": 0.5,
+-      "BloodlessModeEnemyConMndMultiplier": 0.5,
++      "BloodlessModeEnemyExperienceOverride": 0,
++      "BloodlessModeEnemyStrIntMultiplier": 1.0,
++      "BloodlessModeEnemyConMndMultiplier": 1.0,
 @@ -19245 +19245 @@
 -      "HardEnemyLevel": 300,
 +      "HardEnemyLevel": 100,
