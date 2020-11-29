@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 22 03:55:00 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 11:46:23 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 13:30:33 2020
 @@ -18 +18 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -113,9 +113,9 @@
 -      "MagicAttack": 40,
 +      "MeleeAttack": 45,
 +      "MagicAttack": 45,
-@@ -4418,2 +4418,2 @@
--      "MeleeAttack": 45,
--      "MagicAttack": 45,
+@@ -4518,2 +4518,2 @@
+-      "MeleeAttack": 46,
+-      "MagicAttack": 46,
 +      "MeleeAttack": 58,
 +      "MagicAttack": 58,
 @@ -4568 +4568 @@
