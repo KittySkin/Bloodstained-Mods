@@ -1,5 +1,31 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 22 03:55:00 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Fri Nov 27 00:12:13 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 11:46:23 2020
+@@ -18 +18 @@
+-      "MeleeAttack": 8,
++      "MeleeAttack": 10,
+@@ -68 +68 @@
+-      "MeleeAttack": 12,
++      "MeleeAttack": 14,
+@@ -118 +118 @@
+-      "MeleeAttack": 14,
++      "MeleeAttack": 16,
+@@ -168 +168 @@
+-      "MeleeAttack": 17,
++      "MeleeAttack": 19,
+@@ -218 +218 @@
+-      "MeleeAttack": 21,
++      "MeleeAttack": 23,
+@@ -268 +268 @@
+-      "MeleeAttack": 24,
++      "MeleeAttack": 26,
+@@ -318,2 +318,2 @@
+-      "MeleeAttack": 28,
+-      "MagicAttack": 28,
++      "MeleeAttack": 30,
++      "MagicAttack": 30,
+@@ -368 +368 @@
+-      "MeleeAttack": 38,
++      "MeleeAttack": 40,
 @@ -468 +468 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -61,6 +87,37 @@
 -      "MagicAttack": 52,
 +      "MeleeAttack": 58,
 +      "MagicAttack": 58,
+@@ -4018 +4018 @@
+-      "MeleeAttack": 13,
++      "MeleeAttack": 14,
+@@ -4068 +4068 @@
+-      "MeleeAttack": 18,
++      "MeleeAttack": 20,
+@@ -4118 +4118 @@
+-      "MeleeAttack": 22,
++      "MeleeAttack": 24,
+@@ -4168 +4168 @@
+-      "MeleeAttack": 27,
++      "MeleeAttack": 30,
+@@ -4218 +4218 @@
+-      "MeleeAttack": 29,
++      "MeleeAttack": 32,
+@@ -4268 +4268 @@
+-      "MeleeAttack": 33,
++      "MeleeAttack": 35,
+@@ -4318 +4318 @@
+-      "MeleeAttack": 36,
++      "MeleeAttack": 39,
+@@ -4368,2 +4368,2 @@
+-      "MeleeAttack": 40,
+-      "MagicAttack": 40,
++      "MeleeAttack": 45,
++      "MagicAttack": 45,
+@@ -4418,2 +4418,2 @@
+-      "MeleeAttack": 45,
+-      "MagicAttack": 45,
++      "MeleeAttack": 58,
++      "MagicAttack": 58,
 @@ -4568 +4568 @@
 -      "MeleeAttack": 13,
 +      "MeleeAttack": 15,
@@ -91,6 +148,27 @@
 -      "MagicAttack": 52,
 +      "MeleeAttack": 58,
 +      "MagicAttack": 58,
+@@ -4968 +4968 @@
+-      "MeleeAttack": 5,
++      "MeleeAttack": 6,
+@@ -5068 +5068 @@
+-      "MeleeAttack": 12,
++      "MeleeAttack": 14,
+@@ -5118 +5118 @@
+-      "MeleeAttack": 15,
++      "MeleeAttack": 18,
+@@ -5168 +5168 @@
+-      "MeleeAttack": 20,
++      "MeleeAttack": 22,
+@@ -5218 +5218 @@
+-      "MeleeAttack": 23,
++      "MeleeAttack": 26,
+@@ -5268 +5268 @@
+-      "MeleeAttack": 25,
++      "MeleeAttack": 30,
+@@ -5318 +5318 @@
+-      "MeleeAttack": 26,
++      "MeleeAttack": 32,
 @@ -7068,2 +7068,2 @@
 -      "MeleeAttack": 18,
 -      "MagicAttack": 18,

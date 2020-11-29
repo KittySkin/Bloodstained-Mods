@@ -104,7 +104,7 @@
   {
     "Key": "WeaponGrowMaxAtk_RedbeastEdge",
     "Value": {
-      "Value": 58.0
+      "Value": 0.0
     }
   },
   {
@@ -116,13 +116,13 @@
   {
     "Key": "GrowNeedBloodAmount_Izayoi",
     "Value": {
-      "Value": 4444.0
+      "Value": 5000.0
     }
   },
   {
     "Key": "GrowNeedEatingDishesType_RedbeastEdge",
     "Value": {
-      "Value": 30.0
+      "Value": 3000.0
     }
   },
   {
@@ -170,7 +170,7 @@
   {
     "Key": "ShovelArmorWeaponAtk",
     "Value": {
-      "Value": 30.0
+      "Value": 58.0
     }
   },
   {
@@ -914,13 +914,13 @@
   {
     "Key": "P0000_STEELCY_SMALLATTACK_CHARGE_RATE_MIN",
     "Value": {
-      "Value": 0.2
+      "Value": 1.0
     }
   },
   {
     "Key": "P0000_STEELCY_SMALLATTACK_CHARGE_RATE_MAX",
     "Value": {
-      "Value": 0.75
+      "Value": 1.2
     }
   },
   {
@@ -962,7 +962,7 @@
   {
     "Key": "P0000_SILVERMANRING_ATTACK_RATE_MAX",
     "Value": {
-      "Value": 0.3
+      "Value": 0.2
     }
   },
   {
@@ -974,7 +974,7 @@
   {
     "Key": "P0000_WALKERKING_TRAVERSE_MAX",
     "Value": {
-      "Value": 100.0
+      "Value": 80.0
     }
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "Key": "P0000_GOLDRING_ATTACK_RATE_MAX",
     "Value": {
-      "Value": 0.3
+      "Value": 0.2
     }
   },
   {
