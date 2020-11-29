@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 22 03:55:00 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 13:30:33 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 14:03:18 2020
 @@ -18 +18 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -169,6 +169,60 @@
 @@ -5318 +5318 @@
 -      "MeleeAttack": 26,
 +      "MeleeAttack": 32,
+@@ -6318,2 +6318,2 @@
+-      "MeleeAttack": 16,
+-      "MagicAttack": 16,
++      "MeleeAttack": 20,
++      "MagicAttack": 20,
+@@ -6368,2 +6368,2 @@
+-      "MeleeAttack": 32,
+-      "MagicAttack": 32,
++      "MeleeAttack": 40,
++      "MagicAttack": 40,
+@@ -6418,2 +6418,2 @@
+-      "MeleeAttack": 46,
+-      "MagicAttack": 46,
++      "MeleeAttack": 58,
++      "MagicAttack": 58,
+@@ -6483,6 +6483,6 @@
+-      "ScaleX": 1.0,
+-      "ScaleY": 1.0,
+-      "ScaleZ": 1.0,
+-      "EffScaleX": 1.25,
+-      "EffScaleY": 1.05,
+-      "EffScaleZ": 1.25,
++      "ScaleX": 1.4,
++      "ScaleY": 1.4,
++      "ScaleZ": 1.4,
++      "EffScaleX": 1.65,
++      "EffScaleY": 1.45,
++      "EffScaleZ": 1.65,
+@@ -6533,6 +6533,6 @@
+-      "ScaleX": 1.0,
+-      "ScaleY": 1.0,
+-      "ScaleZ": 1.0,
+-      "EffScaleX": 1.25,
+-      "EffScaleY": 1.05,
+-      "EffScaleZ": 1.25,
++      "ScaleX": 1.4,
++      "ScaleY": 1.4,
++      "ScaleZ": 1.4,
++      "EffScaleX": 1.65,
++      "EffScaleY": 1.45,
++      "EffScaleZ": 1.65,
+@@ -6583,6 +6583,6 @@
+-      "ScaleX": 1.0,
+-      "ScaleY": 1.0,
+-      "ScaleZ": 1.0,
+-      "EffScaleX": 1.25,
+-      "EffScaleY": 1.05,
+-      "EffScaleZ": 1.25,
++      "ScaleX": 1.4,
++      "ScaleY": 1.4,
++      "ScaleZ": 1.4,
++      "EffScaleX": 1.65,
++      "EffScaleY": 1.45,
++      "EffScaleZ": 1.65,
 @@ -7068,2 +7068,2 @@
 -      "MeleeAttack": 18,
 -      "MagicAttack": 18,
