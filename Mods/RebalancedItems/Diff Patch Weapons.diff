@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 22 03:55:00 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 14:03:18 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 19:11:20 2020
 @@ -18 +18 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -26,6 +26,9 @@
 @@ -368 +368 @@
 -      "MeleeAttack": 38,
 +      "MeleeAttack": 40,
+@@ -419 +419 @@
+-      "MagicAttack": 0,
++      "MagicAttack": 45,
 @@ -468 +468 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -49,12 +52,32 @@
 -      "MagicAttack": 30,
 +      "MeleeAttack": 33,
 +      "MagicAttack": 33,
-@@ -823 +823 @@
--      "FLA": false,
-+      "FLA": true,
+@@ -814 +814 @@
+-      "WeaponEffectAttribute": "None",
++      "WeaponEffectAttribute": "Darkness",
+@@ -819 +819 @@
+-      "MagicAttack": 0,
++      "MagicAttack": 45,
+@@ -827 +827 @@
+-      "DAR": false,
++      "DAR": true,
+@@ -1864 +1864 @@
+-      "WeaponEffectAttribute": "None",
++      "WeaponEffectAttribute": "Darkness",
+@@ -1869 +1869 @@
+-      "MagicAttack": 0,
++      "MagicAttack": 20,
 @@ -1877 +1877 @@
 -      "DAR": false,
 +      "DAR": true,
+@@ -1918 +1918 @@
+-      "MeleeAttack": 53,
++      "MeleeAttack": 54,
+@@ -1921,2 +1921,2 @@
+-      "DAG": false,
+-      "TOT": false,
++      "DAG": true,
++      "TOT": true,
 @@ -2121,2 +2121,2 @@
 -      "DAG": false,
 -      "TOT": false,
@@ -108,11 +131,6 @@
 @@ -4318 +4318 @@
 -      "MeleeAttack": 36,
 +      "MeleeAttack": 39,
-@@ -4368,2 +4368,2 @@
--      "MeleeAttack": 40,
--      "MagicAttack": 40,
-+      "MeleeAttack": 45,
-+      "MagicAttack": 45,
 @@ -4518,2 +4518,2 @@
 -      "MeleeAttack": 46,
 -      "MagicAttack": 46,
@@ -169,6 +187,21 @@
 @@ -5318 +5318 @@
 -      "MeleeAttack": 26,
 +      "MeleeAttack": 32,
+@@ -5418,2 +5418,2 @@
+-      "MeleeAttack": 23,
+-      "MagicAttack": 23,
++      "MeleeAttack": 29,
++      "MagicAttack": 29,
+@@ -5468,2 +5468,2 @@
+-      "MeleeAttack": 46,
+-      "MagicAttack": 46,
++      "MeleeAttack": 58,
++      "MagicAttack": 58,
+@@ -5518,2 +5518,2 @@
+-      "MeleeAttack": 67,
+-      "MagicAttack": 67,
++      "MeleeAttack": 84,
++      "MagicAttack": 84,
 @@ -6318,2 +6318,2 @@
 -      "MeleeAttack": 16,
 -      "MagicAttack": 16,
@@ -223,6 +256,21 @@
 +      "EffScaleX": 1.65,
 +      "EffScaleY": 1.45,
 +      "EffScaleZ": 1.65,
+@@ -6618,2 +6618,2 @@
+-      "MeleeAttack": 11,
+-      "MagicAttack": 11,
++      "MeleeAttack": 16,
++      "MagicAttack": 16,
+@@ -6668,2 +6668,2 @@
+-      "MeleeAttack": 23,
+-      "MagicAttack": 23,
++      "MeleeAttack": 32,
++      "MagicAttack": 32,
+@@ -6718,2 +6718,2 @@
+-      "MeleeAttack": 34,
+-      "MagicAttack": 34,
++      "MeleeAttack": 46,
++      "MagicAttack": 46,
 @@ -7068,2 +7068,2 @@
 -      "MeleeAttack": 18,
 -      "MagicAttack": 18,
@@ -238,6 +286,36 @@
 -      "MagicAttack": 52,
 +      "MeleeAttack": 58,
 +      "MagicAttack": 58,
+@@ -7368,2 +7368,2 @@
+-      "MeleeAttack": 23,
+-      "MagicAttack": 23,
++      "MeleeAttack": 29,
++      "MagicAttack": 29,
+@@ -7418,2 +7418,2 @@
+-      "MeleeAttack": 46,
+-      "MagicAttack": 46,
++      "MeleeAttack": 58,
++      "MagicAttack": 58,
+@@ -7468,2 +7468,2 @@
+-      "MeleeAttack": 67,
+-      "MagicAttack": 67,
++      "MeleeAttack": 84,
++      "MagicAttack": 84,
+@@ -7668,2 +7668,2 @@
+-      "MeleeAttack": 17,
+-      "MagicAttack": 17,
++      "MeleeAttack": 23,
++      "MagicAttack": 23,
+@@ -7718,2 +7718,2 @@
+-      "MeleeAttack": 35,
+-      "MagicAttack": 35,
++      "MeleeAttack": 46,
++      "MagicAttack": 46,
+@@ -7768,2 +7768,2 @@
+-      "MeleeAttack": 50,
+-      "MagicAttack": 50,
++      "MeleeAttack": 67,
++      "MagicAttack": 67,
 @@ -8268 +8268 @@
 -      "MeleeAttack": 18,
 +      "MeleeAttack": 20,
@@ -249,196 +327,75 @@
 +      "MeleeAttack": 58,
 @@ -8418 +8418 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8421,10 +8421,10 @@
--      "DAG": false,
--      "TOT": false,
--      "FLA": false,
--      "ICE": false,
--      "LIG": false,
--      "HOL": false,
--      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
-+      "DAG": true,
-+      "TOT": true,
-+      "FLA": true,
-+      "ICE": true,
-+      "LIG": true,
-+      "HOL": true,
-+      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
++      "MeleeAttack": 58,
 @@ -8468 +8468 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8471,10 +8471,10 @@
++      "MeleeAttack": 58,
+@@ -8470,2 +8470,2 @@
+-      "ZAN": true,
 -      "DAG": false,
--      "TOT": false,
--      "FLA": false,
--      "ICE": false,
--      "LIG": false,
--      "HOL": false,
--      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
++      "ZAN": false,
 +      "DAG": true,
-+      "TOT": true,
-+      "FLA": true,
-+      "ICE": true,
-+      "LIG": true,
-+      "HOL": true,
-+      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
 @@ -8518 +8518 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8521,10 +8521,10 @@
--      "DAG": false,
++      "MeleeAttack": 58,
+@@ -8520 +8520 @@
+-      "ZAN": true,
++      "ZAN": false,
+@@ -8522 +8522 @@
 -      "TOT": false,
--      "FLA": false,
--      "ICE": false,
--      "LIG": false,
--      "HOL": false,
--      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
-+      "DAG": true,
 +      "TOT": true,
-+      "FLA": true,
-+      "ICE": true,
-+      "LIG": true,
-+      "HOL": true,
-+      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
+@@ -8564 +8564 @@
+-      "WeaponEffectAttribute": "None",
++      "WeaponEffectAttribute": "Fire",
 @@ -8568 +8568 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8571,10 +8571,10 @@
--      "DAG": false,
--      "TOT": false,
++      "MeleeAttack": 58,
+@@ -8570 +8570 @@
+-      "ZAN": true,
++      "ZAN": false,
+@@ -8573 +8573 @@
 -      "FLA": false,
--      "ICE": false,
--      "LIG": false,
--      "HOL": false,
--      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
-+      "DAG": true,
-+      "TOT": true,
 +      "FLA": true,
-+      "ICE": true,
-+      "LIG": true,
-+      "HOL": true,
-+      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
+@@ -8614 +8614 @@
+-      "WeaponEffectAttribute": "None",
++      "WeaponEffectAttribute": "Ice",
 @@ -8618 +8618 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8621,10 +8621,10 @@
--      "DAG": false,
--      "TOT": false,
--      "FLA": false,
++      "MeleeAttack": 58,
+@@ -8620 +8620 @@
+-      "ZAN": true,
++      "ZAN": false,
+@@ -8624 +8624 @@
 -      "ICE": false,
--      "LIG": false,
--      "HOL": false,
--      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
-+      "DAG": true,
-+      "TOT": true,
-+      "FLA": true,
 +      "ICE": true,
-+      "LIG": true,
-+      "HOL": true,
-+      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
 @@ -8668 +8668 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8671,10 +8671,10 @@
--      "DAG": false,
--      "TOT": false,
--      "FLA": false,
--      "ICE": false,
++      "MeleeAttack": 58,
+@@ -8670 +8670 @@
+-      "ZAN": true,
++      "ZAN": false,
+@@ -8675 +8675 @@
 -      "LIG": false,
--      "HOL": false,
--      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
-+      "DAG": true,
-+      "TOT": true,
-+      "FLA": true,
-+      "ICE": true,
 +      "LIG": true,
-+      "HOL": true,
-+      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
 @@ -8718 +8718 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8721,10 +8721,10 @@
--      "DAG": false,
--      "TOT": false,
--      "FLA": false,
--      "ICE": false,
--      "LIG": false,
++      "MeleeAttack": 58,
+@@ -8720 +8720 @@
+-      "ZAN": true,
++      "ZAN": false,
+@@ -8726 +8726 @@
 -      "HOL": false,
--      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
-+      "DAG": true,
-+      "TOT": true,
-+      "FLA": true,
-+      "ICE": true,
-+      "LIG": true,
 +      "HOL": true,
-+      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
 @@ -8768 +8768 @@
 -      "MeleeAttack": 15,
-+      "MeleeAttack": 45,
-@@ -8771,10 +8771,10 @@
--      "DAG": false,
--      "TOT": false,
--      "FLA": false,
--      "ICE": false,
--      "LIG": false,
--      "HOL": false,
++      "MeleeAttack": 58,
+@@ -8770 +8770 @@
+-      "ZAN": true,
++      "ZAN": false,
+@@ -8777 +8777 @@
 -      "DAR": false,
--      "POI": false,
--      "CUR": false,
--      "STO": false,
-+      "DAG": true,
-+      "TOT": true,
-+      "FLA": true,
-+      "ICE": true,
-+      "LIG": true,
-+      "HOL": true,
 +      "DAR": true,
-+      "POI": true,
-+      "CUR": true,
-+      "STO": true,
 @@ -8818 +8818 @@
 -      "MeleeAttack": 15,
 +      "MeleeAttack": 17,

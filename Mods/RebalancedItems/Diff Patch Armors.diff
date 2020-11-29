@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 22 03:54:40 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 29 13:07:16 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 29 18:46:55 2020
 @@ -642 +642 @@
 -      "MagicDefense": 3,
 +      "MagicDefense": 8,
@@ -236,6 +236,16 @@
 @@ -2503 +2503 @@
 -      "CON": 5,
 +      "CON": 10,
+@@ -2973,2 +2973,2 @@
+-      "MeleeDefense": 3,
+-      "MagicDefense": 3,
++      "MeleeDefense": 0,
++      "MagicDefense": 0,
+@@ -2987,2 +2987,2 @@
+-      "CON": 2,
+-      "INT": 3,
++      "CON": 0,
++      "INT": 0,
 @@ -3325,2 +3325,2 @@
 -      "MeleeDefense": 0,
 -      "MagicDefense": 0,
