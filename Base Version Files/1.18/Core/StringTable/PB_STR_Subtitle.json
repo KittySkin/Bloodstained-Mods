@@ -1,0 +1,15 @@
+{
+  "Name": "SubtitleStringTable",
+  "Table": {
+    "SST_Event_02_001": "行くぞグレモリー",
+    "SST_Event_02_002": "ジーベル！待って！",
+    "SST_Event_06_001": "ならば斬らねばならぬな",
+    "SST_Event_10_001": "ロガエスの書はいただいた",
+    "SST_Event_10_002": "そうはさせぬ",
+    "SST_Event_15_001": "ミリアム",
+    "SST_Event_15_002": "任せたぞ…",
+    "SST_Event_B2_001": "血が足りないわ…",
+    "SST_Event_14_001": "…アルフレッド!",
+    "SST_Event_Clsc_Credits_001": "ご支援ありがとうございます！"
+  }
+}
