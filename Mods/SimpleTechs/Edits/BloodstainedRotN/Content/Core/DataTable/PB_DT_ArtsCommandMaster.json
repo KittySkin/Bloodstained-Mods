@@ -321,7 +321,7 @@
       "WeaponId": "HuntedBrad",
       "CostMP": 30,
       "ContinueCostMP": false,
-      "Expertise": 10,
+      "Expertise": -1,
       "States": [
         "EArtsCommandStatus::Walking"
       ],

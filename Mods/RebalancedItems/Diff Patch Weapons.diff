@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 22 03:55:00 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 21:54:58 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Mon Nov 30 05:00:45 2020
 @@ -18 +18 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -130,7 +130,7 @@
 +      "MeleeAttack": 30,
 @@ -4218 +4218 @@
 -      "MeleeAttack": 29,
-+      "MeleeAttack": 32,
++      "MeleeAttack": 54,
 @@ -4268 +4268 @@
 -      "MeleeAttack": 33,
 +      "MeleeAttack": 35,
@@ -379,6 +379,24 @@
 +      "EffScaleX": 1.00,
 +      "EffScaleY": 1.00,
 +      "EffScaleZ": 1.00,
+@@ -6460,2 +6460,2 @@
+-      "WeaponType": "EWeaponType::ShortSword",
+-      "BloodEffectStr": "NSW",
++      "WeaponType": "EWeaponType::Knife",
++      "BloodEffectStr": "SSW",
+@@ -6463,2 +6463,2 @@
+-      "WeaponEffectId": "P_AttackTrail_NS",
+-      "WeaponEffectAttribute": "Holy",
++      "WeaponEffectId": "P_AttackTrail_Knife",
++      "WeaponEffectAttribute": "None",
+@@ -6468,2 +6468,2 @@
+-      "MeleeAttack": 16,
+-      "MagicAttack": 16,
++      "MeleeAttack": 15,
++      "MagicAttack": 15,
+@@ -6476 +6476 @@
+-      "HOL": true,
++      "HOL": false,
 @@ -6483,6 +6483,6 @@
 -      "ScaleX": 1.0,
 -      "ScaleY": 1.0,
@@ -386,12 +404,30 @@
 -      "EffScaleX": 1.25,
 -      "EffScaleY": 1.05,
 -      "EffScaleZ": 1.25,
-+      "ScaleX": 1.4,
-+      "ScaleY": 1.4,
-+      "ScaleZ": 1.4,
-+      "EffScaleX": 1.65,
-+      "EffScaleY": 1.45,
-+      "EffScaleZ": 1.65,
++      "ScaleX": 0.5,
++      "ScaleY": 0.5,
++      "ScaleZ": 0.5,
++      "EffScaleX": 1.0,
++      "EffScaleY": 1.0,
++      "EffScaleZ": 1.0,
+@@ -6510,2 +6510,2 @@
+-      "WeaponType": "EWeaponType::ShortSword",
+-      "BloodEffectStr": "NSW",
++      "WeaponType": "EWeaponType::Knife",
++      "BloodEffectStr": "SSW",
+@@ -6513,2 +6513,2 @@
+-      "WeaponEffectId": "P_AttackTrail_NS",
+-      "WeaponEffectAttribute": "Holy",
++      "WeaponEffectId": "P_AttackTrail_Knife",
++      "WeaponEffectAttribute": "None",
+@@ -6518,2 +6518,2 @@
+-      "MeleeAttack": 32,
+-      "MagicAttack": 32,
++      "MeleeAttack": 31,
++      "MagicAttack": 31,
+@@ -6526 +6526 @@
+-      "HOL": true,
++      "HOL": false,
 @@ -6533,6 +6533,6 @@
 -      "ScaleX": 1.0,
 -      "ScaleY": 1.0,
@@ -399,25 +435,45 @@
 -      "EffScaleX": 1.25,
 -      "EffScaleY": 1.05,
 -      "EffScaleZ": 1.25,
-+      "ScaleX": 1.4,
-+      "ScaleY": 1.4,
-+      "ScaleZ": 1.4,
-+      "EffScaleX": 1.65,
-+      "EffScaleY": 1.45,
-+      "EffScaleZ": 1.65,
-@@ -6583,6 +6583,6 @@
++      "ScaleX": 0.5,
++      "ScaleY": 0.5,
++      "ScaleZ": 0.5,
++      "EffScaleX": 1.0,
++      "EffScaleY": 1.0,
++      "EffScaleZ": 1.0,
+@@ -6560,2 +6560,2 @@
+-      "WeaponType": "EWeaponType::ShortSword",
+-      "BloodEffectStr": "NSW",
++      "WeaponType": "EWeaponType::Knife",
++      "BloodEffectStr": "SSW",
+@@ -6563,2 +6563,2 @@
+-      "WeaponEffectId": "P_AttackTrail_NS",
+-      "WeaponEffectAttribute": "Holy",
++      "WeaponEffectId": "P_AttackTrail_Knife",
++      "WeaponEffectAttribute": "None",
+@@ -6568,2 +6568,2 @@
+-      "MeleeAttack": 46,
+-      "MagicAttack": 46,
++      "MeleeAttack": 45,
++      "MagicAttack": 45,
+@@ -6576 +6576 @@
+-      "HOL": true,
++      "HOL": false,
+@@ -6582,7 +6582,7 @@
+-      "SEID": "NF_Atk_Shortsword",
 -      "ScaleX": 1.0,
 -      "ScaleY": 1.0,
 -      "ScaleZ": 1.0,
 -      "EffScaleX": 1.25,
 -      "EffScaleY": 1.05,
 -      "EffScaleZ": 1.25,
-+      "ScaleX": 1.4,
-+      "ScaleY": 1.4,
-+      "ScaleZ": 1.4,
-+      "EffScaleX": 1.65,
-+      "EffScaleY": 1.45,
-+      "EffScaleZ": 1.65,
++      "SEID": "Atk_Sword_Small_02",
++      "ScaleX": 0.5,
++      "ScaleY": 0.5,
++      "ScaleZ": 0.5,
++      "EffScaleX": 1.0,
++      "EffScaleY": 1.0,
++      "EffScaleZ": 1.0,
 @@ -6618,2 +6618,2 @@
 -      "MeleeAttack": 11,
 -      "MagicAttack": 11,

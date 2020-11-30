@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_ArtsCommandMaster.json	Sun Nov 22 03:54:41 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/SimpleTechs/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArtsCommandMaster.json	Thu Nov 26 16:30:10 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/SimpleTechs/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArtsCommandMaster.json	Mon Nov 30 05:01:32 2020
 @@ -12 +12 @@
 -      "Expertise": 50,
 +      "Expertise": 10,
@@ -84,9 +84,6 @@
 -            "UTTypes": "NameProperty,FloatProperty"
 -          },
 -          {
-@@ -364 +324 @@
--      "Expertise": -1,
-+      "Expertise": 10,
 @@ -404 +364 @@
 -      "Expertise": 120,
 +      "Expertise": 10,
