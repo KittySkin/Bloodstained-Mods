@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 22 03:54:40 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 29 18:46:55 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Mon Nov 30 05:36:41 2020
 @@ -642 +642 @@
 -      "MagicDefense": 3,
 +      "MagicDefense": 8,
@@ -233,6 +233,9 @@
 @@ -2458 +2458 @@
 -      "STR": 3,
 +      "STR": 10,
+@@ -2500 +2500 @@
+-      "CUR": 10,
++      "CUR": 0,
 @@ -2503 +2503 @@
 -      "CON": 5,
 +      "CON": 10,
@@ -443,6 +446,88 @@
 +      "INT": 10,
 +      "MND": 20,
 +      "LUC": 10,
+@@ -6626 +6626 @@
+-      "MagicDefense": 9,
++      "MagicDefense": 37,
+@@ -6631 +6631 @@
+-      "ICE": 5,
++      "ICE": 10,
+@@ -6640 +6640 @@
+-      "INT": 0,
++      "INT": 8,
+@@ -6670 +6670 @@
+-      "MagicDefense": 9,
++      "MagicDefense": 37,
+@@ -6713,2 +6713,2 @@
+-      "MeleeDefense": 39,
+-      "MagicDefense": 19,
++      "MeleeDefense": 40,
++      "MagicDefense": 40,
+@@ -6722,3 +6722,3 @@
+-      "DAR": 8,
+-      "POI": 8,
+-      "CUR": 8,
++      "DAR": 0,
++      "POI": 5,
++      "CUR": 5,
+@@ -6726 +6726 @@
+-      "STR": 5,
++      "STR": 8,
+@@ -6728 +6728 @@
+-      "INT": 3,
++      "INT": 8,
+@@ -6757,2 +6757,2 @@
+-      "MeleeDefense": 39,
+-      "MagicDefense": 19,
++      "MeleeDefense": 40,
++      "MagicDefense": 40,
+@@ -6762,5 +6762,5 @@
+-      "FLA": 0,
+-      "ICE": 0,
+-      "LIG": 0,
+-      "HOL": 0,
+-      "DAR": 0,
++      "FLA": 5,
++      "ICE": 5,
++      "LIG": 5,
++      "HOL": 5,
++      "DAR": 5,
+@@ -6772 +6772 @@
+-      "INT": 5,
++      "INT": 8,
+@@ -6774 +6774 @@
+-      "LUC": 5,
++      "LUC": 8,
+@@ -6801,2 +6801,2 @@
+-      "MeleeDefense": 41,
+-      "MagicDefense": 41,
++      "MeleeDefense": 45,
++      "MagicDefense": 45,
+@@ -6817 +6817 @@
+-      "MND": 10,
++      "MND": 8,
+@@ -6846 +6846 @@
+-      "MagicDefense": 11,
++      "MagicDefense": 45,
+@@ -6858,2 +6858,2 @@
+-      "STR": 0,
+-      "CON": 0,
++      "STR": 8,
++      "CON": 8,
+@@ -6890 +6890 @@
+-      "MagicDefense": 13,
++      "MagicDefense": 52,
+@@ -6894,5 +6894,5 @@
+-      "FLA": 0,
+-      "ICE": 0,
+-      "LIG": 0,
+-      "HOL": 0,
+-      "DAR": 0,
++      "FLA": 10,
++      "ICE": 10,
++      "LIG": 10,
++      "HOL": 10,
++      "DAR": 10,
 @@ -6979,3 +6979,3 @@
 -      "ZAN": 0,
 -      "DAG": 0,
