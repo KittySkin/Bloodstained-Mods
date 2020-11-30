@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 22 03:55:00 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 21:21:28 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 29 21:54:58 2020
 @@ -18 +18 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -272,9 +272,11 @@
 -      "MagicAttack": 67,
 +      "MeleeAttack": 58,
 +      "MagicAttack": 58,
-@@ -5526 +5526 @@
+@@ -5526,2 +5526,2 @@
 -      "HOL": true,
+-      "DAR": false,
 +      "HOL": false,
++      "DAR": true,
 @@ -5532,4 +5532,4 @@
 -      "SEID": "Atk_Sword_Large_01",
 -      "ScaleX": 1.0,
@@ -431,8 +433,10 @@
 -      "MagicAttack": 34,
 +      "MeleeAttack": 46,
 +      "MagicAttack": 46,
-@@ -7064 +7064 @@
+@@ -7063,2 +7063,2 @@
+-      "WeaponEffectId": "P_AttackTrail_Club",
 -      "WeaponEffectAttribute": "Holy",
++      "WeaponEffectId": "P_AttackTrail_NS",
 +      "WeaponEffectAttribute": "Darkness",
 @@ -7068,2 +7068,2 @@
 -      "MeleeAttack": 18,
@@ -444,8 +448,10 @@
 -      "DAR": false,
 +      "HOL": false,
 +      "DAR": true,
-@@ -7114 +7114 @@
+@@ -7113,2 +7113,2 @@
+-      "WeaponEffectId": "P_AttackTrail_Club",
 -      "WeaponEffectAttribute": "Holy",
++      "WeaponEffectId": "P_AttackTrail_NS",
 +      "WeaponEffectAttribute": "Darkness",
 @@ -7118,2 +7118,2 @@
 -      "MeleeAttack": 36,
@@ -457,8 +463,10 @@
 -      "DAR": false,
 +      "HOL": false,
 +      "DAR": true,
-@@ -7164 +7164 @@
+@@ -7163,2 +7163,2 @@
+-      "WeaponEffectId": "P_AttackTrail_Club",
 -      "WeaponEffectAttribute": "Holy",
++      "WeaponEffectId": "P_AttackTrail_NS",
 +      "WeaponEffectAttribute": "Darkness",
 @@ -7168,2 +7168,2 @@
 -      "MeleeAttack": 52,
