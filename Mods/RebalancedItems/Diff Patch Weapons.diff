@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_WeaponMaster.json	Sun Nov 22 03:55:00 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Mon Nov 30 05:00:45 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_WeaponMaster.json	Mon Nov 30 21:54:52 2020
 @@ -18 +18 @@
 -      "MeleeAttack": 8,
 +      "MeleeAttack": 10,
@@ -54,13 +54,15 @@
 +      "MagicAttack": 33,
 @@ -814 +814 @@
 -      "WeaponEffectAttribute": "None",
-+      "WeaponEffectAttribute": "Darkness",
-@@ -819 +819 @@
++      "WeaponEffectAttribute": "Fire",
+@@ -818,2 +818,2 @@
+-      "MeleeAttack": 45,
 -      "MagicAttack": 0,
-+      "MagicAttack": 45,
-@@ -827 +827 @@
--      "DAR": false,
-+      "DAR": true,
++      "MeleeAttack": 40,
++      "MagicAttack": 40,
+@@ -823 +823 @@
+-      "FLA": false,
++      "FLA": true,
 @@ -1864 +1864 @@
 -      "WeaponEffectAttribute": "None",
 +      "WeaponEffectAttribute": "Darkness",
@@ -80,7 +82,7 @@
 +      "TOT": true,
 @@ -2018 +2018 @@
 -      "MeleeAttack": 23,
-+      "MeleeAttack": 25,
++      "MeleeAttack": 27,
 @@ -2121,2 +2121,2 @@
 -      "DAG": false,
 -      "TOT": false,
@@ -115,7 +117,7 @@
 +      "MagicAttack": 58,
 @@ -2668 +2668 @@
 -      "MeleeAttack": 14,
-+      "MeleeAttack": 16,
++      "MeleeAttack": 18,
 @@ -4018 +4018 @@
 -      "MeleeAttack": 13,
 +      "MeleeAttack": 14,
@@ -303,11 +305,16 @@
 @@ -6313 +6313 @@
 -      "WeaponEffectId": "P_AttackTrail_NS",
 +      "WeaponEffectId": "P_AttackTrail_Knife",
-@@ -6318,2 +6318,2 @@
+@@ -6318,3 +6318,3 @@
 -      "MeleeAttack": 16,
 -      "MagicAttack": 16,
+-      "ZAN": true,
 +      "MeleeAttack": 15,
 +      "MagicAttack": 15,
++      "ZAN": false,
+@@ -6322 +6322 @@
+-      "TOT": false,
++      "TOT": true,
 @@ -6332,7 +6332,7 @@
 -      "SEID": "NF_Atk_Shortsword",
 -      "ScaleX": 1.0,
@@ -331,11 +338,16 @@
 @@ -6363 +6363 @@
 -      "WeaponEffectId": "P_AttackTrail_NS",
 +      "WeaponEffectId": "P_AttackTrail_Knife",
-@@ -6368,2 +6368,2 @@
+@@ -6368,3 +6368,3 @@
 -      "MeleeAttack": 32,
 -      "MagicAttack": 32,
+-      "ZAN": true,
 +      "MeleeAttack": 31,
 +      "MagicAttack": 31,
++      "ZAN": false,
+@@ -6372 +6372 @@
+-      "TOT": false,
++      "TOT": true,
 @@ -6382,7 +6382,7 @@
 -      "SEID": "NF_Atk_Shortsword",
 -      "ScaleX": 1.0,
@@ -359,11 +371,16 @@
 @@ -6413 +6413 @@
 -      "WeaponEffectId": "P_AttackTrail_NS",
 +      "WeaponEffectId": "P_AttackTrail_Knife",
-@@ -6418,2 +6418,2 @@
+@@ -6418,3 +6418,3 @@
 -      "MeleeAttack": 46,
 -      "MagicAttack": 46,
+-      "ZAN": true,
 +      "MeleeAttack": 45,
 +      "MagicAttack": 45,
++      "ZAN": false,
+@@ -6422 +6422 @@
+-      "TOT": false,
++      "TOT": true,
 @@ -6432,7 +6432,7 @@
 -      "SEID": "NF_Atk_Shortsword",
 -      "ScaleX": 1.0,
@@ -389,11 +406,16 @@
 -      "WeaponEffectAttribute": "Holy",
 +      "WeaponEffectId": "P_AttackTrail_Knife",
 +      "WeaponEffectAttribute": "None",
-@@ -6468,2 +6468,2 @@
+@@ -6468,3 +6468,3 @@
 -      "MeleeAttack": 16,
 -      "MagicAttack": 16,
+-      "ZAN": true,
 +      "MeleeAttack": 15,
 +      "MagicAttack": 15,
++      "ZAN": false,
+@@ -6472 +6472 @@
+-      "TOT": false,
++      "TOT": true,
 @@ -6476 +6476 @@
 -      "HOL": true,
 +      "HOL": false,
@@ -420,11 +442,16 @@
 -      "WeaponEffectAttribute": "Holy",
 +      "WeaponEffectId": "P_AttackTrail_Knife",
 +      "WeaponEffectAttribute": "None",
-@@ -6518,2 +6518,2 @@
+@@ -6518,3 +6518,3 @@
 -      "MeleeAttack": 32,
 -      "MagicAttack": 32,
+-      "ZAN": true,
 +      "MeleeAttack": 31,
 +      "MagicAttack": 31,
++      "ZAN": false,
+@@ -6522 +6522 @@
+-      "TOT": false,
++      "TOT": true,
 @@ -6526 +6526 @@
 -      "HOL": true,
 +      "HOL": false,
@@ -451,11 +478,16 @@
 -      "WeaponEffectAttribute": "Holy",
 +      "WeaponEffectId": "P_AttackTrail_Knife",
 +      "WeaponEffectAttribute": "None",
-@@ -6568,2 +6568,2 @@
+@@ -6568,3 +6568,3 @@
 -      "MeleeAttack": 46,
 -      "MagicAttack": 46,
+-      "ZAN": true,
 +      "MeleeAttack": 45,
 +      "MagicAttack": 45,
++      "ZAN": false,
+@@ -6572 +6572 @@
+-      "TOT": false,
++      "TOT": true,
 @@ -6576 +6576 @@
 -      "HOL": true,
 +      "HOL": false,
