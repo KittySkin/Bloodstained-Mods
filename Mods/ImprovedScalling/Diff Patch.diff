@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_CoordinateParameter.json	Sun Nov 22 03:54:47 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/ImprovedScalling/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_CoordinateParameter.json	Sun Nov 29 11:25:00 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/ImprovedScalling/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_CoordinateParameter.json	Mon Nov 30 22:18:35 2020
 @@ -101 +101 @@
 -      "Value": 55.0
 +      "Value": 58.0
@@ -17,13 +17,13 @@
 +      "Value": 58.0
 @@ -323 +323 @@
 -      "Value": 1.5
-+      "Value": 2.0
++      "Value": 3.0
 @@ -329 +329 @@
 -      "Value": 1.8
 +      "Value": 2.4
 @@ -335 +335 @@
 -      "Value": 1.5
-+      "Value": 2.0
++      "Value": 3.0
 @@ -341 +341 @@
 -      "Value": 1.7
 +      "Value": 2.4
@@ -32,14 +32,20 @@
 +      "Value": 4.0
 @@ -365 +365 @@
 -      "Value": 1.25
-+      "Value": 1.8
++      "Value": 2.4
 @@ -371 +371 @@
 -      "Value": 1.0
 +      "Value": 1.5
 @@ -377 +377 @@
 -      "Value": 1.25
-+      "Value": 1.8
++      "Value": 2.4
 @@ -383 +383 @@
+-      "Value": 1.0
++      "Value": 1.5
+@@ -437 +437 @@
+-      "Value": 1.0
++      "Value": 1.5
+@@ -449 +449 @@
 -      "Value": 1.0
 +      "Value": 1.5
 @@ -467 +467 @@
