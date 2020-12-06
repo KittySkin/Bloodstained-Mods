@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Sun Nov 22 03:55:05 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/EnemyHardMod/Edits/BloodstainedRotN/Content/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Sat Nov 28 03:49:39 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/EnemyHardMod/Edits/BloodstainedRotN/Content/Core/DataTable/Enemy/PB_DT_CharacterParameterMaster.json	Wed Dec  2 03:38:25 2020
 @@ -30 +30 @@
 -      "HardEnemyLevel": 50,
 +      "HardEnemyLevel": 100,
@@ -1024,6 +1024,9 @@
 @@ -13185 +13185 @@
 -      "BloodlessModeEnemyHPOverride": 3000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -13196 +13196 @@
+-      "MaxHP99Enemy": 6666.0,
++      "MaxHP99Enemy": 15000.0,
 @@ -13281 +13281 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
@@ -1045,6 +1048,9 @@
 @@ -13387 +13387 @@
 -      "BloodlessModeEnemyHPOverride": 2000.0,
 +      "BloodlessModeEnemyHPOverride": 0.0,
+@@ -13398 +13398 @@
+-      "MaxHP99Enemy": 6666.0,
++      "MaxHP99Enemy": 15000.0,
 @@ -13483 +13483 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,
@@ -1069,6 +1075,9 @@
 @@ -13591 +13591 @@
 -      "BloodlessModeEnemyStrIntMultiplier": 0.6,
 +      "BloodlessModeEnemyStrIntMultiplier": 1.0,
+@@ -13600 +13600 @@
+-      "MaxHP99Enemy": 6666.0,
++      "MaxHP99Enemy": 15000.0,
 @@ -13685 +13685 @@
 -      "HardEnemyLevel": 54,
 +      "HardEnemyLevel": 100,

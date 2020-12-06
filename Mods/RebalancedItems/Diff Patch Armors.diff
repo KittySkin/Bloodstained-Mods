@@ -1,5 +1,5 @@
 --- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/Core/DataTable/PB_DT_ArmorMaster.json	Sun Nov 22 03:54:40 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Mon Nov 30 05:36:41 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/RebalancedItems/Edits/BloodstainedRotN/Content/Core/DataTable/PB_DT_ArmorMaster.json	Sat Dec  5 21:15:54 2020
 @@ -642 +642 @@
 -      "MagicDefense": 3,
 +      "MagicDefense": 8,
@@ -284,9 +284,7 @@
 @@ -4117 +4117 @@
 -      "MeleeDefense": 1,
 +      "MeleeDefense": 0,
-@@ -4161,18 +4161,18 @@
--      "MeleeDefense": 0,
--      "MagicDefense": 0,
+@@ -4163,16 +4163,16 @@
 -      "ZAN": 0,
 -      "DAG": 0,
 -      "TOT": 0,
@@ -303,23 +301,21 @@
 -      "INT": 10,
 -      "MND": 0,
 -      "LUC": -10,
-+      "MeleeDefense": -50,
-+      "MagicDefense": -50,
 +      "ZAN": -50,
 +      "DAG": -50,
 +      "TOT": -50,
-+      "FLA": -50,
-+      "ICE": -50,
-+      "LIG": -50,
-+      "HOL": -50,
++      "FLA": 50,
++      "ICE": 50,
++      "LIG": 50,
++      "HOL": 50,
 +      "DAR": 50,
 +      "POI": 50,
-+      "CUR": -50,
-+      "STO": -50,
-+      "STR": 50,
-+      "CON": -50,
-+      "INT": 50,
-+      "MND": -50,
++      "CUR": 50,
++      "STO": 50,
++      "STR": -50,
++      "CON": 50,
++      "INT": -50,
++      "MND": 50,
 +      "LUC": -50,
 @@ -4205,2 +4205,2 @@
 -      "MeleeDefense": 3,
@@ -346,7 +342,7 @@
 +      "MagicDefense": -50,
 @@ -4530 +4530 @@
 -      "LUC": 3,
-+      "LUC": 20,
++      "LUC": 50,
 @@ -4557,2 +4557,2 @@
 -      "MeleeDefense": 1,
 -      "MagicDefense": 0,
@@ -354,7 +350,7 @@
 +      "MagicDefense": -50,
 @@ -4574 +4574 @@
 -      "LUC": 5,
-+      "LUC": 20,
++      "LUC": 50,
 @@ -4601 +4601 @@
 -      "MeleeDefense": 1,
 +      "MeleeDefense": 0,
@@ -390,7 +386,7 @@
 +      "MagicDefense": -50,
 @@ -4838 +4838 @@
 -      "LUC": 7,
-+      "LUC": 20,
++      "LUC": 50,
 @@ -4909,2 +4909,2 @@
 -      "MeleeDefense": 1,
 -      "MagicDefense": 0,
@@ -404,7 +400,7 @@
 +      "INT": 0,
 @@ -4926 +4926 @@
 -      "LUC": 6,
-+      "LUC": 20,
++      "LUC": 50,
 @@ -5875,20 +5875,20 @@
 -      "MeleeAttack": 0,
 -      "MagicAttack": 0,

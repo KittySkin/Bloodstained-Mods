@@ -4158,23 +4158,23 @@
       "SpecialEffectId": "None",
       "MeleeAttack": 0,
       "MagicAttack": 0,
-      "MeleeDefense": -50,
-      "MagicDefense": -50,
+      "MeleeDefense": 0,
+      "MagicDefense": 0,
       "ZAN": -50,
       "DAG": -50,
       "TOT": -50,
-      "FLA": -50,
-      "ICE": -50,
-      "LIG": -50,
-      "HOL": -50,
+      "FLA": 50,
+      "ICE": 50,
+      "LIG": 50,
+      "HOL": 50,
       "DAR": 50,
       "POI": 50,
-      "CUR": -50,
-      "STO": -50,
-      "STR": 50,
-      "CON": -50,
-      "INT": 50,
-      "MND": -50,
+      "CUR": 50,
+      "STO": 50,
+      "STR": -50,
+      "CON": 50,
+      "INT": -50,
+      "MND": 50,
       "LUC": -50,
       "UniqeValue": 0.0
     }
@@ -4527,7 +4527,7 @@
       "CON": 0,
       "INT": 0,
       "MND": 0,
-      "LUC": 20,
+      "LUC": 50,
       "UniqeValue": 0.0
     }
   },
@@ -4571,7 +4571,7 @@
       "CON": 0,
       "INT": 0,
       "MND": 0,
-      "LUC": 20,
+      "LUC": 50,
       "UniqeValue": 0.0
     }
   },
@@ -4835,7 +4835,7 @@
       "CON": 0,
       "INT": 0,
       "MND": 0,
-      "LUC": 20,
+      "LUC": 50,
       "UniqeValue": 0.0
     }
   },
@@ -4923,7 +4923,7 @@
       "CON": 0,
       "INT": 0,
       "MND": 0,
-      "LUC": 20,
+      "LUC": 50,
       "UniqeValue": 0.0
     }
   },

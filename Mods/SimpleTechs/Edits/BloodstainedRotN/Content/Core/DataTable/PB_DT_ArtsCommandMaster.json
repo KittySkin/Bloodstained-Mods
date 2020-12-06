@@ -3589,7 +3589,7 @@
       "Character": "EPBGameModePlayer::Zangetsu",
       "WeaponCategory": "EWeaponType::All",
       "WeaponId": "None",
-      "CostMP": 0,
+      "CostMP": 15,
       "ContinueCostMP": false,
       "Expertise": -1,
       "States": [
