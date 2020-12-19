@@ -1,0 +1,44 @@
+--- C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/L10N/en/Core/StringTable/PBMasterStringTable.json	Fri Dec 11 01:04:39 2020
++++ C:/Git Repositories/Bloodstained-Mods/Mods/SimpleTechs/Edits Text/BloodstainedRotN/Content/L10N/en/Core/StringTable/PBMasterStringTable.json	Fri Dec 11 01:07:19 2020
+@@ -403 +403 @@
+-    "ARTS_TXT_001_00": "<span size=\"30\">Assassinate</>\r\n \r\nManeuver behind enemies and attack their blind side.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomLeft\"/><image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
++    "ARTS_TXT_001_00": "<span size=\"30\">Assassinate</>\r\n \r\nManeuver behind enemies and attack their blind side.\r\n \r\n<image id=\"Text_Command_Arrow_Right\"/><image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
+@@ -405 +405 @@
+-    "ARTS_TXT_002_00": "<span size=\"30\">Surprise Gift</>\r\n \r\nHurl your equipped weapon at enemies.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
++    "ARTS_TXT_002_00": "<span size=\"30\">Surprise Gift</>\r\n \r\nHurl your equipped weapon at enemies.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
+@@ -407 +407 @@
+-    "ARTS_TXT_003_00": "<span size=\"30\">Force Blast</>\r\n \r\nDraw on your sword's magical power and unleash it upon enemies.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
++    "ARTS_TXT_003_00": "<span size=\"30\">Force Blast</>\r\n \r\nDraw on your sword's magical power and unleash it upon enemies.\r\n \r\n<image id=\"Text_Command_Arrow_Up\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
+@@ -411 +411 @@
+-    "ARTS_TXT_005_00": "<span size=\"30\">Sickle Moon</>\r\n \r\nClose the distance and slash upward.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 60/s",
++    "ARTS_TXT_005_00": "<span size=\"30\">Sickle Moon</>\r\n \r\nClose the distance and slash upward.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 60/s",
+@@ -413 +413 @@
+-    "ARTS_TXT_006_00": "<span size=\"30\">Trucidating Gyre</>\r\n \r\nSpin toward enemies and transfer the momentum to your blade.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomLeft\"/><image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 50",
++    "ARTS_TXT_006_00": "<span size=\"30\">Trucidating Gyre</>\r\n \r\nSpin toward enemies and transfer the momentum to your blade.\r\n \r\n<image id=\"Text_Command_Arrow_Up\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 50",
+@@ -419 +419 @@
+-    "ARTS_TXT_009_00": "<span size=\"30\">Orbital Wheel</>\r\n \r\nCreate a defensive barrier by spinning your spear.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Up\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 60/s",
++    "ARTS_TXT_009_00": "<span size=\"30\">Orbital Wheel</>\r\n \r\nCreate a defensive barrier by spinning your spear.\r\n \r\n<image id=\"Text_Command_Arrow_Up\"/><image id=\"Text_Command_Arrow_Up\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 60/s",
+@@ -421 +421 @@
+-    "ARTS_TXT_010_00": "<span size=\"30\">Penetrate</>\r\n \r\nCharge through enemies with your spear at the ready.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 60/s",
++    "ARTS_TXT_010_00": "<span size=\"30\">Penetrate</>\r\n \r\nCharge through enemies with your spear at the ready.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 60/s",
+@@ -427 +427 @@
+-    "ARTS_TXT_013_00": "<span size=\"30\">Flashing Air Kick</>\r\n \r\nPerform up to three spinning kicks by repeating the same command.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 15",
++    "ARTS_TXT_013_00": "<span size=\"30\">Flashing Air Kick</>\r\n \r\nPerform up to three spinning kicks by repeating the same command.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 15",
+@@ -429 +429 @@
+-    "ARTS_TXT_014_00": "<span size=\"30\">Critical Swing</>\r\n \r\nLash at enemies with a single, mighty strike.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
++    "ARTS_TXT_014_00": "<span size=\"30\">Critical Swing</>\r\n \r\nLash at enemies with a single, mighty strike.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
+@@ -431 +431 @@
+-    "ARTS_TXT_015_00": "<span size=\"30\">Crimson Storm</>\r\n \r\nChannel your fighting spirit into your blade, then unleash it.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomLeft\"/><image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
++    "ARTS_TXT_015_00": "<span size=\"30\">Crimson Storm</>\r\n \r\nChannel your fighting spirit into your blade, then unleash it.\r\n \r\n<image id=\"Text_Command_Arrow_Up\"/><image id=\"Text_Command_Arrow_BottomLeft\"/><image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
+@@ -437 +437 @@
+-    "ARTS_TXT_018_00": "<span size=\"30\">Crescent Stroke</>\r\n \r\nSlash upward as if drawing an arc.\r\n \r\n<image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/><image id=\"Text_Command_Arrow_Up\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
++    "ARTS_TXT_018_00": "<span size=\"30\">Crescent Stroke</>\r\n \r\nSlash upward as if drawing an arc.\r\n \r\n<image id=\"Text_Command_Arrow_Up\"/><image id=\"Text_Command_Arrow_Up\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 30",
+@@ -439 +439 @@
+-    "ARTS_TXT_019_00": "<span size=\"30\">Sansetsuzan</>\r\n \r\nChain together up to three vicious strikes by repeating the command.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 20",
++    "ARTS_TXT_019_00": "<span size=\"30\">Sansetsuzan</>\r\n \r\nChain together up to three vicious strikes by repeating the command.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 20",
+@@ -443 +443 @@
+-    "ARTS_TXT_021_00": "<span size=\"30\">Rapid Fire</>\r\n \r\nHold the command button to keep firing.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 80/s",
++    "ARTS_TXT_021_00": "<span size=\"30\">Rapid Fire</>\r\n \r\nHold the command button to keep firing.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 80/s",
+@@ -445 +445 @@
+-    "ARTS_TXT_022_00": "<span size=\"30\">Power Slash</>\r\n \r\nA powerful one-handed blade attack.\r\n \r\n<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomLeft\"/><image id=\"Text_Command_Arrow_Left\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 20",
++    "ARTS_TXT_022_00": "<span size=\"30\">Power Slash</>\r\n \r\nA powerful one-handed blade attack.\r\n \r\n<image id=\"Text_Command_Arrow_Up\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>\r\n\r\nMP Cost: 20",

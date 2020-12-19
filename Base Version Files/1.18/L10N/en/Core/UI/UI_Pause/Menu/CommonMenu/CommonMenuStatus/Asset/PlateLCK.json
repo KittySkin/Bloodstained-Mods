@@ -1,0 +1,13 @@
+[
+  {
+    "ImportedSize": {
+      "X": 128,
+      "Y": 32
+    },
+    "LightingGuid": {
+      "FGuid": "05d399c3-0ab4-4ba0-b489-450804afd5b4"
+    },
+    "NeverStream": true,
+    "LODGroup": "TEXTUREGROUP_UI"
+  }
+]

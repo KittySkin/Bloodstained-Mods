@@ -1,0 +1,14 @@
+[
+  {
+    "ImportedSize": {
+      "X": 2048,
+      "Y": 512
+    },
+    "LightingGuid": {
+      "FGuid": "81497975-03db-4157-b542-52ddae100b5f"
+    },
+    "NeverStream": true,
+    "CompressionSettings": "TC_EditorIcon",
+    "LODGroup": "TEXTUREGROUP_UI"
+  }
+]
