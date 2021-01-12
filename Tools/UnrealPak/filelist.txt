@@ -1,1 +1,1 @@
-"C:\Git Repositories\Bloodstained-Mods\Mods\SimpleTechs\SimpelTexts\*.*" "..\..\..\*.*" 
+"C:\Git Repositories\Bloodstained-Mods\Mods\ImprovedGame\ImprovedGame\*.*" "..\..\..\*.*" 
