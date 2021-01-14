@@ -1,5 +1,0 @@
---- C:/Git Repositories/Bloodstained-Mods/Mods/SimpleTechs/Edits Text/BloodstainedRotN/Content/L10N/en/Core/StringTable/PBSystemStringTable.json	Fri Dec 11 01:07:42 2020
-+++ C:/Git Repositories/Bloodstained-Mods/Base Version Files/1.18/L10N/en/Core/StringTable/PBSystemStringTable.json	Fri Dec 11 01:04:39 2020
-@@ -1007 +1007 @@
--    "SYS_SEN_ZANGETSU_KOUJIN_COMMAND": "<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>:Wild God's Blade",
-+    "SYS_SEN_ZANGETSU_KOUJIN_COMMAND": "<image id=\"Text_Command_Arrow_Down\"/><image id=\"Text_Command_Arrow_BottomRight\"/><image id=\"Text_Command_Arrow_Right\"/> + <input id=\"Attack\"/>:Wild God's Blade",

@@ -1,0 +1,495 @@
+[
+  {
+    "Key": "ACHIEVE_01",
+    "Value": {
+      "DefaultId": "ACHIEVE_01",
+      "IsMetaAchievement": true,
+      "MetasRequiringThis": [],
+      "XboxAchievementId": "1"
+    }
+  },
+  {
+    "Key": "ACHIEVE_02",
+    "Value": {
+      "DefaultId": "ACHIEVE_02",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "2"
+    }
+  },
+  {
+    "Key": "ACHIEVE_03",
+    "Value": {
+      "DefaultId": "ACHIEVE_03",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "3"
+    }
+  },
+  {
+    "Key": "ACHIEVE_05",
+    "Value": {
+      "DefaultId": "ACHIEVE_05",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "4"
+    }
+  },
+  {
+    "Key": "ACHIEVE_04",
+    "Value": {
+      "DefaultId": "ACHIEVE_04",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "5"
+    }
+  },
+  {
+    "Key": "ACHIEVE_06",
+    "Value": {
+      "DefaultId": "ACHIEVE_06",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "6"
+    }
+  },
+  {
+    "Key": "ACHIEVE_08",
+    "Value": {
+      "DefaultId": "ACHIEVE_08",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "7"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "8"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "9"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "10"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "11"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "12"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "13"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "14"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "15"
+    }
+  },
+  {
+    "Key": "ACHIEVE_09",
+    "Value": {
+      "DefaultId": "ACHIEVE_09",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "16"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "17"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "18"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "19"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "20"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "21"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "22"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "23"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "24"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "25"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "26"
+    }
+  },
+  {
+    "Key": "ACHIEVE_07",
+    "Value": {
+      "DefaultId": "ACHIEVE_07",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "27"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "28"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "29"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "30"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "31"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "32"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "33"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "34"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "35"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "36"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "37"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "38"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "39"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "40"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "41"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "42"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "43"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "44"
+    }
+  },
+  {
+    "Key": "ACHIEVE",
+    "Value": {
+      "DefaultId": "ACHIEVE",
+      "IsMetaAchievement": false,
+      "MetasRequiringThis": [
+        "ACHIEVE_01"
+      ],
+      "XboxAchievementId": "45"
+    }
+  }
+]

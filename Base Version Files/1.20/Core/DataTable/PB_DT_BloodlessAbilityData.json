@@ -1,0 +1,596 @@
+[
+  {
+    "Key": "BLD_ABILITY_UMBRELLA",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_UMBRELLA",
+      "UnlockLinkedItem": "None",
+      "UnlockTutorialId": "None",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": true,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_UMBRELLA_CHARGE",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_UMBRELLA_CHARGE",
+      "UnlockLinkedItem": "Bronze",
+      "UnlockTutorialId": "BLD_UmbrellaCharge",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Blue"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_UMBRELLA_TOSS",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_UMBRELLA_TOSS",
+      "UnlockLinkedItem": "Iron",
+      "UnlockTutorialId": "BLD_UmbrellaToss",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_SCARLET_THRUST",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_SCARLET_THRUST",
+      "UnlockLinkedItem": "Obsidian",
+      "UnlockTutorialId": "BLD_ScarletThrust",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_SCARLET_THRUST",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_SCARLET_THRUST",
+      "UnlockLinkedItem": "Gusionfang",
+      "UnlockTutorialId": "BLD_ScarletThrust2",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_BLOOD_RAIN",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_BLOOD_RAIN",
+      "UnlockLinkedItem": "Steel",
+      "UnlockTutorialId": "BLD_BloodRain",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_BLOOD_PILLAR",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_BLOOD_PILLAR",
+      "UnlockLinkedItem": "Silver",
+      "UnlockTutorialId": "BLD_BloodPillar",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_BLOOD_PILLAR",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_BLOOD_PILLAR",
+      "UnlockLinkedItem": "Marbasfang",
+      "UnlockTutorialId": "BLD_BloodPillar2",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_SCARLET_CYCLONE",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_SCARLET_CYCLONE",
+      "UnlockLinkedItem": "DamascusSteel",
+      "UnlockTutorialId": "BLD_ScarletCyclone",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_BLOOD_STEAL",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_BLOOD_STEAL",
+      "UnlockLinkedItem": "Ectoplasm",
+      "UnlockTutorialId": "BLD_BloodSteal",
+      "IsMainStoryOnly": false,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Red"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_HIGH_JUMP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_HIGH_JUMP",
+      "UnlockLinkedItem": "Mithril",
+      "UnlockTutorialId": "BLD_HighJump",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Blue"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_SLIDE",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_SLIDE",
+      "UnlockLinkedItem": "Platinum",
+      "UnlockTutorialId": "BLD_Slide",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Blue"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Clystal",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Gold",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Hihiirokane",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Orichalcum",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Hemp",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Gaaphorn",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Gamiginhoof",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_STR_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_STR_UP",
+      "UnlockLinkedItem": "Glashtynhoof",
+      "UnlockTutorialId": "BLD_StrUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "Ruby",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "Sapphire",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "Emerald",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "Diamond",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "Bixbite",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "MeltedBone",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "Dragonbone",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_INT_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_INT_UP",
+      "UnlockLinkedItem": "Knightbone",
+      "UnlockTutorialId": "BLD_IntUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "Cotton",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "Felt",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "Silk",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "Gieremundfang",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "Wolfclaw",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "Bloodybone",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "MeltingSkull",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_CON_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_CON_UP",
+      "UnlockLinkedItem": "Jeneralskull",
+      "UnlockTutorialId": "BLD_ConUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Leather",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Halite",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Batfang",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Dragonclaw",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Apenail",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Warriorskull",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Bloodyskull",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MND_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MND_UP",
+      "UnlockLinkedItem": "Mimicshell",
+      "UnlockTutorialId": "BLD_MndUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_LCK_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_LCK_UP",
+      "UnlockLinkedItem": "DemonDogFang",
+      "UnlockTutorialId": "BLD_LckUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_LCK_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_LCK_UP",
+      "UnlockLinkedItem": "Ivory",
+      "UnlockTutorialId": "BLD_LckUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_LCK_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_LCK_UP",
+      "UnlockLinkedItem": "Devilsfang",
+      "UnlockTutorialId": "BLD_LckUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MP_REGEN_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MP_REGEN_UP",
+      "UnlockLinkedItem": "ElmLumber",
+      "UnlockTutorialId": "BLD_MPRegenUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MP_REGEN_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MP_REGEN_UP",
+      "UnlockLinkedItem": "OakLumber",
+      "UnlockTutorialId": "BLD_MPRegenUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_MP_REGEN_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_MP_REGEN_UP",
+      "UnlockLinkedItem": "WalnutLumber",
+      "UnlockTutorialId": "BLD_MPRegenUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Purple"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_FLOATING_UP",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_FLOATING_UP",
+      "UnlockLinkedItem": "MahoganyLumber",
+      "UnlockTutorialId": "BLD_FloatingUp",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Blue"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_WATER_PROTECT",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_WATER_PROTECT",
+      "UnlockLinkedItem": "CypressLumber",
+      "UnlockTutorialId": "BLD_WaterProtect",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Blue"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_SOUL_STEAL",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_SOUL_STEAL",
+      "UnlockLinkedItem": "Alexandrite",
+      "UnlockTutorialId": "BLD_SoulSteal",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Blue"
+    }
+  },
+  {
+    "Key": "BLD_ABILITY_GUILLOTINE_UMBRELLA",
+    "Value": {
+      "AbilityTypeEnum": "EPBBloodlessAbilityType::BLD_ABILITY_GUILLOTINE_UMBRELLA",
+      "UnlockLinkedItem": "Chicomecoatlhorn",
+      "UnlockTutorialId": "BLD_GuillotineUmbrella",
+      "IsMainStoryOnly": true,
+      "IsUnlockedByDefault": false,
+      "GimmickBloodColor": "EPBBloodColor::Blue"
+    }
+  }
+]
