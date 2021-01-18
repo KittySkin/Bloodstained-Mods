@@ -3831,5 +3831,40 @@
         ]
       ]
     }
+  },
+  {
+    "Key": "Aurora_Parry",
+    "Value": {
+      "ID": "EWpnSPEntry::NSword_Parry",
+      "Name": "",
+      "Character": "EPBGameModePlayer::ChildofLight",
+      "WeaponCategory": "EWeaponType::All",
+      "WeaponId": "None",
+      "CostMP": 0,
+      "ContinueCostMP": false,
+      "Expertise": -1,
+      "States": [
+        "EArtsCommandStatus::Walking"
+      ],
+      "Command": [
+        [
+          {
+            "Key": "6",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "6",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          },
+          {
+            "Key": "Attack",
+            "Time": 0.15,
+            "UTTypes": "NameProperty,FloatProperty"
+          }
+        ]
+      ]
+    }
   }
 ]

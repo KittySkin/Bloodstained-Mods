@@ -2640,6 +2640,50 @@
     }
   },
   {
+    "Key": "JourneyScarf",
+    "Value": {
+      "ReferencePath": {
+        "Package": "None",
+        "Path": ""
+      },
+      "MeshPath": {
+        "Package": "/Game/Core/Item/Accessories/Muff/Muff13/Mesh/SK_Muff13.SK_Muff13",
+        "Path": ""
+      },
+      "AttachPoint": "EWeaponAttachPoint::Soc_Muff",
+      "SlotType": "ECarriedCatalog::Muffler",
+      "Category": "None",
+      "OverlapTag": "",
+      "OverlapTag2": "",
+      "OverlapTag3": "",
+      "OverlapVisuals": false,
+      "OverlapSystem": false,
+      "Important": 0,
+      "SpecialEffectId": "None",
+      "MeleeAttack": 0,
+      "MagicAttack": 0,
+      "MeleeDefense": 3,
+      "MagicDefense": 0,
+      "ZAN": 0,
+      "DAG": 0,
+      "TOT": 0,
+      "FLA": 10,
+      "ICE": 0,
+      "LIG": 0,
+      "HOL": 10,
+      "DAR": 0,
+      "POI": 0,
+      "CUR": 0,
+      "STO": 0,
+      "STR": 0,
+      "CON": 0,
+      "INT": 2,
+      "MND": 2,
+      "LUC": 0,
+      "UniqeValue": 0.0
+    }
+  },
+  {
     "Key": "Elfearcap",
     "Value": {
       "ReferencePath": {

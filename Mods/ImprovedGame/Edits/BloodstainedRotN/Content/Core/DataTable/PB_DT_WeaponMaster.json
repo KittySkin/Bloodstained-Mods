@@ -9050,7 +9050,57 @@
     }
   },
   {
-    "Key": "COL_Flagarach",
+    "Key": "COL_SwordOfMathildis",
+    "Value": {
+      "ReferencePath": {
+        "Package": "/Game/Core/Item/Weapon/NSword/NSword01/Data/WPBP_NSword01",
+        "Path": ""
+      },
+      "AttachPoint": "EWeaponAttachPoint::Soc_Weapon_r",
+      "WeaponType": "EWeaponType::ShortSword",
+      "BloodEffectStr": "NSW",
+      "IsIceDamage": false,
+      "WeaponEffectId": "P_AttackTrail_NS",
+      "WeaponEffectAttribute": "None",
+      "SpecialEffectId": "None",
+      "SpecialEffectDenominator": 0.0,
+      "EnableArts": true,
+      "MeleeAttack": 12,
+      "MagicAttack": 0,
+      "ZAN": true,
+      "DAG": false,
+      "TOT": false,
+      "FLA": false,
+      "ICE": false,
+      "LIG": false,
+      "HOL": false,
+      "DAR": false,
+      "POI": false,
+      "CUR": false,
+      "STO": false,
+      "UniqeValue": 0.0,
+      "SEID": "NF_Atk_Shortsword",
+      "ScaleX": 1.0,
+      "ScaleY": 1.0,
+      "ScaleZ": 1.0,
+      "EffScaleX": 0.9,
+      "EffScaleY": 0.9,
+      "EffScaleZ": 1.1,
+      "ArchiveCameraRoll": -60.0,
+      "ArchiveCameraRangeScale": 1.0,
+      "ArchiveLocationX": 0.0,
+      "ArchiveLocationZ": 0.0,
+      "ArchiveRotationYaw": 0.0,
+      "ArchiveRotationPitch": 0.0,
+      "ArchiveRotationRoll": -90.0,
+      "ArchiveReferencePath": {
+        "Package": "None",
+        "Path": ""
+      }
+    }
+  },
+  {
+    "Key": "COL_Zangetsuto",
     "Value": {
       "ReferencePath": {
         "Package": "/Game/Core/Item/Weapon/NSword/NSword09/Data/WPBP_NSword09",
