@@ -164,7 +164,7 @@
   {
     "Key": "ChangeBunnyWeaponAtk",
     "Value": {
-      "Value": 58.0
+      "Value": 14.0
     }
   },
   {
@@ -926,13 +926,13 @@
   {
     "Key": "P0000_STEELCY_LARGEATTACK_CHARGE_RATE_MIN",
     "Value": {
-      "Value": 1.25
+      "Value": 1.75
     }
   },
   {
     "Key": "P0000_STEELCY_LARGEATTACK_CHARGE_RATE_MAX",
     "Value": {
-      "Value": 2.0
+      "Value": 4.75
     }
   },
   {

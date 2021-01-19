@@ -2504,7 +2504,8 @@
       "ContinueCostMP": true,
       "Expertise": 80,
       "States": [
-        "EArtsCommandStatus::Walking"
+        "EArtsCommandStatus::Walking",
+		"EArtsCommandStatus::Falling"							 
       ],
       "Command": [
         [
@@ -2539,7 +2540,8 @@
       "ContinueCostMP": true,
       "Expertise": 80,
       "States": [
-        "EArtsCommandStatus::Walking"
+        "EArtsCommandStatus::Walking",
+		"EArtsCommandStatus::Falling"							 
       ],
       "Command": [
         [
