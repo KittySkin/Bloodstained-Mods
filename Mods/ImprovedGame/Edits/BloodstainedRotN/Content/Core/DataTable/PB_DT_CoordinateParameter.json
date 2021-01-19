@@ -302,7 +302,7 @@
   {
     "Key": "MiriamGrowthCoeffLuc",
     "Value": {
-      "Value": 0.25
+      "Value": 1.0
     }
   },
   {
@@ -344,7 +344,7 @@
   {
     "Key": "ZangetsuGrowthCoeffLuc",
     "Value": {
-      "Value": 0.25
+      "Value": 1.0
     }
   },
   {
@@ -386,19 +386,19 @@
   {
     "Key": "BloodlessGrowthCoeffLuc",
     "Value": {
-      "Value": 0.25
+      "Value": 1.0
     }
   },
   {
     "Key": "BloodlessMainStoryModeMaxHpUpAmount",
     "Value": {
-      "Value": 15.0
+      "Value": 20.0
     }
   },
   {
     "Key": "BloodlessMainStoryModeMaxMpUpAmount",
     "Value": {
-      "Value": 3.0
+      "Value": 10.0
     }
   },
   {
